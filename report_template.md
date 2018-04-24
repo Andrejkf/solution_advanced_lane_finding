@@ -195,6 +195,8 @@ To ilustrate this process a sample image is shown below:
 4.1.1.  Function getlanelinesbase(): (cell 57 Jupyter notebook). histogram vector is computed and then convolved with wavelet(width). 
 4.1.2. The left line is assumed to be the first element returned by scipy.find_peaks_cwt()  and the rigth line is assumed to be the last element returned by the same function scipy.find_peaks_cwt().
 
+This is ilustrated below:
+[image15]: ./output_images/k_car_bird_eye/k2.png " bird eye view img "
 
 
 Then I did some other stuff and fit my lane lines with a 2nd order polynomial kinda like this:
@@ -272,11 +274,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5NDgyOTMyLC0xNjEyNTcxODY1LDE1NT
-EzNDgyNzksLTE2OTQxOTE4OTgsLTE4NzA1OTM2NzgsLTE2Mzc2
-MzMzMzEsNTg1MjAwMDQ4LC0xNjE3Njg0NDkxLC0xMTIwOTczMD
-Y0LDQyNzAxMDI3NiwxMjEzMDQ4NTU1LDEwNzMxNDM5MzUsMTAx
-NjMxNTQzMiwtNzQzMDg2NzQsMTk3NzQ0NTA3LDk3NTY4MjEwMS
-wxMTY4ODU2Mjg0LC0xMDMxNTczNTc1LC0xNTQ5NzE5ODcsMTUy
-NTUzOTc2Ml19
+eyJoaXN0b3J5IjpbLTIyNzMxNTQ2MiwtMTYxMjU3MTg2NSwxNT
+UxMzQ4Mjc5LC0xNjk0MTkxODk4LC0xODcwNTkzNjc4LC0xNjM3
+NjMzMzMxLDU4NTIwMDA0OCwtMTYxNzY4NDQ5MSwtMTEyMDk3Mz
+A2NCw0MjcwMTAyNzYsMTIxMzA0ODU1NSwxMDczMTQzOTM1LDEw
+MTYzMTU0MzIsLTc0MzA4Njc0LDE5Nzc0NDUwNyw5NzU2ODIxMD
+EsMTE2ODg1NjI4NCwtMTAzMTU3MzU3NSwtMTU0OTcxOTg3LDE1
+MjU1Mzk3NjJdfQ==
 -->
