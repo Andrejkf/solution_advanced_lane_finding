@@ -257,7 +257,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [image13]: ./output_images/k_car_bird_eye/k2.png " bird eye view img "
 
-[image14]: ./output_images/m_car_histograms_bird_eye/m2.png " full pipeline on img"
+[image14]: ./output_images/m_car_histograms_bird_eye/m2.png " histogram for wavelets"
 
 [image15]: ./output_images/k_car_bird_eye/k2.png " bird eye view img "
 
@@ -272,7 +272,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNzkzOTIxLC0xNjEyNTcxODY1LDE1NT
+eyJoaXN0b3J5IjpbNzQ5NDgyOTMyLC0xNjEyNTcxODY1LDE1NT
 EzNDgyNzksLTE2OTQxOTE4OTgsLTE4NzA1OTM2NzgsLTE2Mzc2
 MzMzMzEsNTg1MjAwMDQ4LC0xNjE3Njg0NDkxLC0xMTIwOTczMD
 Y0LDQyNzAxMDI3NiwxMjEzMDQ4NTU1LDEwNzMxNDM5MzUsMTAx
