@@ -83,8 +83,7 @@ These steps are ilustrated below:
 
 The goals / steps of this project are the following:
 
--   Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
--   Apply a distortion correction to raw images.
+
 -   Use color transforms, gradients, etc., to create a thresholded binary image.
 -   Apply a perspective transform to rectify binary image (“birds-eye view”).
 -   Detect lane pixels and fit to find the lane boundary.
@@ -97,7 +96,7 @@ The goals / steps of this project are the following:
 
 #### 1. Provide an example of a distortion-corrected image.
 
-After applying distortion correction to the chess board images I saved the camera matrix and distortion coefficients in a pickle file ([wide_dist_pickle.p](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/blob/master/wide_dist_pickle.p "wide_dist_pickle.p")). Then I loaded the same matrix and distortion coefficients and applied them to the test image provided in folder *./test_images*. Below there is an ilustration:
+After applying distortion correction to the chess board images I saved the camera matrix and distortion coefficients in a pickle file ([wide_dist_pickle.p](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/blob/master/wide_dist_pickle.p "wide_dist_pickle.p")). Then I loaded the same matrix and distortion coefficients and applied them to the raw test images provided in folder *./test_images*. Below there is an ilustration:
 <br/> ![alt text][image3]
 
 
@@ -206,7 +205,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDg2MjY3OCwxMDE2MzE1NDMyLC03ND
+eyJoaXN0b3J5IjpbMTA3MzE0MzkzNSwxMDE2MzE1NDMyLC03ND
 MwODY3NCwxOTc3NDQ1MDcsOTc1NjgyMTAxLDExNjg4NTYyODQs
 LTEwMzE1NzM1NzUsLTE1NDk3MTk4NywxNTI1NTM5NzYyLDIxMz
 A2MTUzMiwtMjAxOTg2MDY5XX0=
