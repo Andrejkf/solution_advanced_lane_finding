@@ -236,9 +236,7 @@ In here, an assumtion that the images correspond to a camera located on the cent
 
 5.2.1. A Function named *estimatedistancefromlane()* was defined. (Cell 64 Jupyter notebook). This was the funtion used to estimate vehicle distance from center.
 
-
-
-To ilustrate it the code is shown below:
+To ilustrate it a piace of the code is shown below:
 ```
 imghhalf = imgh/2    
     
@@ -324,7 +322,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MTA3MzAyLDExNjA2MDk2ODUsLTE4MD
+eyJoaXN0b3J5IjpbMTk4Mjk4NDU4LDExNjA2MDk2ODUsLTE4MD
 A1NDgxNzAsNTk2Njg0NjkyLDU5MTc5NjYyMSwxNjI1OTkzNDQz
 LDEzODAwMzI4ODcsNTM2ODMwOTM3LDk4NjUwMDY3MSwtMTYxMj
 U3MTg2NSwxNTUxMzQ4Mjc5LC0xNjk0MTkxODk4LC0xODcwNTkz
