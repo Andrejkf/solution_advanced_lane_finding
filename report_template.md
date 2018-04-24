@@ -278,9 +278,11 @@ In addition,  you may want to watch them in your browser using the following lin
 
 #### 1. Briefly discuss any problems / issues you faced in your implementation of this project.  Where will your pipeline likely fail?  What could you do to make it more robust?
 
+
+
 Here I'll talk about the approach I took, what techniques I used, what worked and why, where the pipeline might fail and how I might improve it if I were going to pursue this project further.  
 
-
+Thank you very much for taking part of your time reading this document.
 
 [//]: # (Image References)
 
@@ -319,11 +321,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM4NTcxNTE4LC0xMDcyNzc2OTI1LC0xOT
-YzODcwODI4LDcwNDM2NjMyMCwtMzMxMjExODAwLDI4NzYxNjcy
-NCwtMTkzMjYzMjQ4NSwxOTIxOTgxMjE3LDExNjA2MDk2ODUsLT
-E4MDA1NDgxNzAsNTk2Njg0NjkyLDU5MTc5NjYyMSwxNjI1OTkz
-NDQzLDEzODAwMzI4ODcsNTM2ODMwOTM3LDk4NjUwMDY3MSwtMT
-YxMjU3MTg2NSwxNTUxMzQ4Mjc5LC0xNjk0MTkxODk4LC0xODcw
-NTkzNjc4XX0=
+eyJoaXN0b3J5IjpbNTg1NjEyNTEwLDQzODU3MTUxOCwtMTA3Mj
+c3NjkyNSwtMTk2Mzg3MDgyOCw3MDQzNjYzMjAsLTMzMTIxMTgw
+MCwyODc2MTY3MjQsLTE5MzI2MzI0ODUsMTkyMTk4MTIxNywxMT
+YwNjA5Njg1LC0xODAwNTQ4MTcwLDU5NjY4NDY5Miw1OTE3OTY2
+MjEsMTYyNTk5MzQ0MywxMzgwMDMyODg3LDUzNjgzMDkzNyw5OD
+Y1MDA2NzEsLTE2MTI1NzE4NjUsMTU1MTM0ODI3OSwtMTY5NDE5
+MTg5OF19
 -->
