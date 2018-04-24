@@ -251,7 +251,7 @@ imghhalf = imgh/2
 ```
 
 
-#### 6. Lane area is identification.
+#### 6. Lane area  identification.
 
 ##### Provide an example image of your result plotted back down onto the road such that the lane area is identified clearly.
 
@@ -323,11 +323,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MDYwOTY4NSwtMTgwMDU0ODE3MCw1OT
-Y2ODQ2OTIsNTkxNzk2NjIxLDE2MjU5OTM0NDMsMTM4MDAzMjg4
-Nyw1MzY4MzA5MzcsOTg2NTAwNjcxLC0xNjEyNTcxODY1LDE1NT
-EzNDgyNzksLTE2OTQxOTE4OTgsLTE4NzA1OTM2NzgsLTE2Mzc2
-MzMzMzEsNTg1MjAwMDQ4LC0xNjE3Njg0NDkxLC0xMTIwOTczMD
-Y0LDQyNzAxMDI3NiwxMjEzMDQ4NTU1LDEwNzMxNDM5MzUsMTAx
-NjMxNTQzMl19
+eyJoaXN0b3J5IjpbLTc3NTQ2Njk0NSwxMTYwNjA5Njg1LC0xOD
+AwNTQ4MTcwLDU5NjY4NDY5Miw1OTE3OTY2MjEsMTYyNTk5MzQ0
+MywxMzgwMDMyODg3LDUzNjgzMDkzNyw5ODY1MDA2NzEsLTE2MT
+I1NzE4NjUsMTU1MTM0ODI3OSwtMTY5NDE5MTg5OCwtMTg3MDU5
+MzY3OCwtMTYzNzYzMzMzMSw1ODUyMDAwNDgsLTE2MTc2ODQ0OT
+EsLTExMjA5NzMwNjQsNDI3MDEwMjc2LDEyMTMwNDg1NTUsMTA3
+MzE0MzkzNV19
 -->
