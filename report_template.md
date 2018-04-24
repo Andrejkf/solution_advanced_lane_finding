@@ -181,6 +181,7 @@ This is a shot part of code to ilustrate it:
 To ilustrate this process a sample image is shown below:
 <br/> ![alt text][image11]
 <br/> ![alt text][image12]
+<br/> ![alt text][image13]
 
 
 The code for my perspective transform includes a function called `warper()`, which appears in lines 1 through 8 in the file `example.py` (output_images/examples/example.py) (or, for example, in the 3rd code cell of the IPython notebook).  The `warper()` function takes as inputs an image (`img`), as well as source (`src`) and destination (`dst`) points.  I chose the hardcode the source and destination points in the following manner:
@@ -291,7 +292,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg3OTc0NDUyLC0xODcwNTkzNjc4LC0xNj
+eyJoaXN0b3J5IjpbMjAxOTAyMjc5LC0xODcwNTkzNjc4LC0xNj
 M3NjMzMzMxLDU4NTIwMDA0OCwtMTYxNzY4NDQ5MSwtMTEyMDk3
 MzA2NCw0MjcwMTAyNzYsMTIxMzA0ODU1NSwxMDczMTQzOTM1LD
 EwMTYzMTU0MzIsLTc0MzA4Njc0LDE5Nzc0NDUwNyw5NzU2ODIx
