@@ -254,7 +254,7 @@ imghhalf = imgh/2
 
 ##### Provide an example image of your result plotted back down onto the road such that the lane area is identified clearly.
 
-In cell 28 from jupyter notebook was defined a full pipeline where a distorted RGB image is feeded and the predicted lane area is overlapped to the image to check prediction.
+In cell 28 from jupyter notebook was defined a *full pipeline* where a distorted images in RGB color space are feeded and the predicted lane area is overlapped to the image in order to check and visualize the lane prediction.
 
 An ilustration is shown below:
 <br/> ![alt text][image15]
@@ -322,11 +322,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MjQxMTM0MywxMTYwNjA5Njg1LC0xOD
-AwNTQ4MTcwLDU5NjY4NDY5Miw1OTE3OTY2MjEsMTYyNTk5MzQ0
-MywxMzgwMDMyODg3LDUzNjgzMDkzNyw5ODY1MDA2NzEsLTE2MT
-I1NzE4NjUsMTU1MTM0ODI3OSwtMTY5NDE5MTg5OCwtMTg3MDU5
-MzY3OCwtMTYzNzYzMzMzMSw1ODUyMDAwNDgsLTE2MTc2ODQ0OT
-EsLTExMjA5NzMwNjQsNDI3MDEwMjc2LDEyMTMwNDg1NTUsMTA3
-MzE0MzkzNV19
+eyJoaXN0b3J5IjpbNzA5MzY3Mjk5LDExNjA2MDk2ODUsLTE4MD
+A1NDgxNzAsNTk2Njg0NjkyLDU5MTc5NjYyMSwxNjI1OTkzNDQz
+LDEzODAwMzI4ODcsNTM2ODMwOTM3LDk4NjUwMDY3MSwtMTYxMj
+U3MTg2NSwxNTUxMzQ4Mjc5LC0xNjk0MTkxODk4LC0xODcwNTkz
+Njc4LC0xNjM3NjMzMzMxLDU4NTIwMDA0OCwtMTYxNzY4NDQ5MS
+wtMTEyMDk3MzA2NCw0MjcwMTAyNzYsMTIxMzA0ODU1NSwxMDcz
+MTQzOTM1XX0=
 -->
