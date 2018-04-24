@@ -176,7 +176,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [image3]: ./output_images1/b_undistorted_chess_images/b14.png " original and undistorted chess "
 
-[image4]: ./output_images1/c_undistorted_car_test_images/c6.png "  "
+[image4]: ./output_images1/c_undistorted_car_test_images/c6.png " original and undistorted img "
 
 [image5]: ./output_images1/a_chess_corners/ "  "
 
@@ -199,7 +199,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjYwMjgxLDExNjg4NTYyODQsLTEwMz
+eyJoaXN0b3J5IjpbOTc1NjgyMTAxLDExNjg4NTYyODQsLTEwMz
 E1NzM1NzUsLTE1NDk3MTk4NywxNTI1NTM5NzYyLDIxMzA2MTUz
 MiwtMjAxOTg2MDY5XX0=
 -->
