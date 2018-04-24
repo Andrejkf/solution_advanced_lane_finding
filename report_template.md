@@ -247,10 +247,9 @@ imghhalf = imgh/2
 
 In cell 28 from jupyter notebook is defined a full pipeline where a distorted RGB image is feeded and the predicted lane area is overlapped to the image to check prediction.
 
+An ex
 
-I implemented this step in lines # through # in my code in `yet_another_file.py` in the function `map_lane()`.  Here is an example of my result on a test image:
 
-![alt text][image6]
 
 ---
 
@@ -313,11 +312,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTk1ODA0Miw1MzY4MzA5MzcsOTg2NT
-AwNjcxLC0xNjEyNTcxODY1LDE1NTEzNDgyNzksLTE2OTQxOTE4
-OTgsLTE4NzA1OTM2NzgsLTE2Mzc2MzMzMzEsNTg1MjAwMDQ4LC
-0xNjE3Njg0NDkxLC0xMTIwOTczMDY0LDQyNzAxMDI3NiwxMjEz
-MDQ4NTU1LDEwNzMxNDM5MzUsMTAxNjMxNTQzMiwtNzQzMDg2Nz
-QsMTk3NzQ0NTA3LDk3NTY4MjEwMSwxMTY4ODU2Mjg0LC0xMDMx
-NTczNTc1XX0=
+eyJoaXN0b3J5IjpbMjczNjkzNTg1LDUzNjgzMDkzNyw5ODY1MD
+A2NzEsLTE2MTI1NzE4NjUsMTU1MTM0ODI3OSwtMTY5NDE5MTg5
+OCwtMTg3MDU5MzY3OCwtMTYzNzYzMzMzMSw1ODUyMDAwNDgsLT
+E2MTc2ODQ0OTEsLTExMjA5NzMwNjQsNDI3MDEwMjc2LDEyMTMw
+NDg1NTUsMTA3MzE0MzkzNSwxMDE2MzE1NDMyLC03NDMwODY3NC
+wxOTc3NDQ1MDcsOTc1NjgyMTAxLDExNjg4NTYyODQsLTEwMzE1
+NzM1NzVdfQ==
 -->
