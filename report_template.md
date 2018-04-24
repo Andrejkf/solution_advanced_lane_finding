@@ -276,13 +276,18 @@ In addition,  you may want to watch them in your browser using the following lin
 
 ### Discussion
 
-#### 1. Briefly discuss any problems / issues you faced in your implementation of this project.  Where will your pipeline likely fail?  What could you do to make it more robust?
+##### Briefly discuss any problems / issues you faced in your implementation of this project.  Where will your pipeline likely fail?  What could you do to make it more robust?
 
+#### Problems detected
 To make this solution approach more robust outliers (lane lines detection) should be added. 
 
 I have noticed that sometimes the model returns slope estimations divinding by zero, so this is something to related with the slope calculation and might be improved.
 
-If I were going further on this project I would install a camera on a car and I would test this model again
+If I were going further on this project I would install a camera on a car and I would test this model again.
+
+It will be amaizing
+
+Improvem
 
 
 Thank you very much for taking part of your time reading this document.
@@ -324,11 +329,11 @@ Thank you very much for taking part of your time reading this document.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk1ODk5MDEzLDQzODU3MTUxOCwtMTA3Mj
-c3NjkyNSwtMTk2Mzg3MDgyOCw3MDQzNjYzMjAsLTMzMTIxMTgw
-MCwyODc2MTY3MjQsLTE5MzI2MzI0ODUsMTkyMTk4MTIxNywxMT
-YwNjA5Njg1LC0xODAwNTQ4MTcwLDU5NjY4NDY5Miw1OTE3OTY2
-MjEsMTYyNTk5MzQ0MywxMzgwMDMyODg3LDUzNjgzMDkzNyw5OD
-Y1MDA2NzEsLTE2MTI1NzE4NjUsMTU1MTM0ODI3OSwtMTY5NDE5
-MTg5OF19
+eyJoaXN0b3J5IjpbLTU2NzE1ODMzMiw0Mzg1NzE1MTgsLTEwNz
+I3NzY5MjUsLTE5NjM4NzA4MjgsNzA0MzY2MzIwLC0zMzEyMTE4
+MDAsMjg3NjE2NzI0LC0xOTMyNjMyNDg1LDE5MjE5ODEyMTcsMT
+E2MDYwOTY4NSwtMTgwMDU0ODE3MCw1OTY2ODQ2OTIsNTkxNzk2
+NjIxLDE2MjU5OTM0NDMsMTM4MDAzMjg4Nyw1MzY4MzA5MzcsOT
+g2NTAwNjcxLC0xNjEyNTcxODY1LDE1NTEzNDgyNzksLTE2OTQx
+OTE4OThdfQ==
 -->
