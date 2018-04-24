@@ -66,7 +66,7 @@ To get the camera matrix and distortion coefficients in file *camera_calibration
 This steps are ilustrated below:
 <br/> ![alt text][image1]
 <br/> ![alt text][image2]
-<br/> ![alt text][image3]
+
 
 ##### Steps
 1. Get inner corners.
@@ -204,7 +204,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTc5NDYxNSwxOTc3NDQ1MDcsOTc1Nj
-gyMTAxLDExNjg4NTYyODQsLTEwMzE1NzM1NzUsLTE1NDk3MTk4
-NywxNTI1NTM5NzYyLDIxMzA2MTUzMiwtMjAxOTg2MDY5XX0=
+eyJoaXN0b3J5IjpbLTE3OTQ4MjIyNjMsMTk3NzQ0NTA3LDk3NT
+Y4MjEwMSwxMTY4ODU2Mjg0LC0xMDMxNTczNTc1LC0xNTQ5NzE5
+ODcsMTUyNTUzOTc2MiwyMTMwNjE1MzIsLTIwMTk4NjA2OV19
 -->
