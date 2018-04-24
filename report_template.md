@@ -110,7 +110,8 @@ After applying distortion correction to the chess board images I saved the camer
 
 ##### Describe how (and identify where in your code) you used color transforms, gradients or other methods to create a thresholded binary image.  Provide an example of a binary image result.
 
-Initially I tried to use a color combination using a yellow_white color mask between HSV and HSL color spaces, but then I noticed that the S channel and L channel can be used separately to generate binary images. Also I tested sobel gradients in x direction, y direction, magnitud threshold and angle direction thresholds but for simplicity I used 
+Initially I tried to use a color combination using a yellow_white color mask between HSV and HSL color spaces, but then I noticed that the S channel and L channel can be used separately to generate binary images. Also I tested sobel gradients in x direction, y direction, magnitud threshold and angle direction thresholds but for simplicity I used gradients in x direction.
+Note: I believe that x_treshold, y_threshold, magnitude_threshol and dire
 I applied a combination of 
 
 -   Use color transforms, gradients, etc., to create a thresholded binary image.
@@ -214,7 +215,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzODI1NzEzNywxMDczMTQzOTM1LDEwMT
+eyJoaXN0b3J5IjpbMTMwNTcyOTY1MCwxMDczMTQzOTM1LDEwMT
 YzMTU0MzIsLTc0MzA4Njc0LDE5Nzc0NDUwNyw5NzU2ODIxMDEs
 MTE2ODg1NjI4NCwtMTAzMTU3MzU3NSwtMTU0OTcxOTg3LDE1Mj
 U1Mzk3NjIsMjEzMDYxNTMyLC0yMDE5ODYwNjldfQ==
