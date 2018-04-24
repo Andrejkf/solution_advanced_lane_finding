@@ -185,6 +185,8 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [image5]: ./output_images/a_chess_corners/ "  "
 
+[image6]: ./output_images/a_chess_corners/ "  "
+
 [image7]: ./output_images/a_chess_corners/ "  "
 
 [image8]: ./output_images/a_chess_corners/ "  "
@@ -202,7 +204,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTg3ODMwNTgsMTk3NzQ0NTA3LDk3NT
-Y4MjEwMSwxMTY4ODU2Mjg0LC0xMDMxNTczNTc1LC0xNTQ5NzE5
-ODcsMTUyNTUzOTc2MiwyMTMwNjE1MzIsLTIwMTk4NjA2OV19
+eyJoaXN0b3J5IjpbLTk2OTc5NDYxNSwxOTc3NDQ1MDcsOTc1Nj
+gyMTAxLDExNjg4NTYyODQsLTEwMzE1NzM1NzUsLTE1NDk3MTk4
+NywxNTI1NTM5NzYyLDIxMzA2MTUzMiwtMjAxOTg2MDY5XX0=
 -->
