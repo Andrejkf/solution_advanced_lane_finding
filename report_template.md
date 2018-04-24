@@ -117,7 +117,7 @@ Note: I believe that x_treshold, y_threshold, magnitude_threshol and direction_t
 The values of threshold used where tunned by trial and error looking to reduce all possible points/pixels that might introduce noise in the predictions.
 
 All that said, I defined the following functions:
-* hls
+* hls_wyMask(). (cell 27 jupyter notebook). Used to apply a color white-yellow mask keeping threshold values 
 
 
 I applied a combination of 
@@ -223,9 +223,9 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDM0ODMyMiwxMjEzMDQ4NTU1LDEwNz
-MxNDM5MzUsMTAxNjMxNTQzMiwtNzQzMDg2NzQsMTk3NzQ0NTA3
-LDk3NTY4MjEwMSwxMTY4ODU2Mjg0LC0xMDMxNTczNTc1LC0xNT
-Q5NzE5ODcsMTUyNTUzOTc2MiwyMTMwNjE1MzIsLTIwMTk4NjA2
-OV19
+eyJoaXN0b3J5IjpbLTE4NzQzMTc5ODQsMTIxMzA0ODU1NSwxMD
+czMTQzOTM1LDEwMTYzMTU0MzIsLTc0MzA4Njc0LDE5Nzc0NDUw
+Nyw5NzU2ODIxMDEsMTE2ODg1NjI4NCwtMTAzMTU3MzU3NSwtMT
+U0OTcxOTg3LDE1MjU1Mzk3NjIsMjEzMDYxNTMyLC0yMDE5ODYw
+NjldfQ==
 -->
