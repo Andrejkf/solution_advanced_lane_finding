@@ -1,6 +1,6 @@
 ## Project 4 term1. Advanced lane Finding
 
-### Note: I used template for my report.
+### Note: I used the template provided for my report.
 
 ---
 
@@ -295,8 +295,6 @@ I also have noticed that for some images *noisy binary images* during the image 
 * It would be very good to try other aproaches *for low curvature radius* road lane lines values  like *splines* or *high order wavelets generation*.
 
 
-
-
 *Note for the reader: Thank you very much for taking part of your time reading this document.*
 
 [//]: # (Image References)
@@ -336,7 +334,7 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTQ4OTM5MjksNDM4NTcxNTE4LC0xMD
+eyJoaXN0b3J5IjpbLTEzMDYxNTY3MDMsNDM4NTcxNTE4LC0xMD
 cyNzc2OTI1LC0xOTYzODcwODI4LDcwNDM2NjMyMCwtMzMxMjEx
 ODAwLDI4NzYxNjcyNCwtMTkzMjYzMjQ4NSwxOTIxOTgxMjE3LD
 ExNjA2MDk2ODUsLTE4MDA1NDgxNzAsNTk2Njg0NjkyLDU5MTc5
