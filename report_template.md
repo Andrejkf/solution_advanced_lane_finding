@@ -271,9 +271,9 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [image12]: ./output_images/i_car_roi_combined_binary_images/i2.png " roi in binary img "
 
-[image12]: ./output_images/k_car_bird_eye/k2.png " bird eye view img "
+[image13]: ./output_images/k_car_bird_eye/k2.png " bird eye view img "
 
-[image13]: ./output_images/l_car_full_pipeline/l2.png " full pipeline on img"
+[image14]: ./output_images/l_car_full_pipeline/l2.png " full pipeline on img"
 
 
 
@@ -291,10 +291,10 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzE1ODI4NTgsLTE4NzA1OTM2NzgsLT
-E2Mzc2MzMzMzEsNTg1MjAwMDQ4LC0xNjE3Njg0NDkxLC0xMTIw
-OTczMDY0LDQyNzAxMDI3NiwxMjEzMDQ4NTU1LDEwNzMxNDM5Mz
-UsMTAxNjMxNTQzMiwtNzQzMDg2NzQsMTk3NzQ0NTA3LDk3NTY4
-MjEwMSwxMTY4ODU2Mjg0LC0xMDMxNTczNTc1LC0xNTQ5NzE5OD
-csMTUyNTUzOTc2MiwyMTMwNjE1MzIsLTIwMTk4NjA2OV19
+eyJoaXN0b3J5IjpbNTg3OTc0NDUyLC0xODcwNTkzNjc4LC0xNj
+M3NjMzMzMxLDU4NTIwMDA0OCwtMTYxNzY4NDQ5MSwtMTEyMDk3
+MzA2NCw0MjcwMTAyNzYsMTIxMzA0ODU1NSwxMDczMTQzOTM1LD
+EwMTYzMTU0MzIsLTc0MzA4Njc0LDE5Nzc0NDUwNyw5NzU2ODIx
+MDEsMTE2ODg1NjI4NCwtMTAzMTU3MzU3NSwtMTU0OTcxOTg3LD
+E1MjU1Mzk3NjIsMjEzMDYxNTMyLC0yMDE5ODYwNjldfQ==
 -->
