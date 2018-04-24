@@ -309,7 +309,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [image14]: ./output_images/m_car_histograms_bird_eye/m2.png " histogram for wavelets"
 
-[image15]: ./output_images/k_car_bird_eye/k2.png " bird eye view img "
+[image15]: ./output_images/l_car_full_pipeline/l2.png " bird eye view img "
 
 
 
@@ -322,11 +322,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzI2MzI0ODUsMTkyMTk4MTIxNywxMT
-YwNjA5Njg1LC0xODAwNTQ4MTcwLDU5NjY4NDY5Miw1OTE3OTY2
-MjEsMTYyNTk5MzQ0MywxMzgwMDMyODg3LDUzNjgzMDkzNyw5OD
-Y1MDA2NzEsLTE2MTI1NzE4NjUsMTU1MTM0ODI3OSwtMTY5NDE5
-MTg5OCwtMTg3MDU5MzY3OCwtMTYzNzYzMzMzMSw1ODUyMDAwND
-gsLTE2MTc2ODQ0OTEsLTExMjA5NzMwNjQsNDI3MDEwMjc2LDEy
-MTMwNDg1NTVdfQ==
+eyJoaXN0b3J5IjpbMTM3ODYyNDA0NCwtMTkzMjYzMjQ4NSwxOT
+IxOTgxMjE3LDExNjA2MDk2ODUsLTE4MDA1NDgxNzAsNTk2Njg0
+NjkyLDU5MTc5NjYyMSwxNjI1OTkzNDQzLDEzODAwMzI4ODcsNT
+M2ODMwOTM3LDk4NjUwMDY3MSwtMTYxMjU3MTg2NSwxNTUxMzQ4
+Mjc5LC0xNjk0MTkxODk4LC0xODcwNTkzNjc4LC0xNjM3NjMzMz
+MxLDU4NTIwMDA0OCwtMTYxNzY4NDQ5MSwtMTEyMDk3MzA2NCw0
+MjcwMTAyNzZdfQ==
 -->
