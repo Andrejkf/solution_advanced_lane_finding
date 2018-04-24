@@ -132,7 +132,7 @@ An image to ilustrate the process is shown below:
 <br/> ![alt text][image6]
 <br/> ![alt text][image7]
 <br/> ![alt text][image8]
-<br/>**This an sample of a  final combined binary image**
+<br/>**This a sample of a  final combined binary image**
 <br/> ![alt text][image9]
 
 #### 3. Describe how (and identify where in your code) you performed a perspective transform and provide an example of a transformed image.
@@ -243,7 +243,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjk2MTkzMDQsLTE2MTc2ODQ0OTEsLT
+eyJoaXN0b3J5IjpbLTE3Mjg0NTc3NDgsLTE2MTc2ODQ0OTEsLT
 ExMjA5NzMwNjQsNDI3MDEwMjc2LDEyMTMwNDg1NTUsMTA3MzE0
 MzkzNSwxMDE2MzE1NDMyLC03NDMwODY3NCwxOTc3NDQ1MDcsOT
 c1NjgyMTAxLDExNjg4NTYyODQsLTEwMzE1NzM1NzUsLTE1NDk3
