@@ -33,7 +33,10 @@ Images for camera calibration are localted on folder **./output_images** . This 
 
 * [c_undistorted_car_test_images](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/tree/master/output_images/c_undistorted_car_test_images "c_undistorted_car_test_images"): Folder comparing orginal and undistorted test images from the driving car.
 
-* [cx_car_gray_images](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/tree/master/output_images/cx_car_gray_images "cx_car_gray_images"): Folder showing binary images in gra
+* [cx_car_gray_images](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/tree/master/output_images/cx_car_gray_images "cx_car_gray_images"): Folder showing binary images from gray images.
+* [d_car_s_channel_binary_images](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/tree/master/output_images/d_car_s_channel_binary_images "d_car_s_channel_binary_images"): Folder with binary images from s_chan
+
+
 
 
 
@@ -136,6 +139,6 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 [image6]: ./examples/example_output.jpg "Output"
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDYxOTgzMDQsMTUyNTUzOTc2MiwyMT
-MwNjE1MzIsLTIwMTk4NjA2OV19
+eyJoaXN0b3J5IjpbMTM1MjQwMDAyOSwxNTI1NTM5NzYyLDIxMz
+A2MTUzMiwtMjAxOTg2MDY5XX0=
 -->
