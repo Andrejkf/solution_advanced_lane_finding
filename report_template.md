@@ -204,9 +204,9 @@ Illustration of this process on sample image is shown below:
 4.1.1.  Function getlanelinesbase(): (cell 57 Jupyter notebook). histogram vector is computed and then convolved with wavelet(width). 
 4.1.2. The left line is assumed to be the first element returned by scipy.find_peaks_cwt()  and the rigth line is assumed to be the last element returned by the same function scipy.find_peaks_cwt().
 
-This is ilustrated below:
+This is illustrated below:
 <br/> ![alt text][image14]
-
+(In red: histogram 
 4.1.3. Then pixels from lane lines were searched using a window of 120 pixels. Function getlanepixels() (cell 57 Jupyter notebook).
 
 4.1.4. After, a 2nd order polinomial function is aproximated to the curved lines described by lane lines using numpy.polyfit function. Function getcurvedlaneline(). (cell 61 Jupyter notebook).
@@ -322,11 +322,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk2Njg0NjkyLDU5MTc5NjYyMSwxNjI1OT
-kzNDQzLDEzODAwMzI4ODcsNTM2ODMwOTM3LDk4NjUwMDY3MSwt
-MTYxMjU3MTg2NSwxNTUxMzQ4Mjc5LC0xNjk0MTkxODk4LC0xOD
-cwNTkzNjc4LC0xNjM3NjMzMzMxLDU4NTIwMDA0OCwtMTYxNzY4
-NDQ5MSwtMTEyMDk3MzA2NCw0MjcwMTAyNzYsMTIxMzA0ODU1NS
-wxMDczMTQzOTM1LDEwMTYzMTU0MzIsLTc0MzA4Njc0LDE5Nzc0
-NDUwN119
+eyJoaXN0b3J5IjpbMTAxMTUwNTU3MCw1OTY2ODQ2OTIsNTkxNz
+k2NjIxLDE2MjU5OTM0NDMsMTM4MDAzMjg4Nyw1MzY4MzA5Mzcs
+OTg2NTAwNjcxLC0xNjEyNTcxODY1LDE1NTEzNDgyNzksLTE2OT
+QxOTE4OTgsLTE4NzA1OTM2NzgsLTE2Mzc2MzMzMzEsNTg1MjAw
+MDQ4LC0xNjE3Njg0NDkxLC0xMTIwOTczMDY0LDQyNzAxMDI3Ni
+wxMjEzMDQ4NTU1LDEwNzMxNDM5MzUsMTAxNjMxNTQzMiwtNzQz
+MDg2NzRdfQ==
 -->
