@@ -203,8 +203,10 @@ This is ilustrated below:
 4.1.4. After, a 2nd order polinomial function is aproximated to the curved lines described by lane lines using numpy.polyfit function. Function getcurvedlaneline(). (cell 61 Jupyter notebook).
 
 
+#### 5. Radius of curvature of the lane
+##### Describe how (and identify where in your code) you calculated the radius of curvature of the lane and the position of the vehicle with respect to center.
 
-#### 5. Describe how (and identify where in your code) you calculated the radius of curvature of the lane and the position of the vehicle with respect to center.
+5.1. Function drawcurvedline() was defined 
 
 I did this in lines # through # in my code in `my_other_file.py`
 
@@ -275,7 +277,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODM3MTY2NzUsLTE2MTI1NzE4NjUsMT
+eyJoaXN0b3J5IjpbLTIwMDY0NzI3MjAsLTE2MTI1NzE4NjUsMT
 U1MTM0ODI3OSwtMTY5NDE5MTg5OCwtMTg3MDU5MzY3OCwtMTYz
 NzYzMzMzMSw1ODUyMDAwNDgsLTE2MTc2ODQ0OTEsLTExMjA5Nz
 MwNjQsNDI3MDEwMjc2LDEyMTMwNDg1NTUsMTA3MzE0MzkzNSwx
