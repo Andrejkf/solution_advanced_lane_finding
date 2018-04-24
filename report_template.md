@@ -267,10 +267,10 @@ An ilustration is shown below:
 
 Output videos are located in this repository on the folder *./output_videos*.
 
-In addition,  you may want to watch them on your browser using the following links:
-* [Project video solution](https://youtu.be/lyNLjPRfZ_8)
-* [Testing initial solution on challenge video](https://youtu.be/RNq73SDdllc)
-* [Testing initial solution on a harder challenge video](https://youtu.be/FhY_4tScF7M)
+In addition,  you may want to watch them in your browser using the following links:
+* [Project video solution](https://youtu.be/lyNLjPRfZ_8).
+* [Testing initial solution on challenge video](https://youtu.be/RNq73SDdllc) (this is a test video).
+* [Testing initial solution on a harder challenge video](https://youtu.be/FhY_4tScF7M) (This is a seccond test video).
 
 ---
 
@@ -319,11 +319,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNDYwNDA3NywtMTA3Mjc3NjkyNSwtMT
-k2Mzg3MDgyOCw3MDQzNjYzMjAsLTMzMTIxMTgwMCwyODc2MTY3
-MjQsLTE5MzI2MzI0ODUsMTkyMTk4MTIxNywxMTYwNjA5Njg1LC
-0xODAwNTQ4MTcwLDU5NjY4NDY5Miw1OTE3OTY2MjEsMTYyNTk5
-MzQ0MywxMzgwMDMyODg3LDUzNjgzMDkzNyw5ODY1MDA2NzEsLT
-E2MTI1NzE4NjUsMTU1MTM0ODI3OSwtMTY5NDE5MTg5OCwtMTg3
-MDU5MzY3OF19
+eyJoaXN0b3J5IjpbODExMDM1MTIwLC0xMDcyNzc2OTI1LC0xOT
+YzODcwODI4LDcwNDM2NjMyMCwtMzMxMjExODAwLDI4NzYxNjcy
+NCwtMTkzMjYzMjQ4NSwxOTIxOTgxMjE3LDExNjA2MDk2ODUsLT
+E4MDA1NDgxNzAsNTk2Njg0NjkyLDU5MTc5NjYyMSwxNjI1OTkz
+NDQzLDEzODAwMzI4ODcsNTM2ODMwOTM3LDk4NjUwMDY3MSwtMT
+YxMjU3MTg2NSwxNTUxMzQ4Mjc5LC0xNjk0MTkxODk4LC0xODcw
+NTkzNjc4XX0=
 -->
