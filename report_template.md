@@ -201,17 +201,17 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [image3]: ./output_images/c_undistorted_car_test_images/c6.png " original and undistorted img "
 
-[image4]: ./output_images/cx_car_gray_images/cx6.png " gra "
+[image4]: ./output_images/cx_car_gray_images/cx6.png " gray binary img "
 
-[image5]: ./output_images/d_car_s_channel_binary_images/d6.png "  "
+[image5]: ./output_images/d_car_s_channel_binary_images/d6.png "  schannel binary img"
 
-[image6]: ./output_images/e_car_L_channel_binary_images/e6.png "  "
+[image6]: ./output_images/e_car_L_channel_binary_images/e6.png "  lchannel binary img"
 
-[image7]: ./output_images/f_car_sobelx_binary_images/ "  "
+[image7]: ./output_images/f_car_sobelx_binary_images/ " x sobel img "
 
-[image8]: ./output_images/g_car_sobely_binary_images/ "  "
+[image8]: ./output_images/g_car_sobely_binary_images/ " y sobel img  "
 
-[image9]: ./output_images/h_car_combined_binary_images/ "  "
+[image9]: ./output_images/h_car_combined_binary_images/ " c "
 
 [image10]: ./output_images/i_car_roi_combined_binary_images/ "  "
 
@@ -237,7 +237,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNTQ1ODE2MCwxMjEzMDQ4NTU1LDEwNz
+eyJoaXN0b3J5IjpbLTUxOTAwODgyMCwxMjEzMDQ4NTU1LDEwNz
 MxNDM5MzUsMTAxNjMxNTQzMiwtNzQzMDg2NzQsMTk3NzQ0NTA3
 LDk3NTY4MjEwMSwxMTY4ODU2Mjg0LC0xMDMxNTczNTc1LC0xNT
 Q5NzE5ODcsMTUyNTUzOTc2MiwyMTMwNjE1MzIsLTIwMTk4NjA2
