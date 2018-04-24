@@ -199,6 +199,7 @@ This is ilustrated below:
 <br/> ![alt text][image14]
 
 
+
 Then I did some other stuff and fit my lane lines with a 2nd order polynomial kinda like this:
 
 ![alt text][image5]
@@ -274,11 +275,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDQ3NjQxMTgsLTE2MTI1NzE4NjUsMT
-U1MTM0ODI3OSwtMTY5NDE5MTg5OCwtMTg3MDU5MzY3OCwtMTYz
-NzYzMzMzMSw1ODUyMDAwNDgsLTE2MTc2ODQ0OTEsLTExMjA5Nz
-MwNjQsNDI3MDEwMjc2LDEyMTMwNDg1NTUsMTA3MzE0MzkzNSwx
-MDE2MzE1NDMyLC03NDMwODY3NCwxOTc3NDQ1MDcsOTc1NjgyMT
-AxLDExNjg4NTYyODQsLTEwMzE1NzM1NzUsLTE1NDk3MTk4Nywx
-NTI1NTM5NzYyXX0=
+eyJoaXN0b3J5IjpbMTk2MjMwODM0OCwtMTYxMjU3MTg2NSwxNT
+UxMzQ4Mjc5LC0xNjk0MTkxODk4LC0xODcwNTkzNjc4LC0xNjM3
+NjMzMzMxLDU4NTIwMDA0OCwtMTYxNzY4NDQ5MSwtMTEyMDk3Mz
+A2NCw0MjcwMTAyNzYsMTIxMzA0ODU1NSwxMDczMTQzOTM1LDEw
+MTYzMTU0MzIsLTc0MzA4Njc0LDE5Nzc0NDUwNyw5NzU2ODIxMD
+EsMTE2ODg1NjI4NCwtMTAzMTU3MzU3NSwtMTU0OTcxOTg3LDE1
+MjU1Mzk3NjJdfQ==
 -->
