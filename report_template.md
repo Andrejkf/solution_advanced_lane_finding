@@ -187,7 +187,7 @@ t = top. b = bottom. r = rigth. l = left. s = source, and d = destination. So, f
 ```
 3.2.4. Then direct and inverse perspective transform was computed using cv2.getPerspectiveTransform() .
 
-3.2.5. A short pipeline to get direct nad inverse trasformations was defined. Function pipeline_get_tf_matrix(). (Cell 54 Jupyter notebook).
+3.2.5. A short pipeline to get direct and inverse trasformations was defined. Function pipeline_get_tf_matrix(). (Cell 54 Jupyter notebook).
 
 To ilustrate this process a sample image is shown below:
 <br/> ![alt text][image11]
@@ -322,7 +322,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDY0NjgyNiw1OTE3OTY2MjEsMTYyNT
+eyJoaXN0b3J5IjpbMjExMTUwNzk1Miw1OTE3OTY2MjEsMTYyNT
 k5MzQ0MywxMzgwMDMyODg3LDUzNjgzMDkzNyw5ODY1MDA2NzEs
 LTE2MTI1NzE4NjUsMTU1MTM0ODI3OSwtMTY5NDE5MTg5OCwtMT
 g3MDU5MzY3OCwtMTYzNzYzMzMzMSw1ODUyMDAwNDgsLTE2MTc2
