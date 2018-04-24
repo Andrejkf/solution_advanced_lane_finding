@@ -218,9 +218,9 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [image9]: ./output_images/h_car_combined_binary_images/h6.png " combined thresholds  binary img "
 
-[image10]: ./output_images/i_car_roi_combined_binary_images/ " roi in binary img "
+[image10]: ./output_images/i_car_roi_combined_binary_images/i6.png " roi in binary img "
 
-[image11]: ./output_images/j_car_lanelines_on_road/ " lines on img "
+[image11]: ./output_images/j_car_lanelines_on_road/j6.png " lines on img "
 
 [image12]: ./output_images/k_car_bird_eye/ " bird eye view img "
 
@@ -242,9 +242,9 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyNTMwMTA3LC0xMTIwOTczMDY0LDQyNz
-AxMDI3NiwxMjEzMDQ4NTU1LDEwNzMxNDM5MzUsMTAxNjMxNTQz
-MiwtNzQzMDg2NzQsMTk3NzQ0NTA3LDk3NTY4MjEwMSwxMTY4OD
-U2Mjg0LC0xMDMxNTczNTc1LC0xNTQ5NzE5ODcsMTUyNTUzOTc2
-MiwyMTMwNjE1MzIsLTIwMTk4NjA2OV19
+eyJoaXN0b3J5IjpbOTkwMDIwMTAsLTExMjA5NzMwNjQsNDI3MD
+EwMjc2LDEyMTMwNDg1NTUsMTA3MzE0MzkzNSwxMDE2MzE1NDMy
+LC03NDMwODY3NCwxOTc3NDQ1MDcsOTc1NjgyMTAxLDExNjg4NT
+YyODQsLTEwMzE1NzM1NzUsLTE1NDk3MTk4NywxNTI1NTM5NzYy
+LDIxMzA2MTUzMiwtMjAxOTg2MDY5XX0=
 -->
