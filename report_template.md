@@ -55,8 +55,8 @@ The images in **test_images** are the test images provided for testing the pipel
 
 
 
-###1.  Camera Calibration
-
+### 1.  Camera Calibration
+To get the camera matrix and distortion coefficients in file 
 #### 1. Briefly state how you computed the camera matrix and distortion coefficients. Provide an example of a distortion corrected calibration image.
 
 The code for this step is contained in the first code cell of the IPython notebook located in "./examples/example.ipynb" (or in lines # through # of the file called `some_file.py`).  
@@ -154,6 +154,6 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 [image6]: ./examples/example_output.jpg "Output"
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MTAxODY3NywxNTI1NTM5NzYyLDIxMz
-A2MTUzMiwtMjAxOTg2MDY5XX0=
+eyJoaXN0b3J5IjpbLTE1NzA3MzY2MTAsMTUyNTUzOTc2MiwyMT
+MwNjE1MzIsLTIwMTk4NjA2OV19
 -->
