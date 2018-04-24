@@ -47,7 +47,9 @@ Folder with binary images after applying gradients in y direction.
 
 The images in **camera_cal** are for camera calibration.
 
-The images in 
+The images in **test_images** are the test images provided for testing the pipeline.
+
+
 
 
 
@@ -152,6 +154,6 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 [image6]: ./examples/example_output.jpg "Output"
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYyMjI4OTE1LDE1MjU1Mzk3NjIsMjEzMD
-YxNTMyLC0yMDE5ODYwNjldfQ==
+eyJoaXN0b3J5IjpbLTEyMTc3NzY4OTAsMTUyNTUzOTc2MiwyMT
+MwNjE1MzIsLTIwMTk4NjA2OV19
 -->
