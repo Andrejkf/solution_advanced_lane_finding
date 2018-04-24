@@ -269,8 +269,8 @@ Output videos are located in this repository on the folder *./output_videos*.
 
 In addition,  you may want to watch them in your browser using the following links:
 * [Project video solution](https://youtu.be/lyNLjPRfZ_8).
-* [Testing initial solution on challenge video](https://youtu.be/RNq73SDdllc) (this is a test video).
-* [Testing initial solution on a harder challenge video](https://youtu.be/FhY_4tScF7M) (This is a seccond test video).
+* [Testing initial solution on challenge video](https://youtu.be/RNq73SDdllc) (This is a video for testing purposes).
+* [Testing initial solution on a harder challenge video](https://youtu.be/FhY_4tScF7M) (This is a seccond video for testing video).
 
 ---
 
@@ -319,7 +319,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODExMDM1MTIwLC0xMDcyNzc2OTI1LC0xOT
+eyJoaXN0b3J5IjpbNDM4NTcxNTE4LC0xMDcyNzc2OTI1LC0xOT
 YzODcwODI4LDcwNDM2NjMyMCwtMzMxMjExODAwLDI4NzYxNjcy
 NCwtMTkzMjYzMjQ4NSwxOTIxOTgxMjE3LDExNjA2MDk2ODUsLT
 E4MDA1NDgxNzAsNTk2Njg0NjkyLDU5MTc5NjYyMSwxNjI1OTkz
