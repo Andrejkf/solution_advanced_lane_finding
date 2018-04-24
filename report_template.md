@@ -152,7 +152,7 @@ An ilustration is shown below:
 
 3.2.1. One image of ROI was selected. (Cell 42 in Jupyter notebook)
 
-3.2.2. Hough transform is applied to binary image Region of Interest.
+3.2.2. Hough transform is applied to binary image Region of Interest with function cv2.HoughLinesP(). (Cell 49 in Jupyter notebook)
 3.2.3. 
 
 
@@ -262,10 +262,10 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTg1NTUzNDksNTg1MjAwMDQ4LC0xNj
-E3Njg0NDkxLC0xMTIwOTczMDY0LDQyNzAxMDI3NiwxMjEzMDQ4
-NTU1LDEwNzMxNDM5MzUsMTAxNjMxNTQzMiwtNzQzMDg2NzQsMT
-k3NzQ0NTA3LDk3NTY4MjEwMSwxMTY4ODU2Mjg0LC0xMDMxNTcz
-NTc1LC0xNTQ5NzE5ODcsMTUyNTUzOTc2MiwyMTMwNjE1MzIsLT
-IwMTk4NjA2OV19
+eyJoaXN0b3J5IjpbMTY0OTk3MzkzMCw1ODUyMDAwNDgsLTE2MT
+c2ODQ0OTEsLTExMjA5NzMwNjQsNDI3MDEwMjc2LDEyMTMwNDg1
+NTUsMTA3MzE0MzkzNSwxMDE2MzE1NDMyLC03NDMwODY3NCwxOT
+c3NDQ1MDcsOTc1NjgyMTAxLDExNjg4NTYyODQsLTEwMzE1NzM1
+NzUsLTE1NDk3MTk4NywxNTI1NTM5NzYyLDIxMzA2MTUzMiwtMj
+AxOTg2MDY5XX0=
 -->
