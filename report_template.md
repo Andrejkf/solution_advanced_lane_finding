@@ -55,7 +55,7 @@ The images in **test_images** are the test images provided for testing the pipel
 
 
 
-### Camera Calibration
+###1.  Camera Calibration
 
 #### 1. Briefly state how you computed the camera matrix and distortion coefficients. Provide an example of a distortion corrected calibration image.
 
@@ -154,6 +154,6 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 [image6]: ./examples/example_output.jpg "Output"
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTc3NzY4OTAsMTUyNTUzOTc2MiwyMT
-MwNjE1MzIsLTIwMTk4NjA2OV19
+eyJoaXN0b3J5IjpbMTg2MTAxODY3NywxNTI1NTM5NzYyLDIxMz
+A2MTUzMiwtMjAxOTg2MDY5XX0=
 -->
