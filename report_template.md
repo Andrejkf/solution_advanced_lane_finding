@@ -206,7 +206,7 @@ This is ilustrated below:
 #### 5.1 Radius of curvature of the lane
 ##### Describe how (and identify where in your code) you calculated the radius of curvature of the lane and the position of the vehicle with respect to center.
 
-5.1. Function drawcurvedline() was defined. (cell 62 Jupyter notebook). Used to stimate curvature radius for lanes. 
+5.1.1. Function drawcurvedline() was defined. (cell 62 Jupyter notebook). Used to stimate curvature radius for lanes. 
 
 A conversion from pizxel units  to meters is done. then an estimation is done using numpy.polyfit().
 
@@ -221,6 +221,9 @@ ymbypixel = 30/imghigh # aprox meters by pixel
     
     estimation= int(((1 + (2*polifit[0]*yeval + polifit[1])**2)**1.5)/np.absolute(2*polifit[0]))
 ```
+#### 5.2 Position of the vehicle with respect to center.
+
+5.2.1. 
 
 #### 6. 
 
@@ -291,7 +294,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0ODIxMjQwLDUzNjgzMDkzNyw5ODY1MD
+eyJoaXN0b3J5IjpbNzQ4Mjc1MjcxLDUzNjgzMDkzNyw5ODY1MD
 A2NzEsLTE2MTI1NzE4NjUsMTU1MTM0ODI3OSwtMTY5NDE5MTg5
 OCwtMTg3MDU5MzY3OCwtMTYzNzYzMzMzMSw1ODUyMDAwNDgsLT
 E2MTc2ODQ0OTEsLTExMjA5NzMwNjQsNDI3MDEwMjc2LDEyMTMw
