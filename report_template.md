@@ -209,6 +209,7 @@ This is ilustrated below:
 5.1. Function drawcurvedline() was defined. (cell 62 Jupyter notebook). Used to stimate curvature radius for lanes.
 
 
+
 I did this in lines # through # in my code in `my_other_file.py`
 
 #### 6. Provide an example image of your result plotted back down onto the road such that the lane area is identified clearly.
@@ -278,11 +279,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODk2NjI3OSw5ODY1MDA2NzEsLTE2MT
-I1NzE4NjUsMTU1MTM0ODI3OSwtMTY5NDE5MTg5OCwtMTg3MDU5
-MzY3OCwtMTYzNzYzMzMzMSw1ODUyMDAwNDgsLTE2MTc2ODQ0OT
-EsLTExMjA5NzMwNjQsNDI3MDEwMjc2LDEyMTMwNDg1NTUsMTA3
-MzE0MzkzNSwxMDE2MzE1NDMyLC03NDMwODY3NCwxOTc3NDQ1MD
-csOTc1NjgyMTAxLDExNjg4NTYyODQsLTEwMzE1NzM1NzUsLTE1
-NDk3MTk4N119
+eyJoaXN0b3J5IjpbNTM2ODMwOTM3LDk4NjUwMDY3MSwtMTYxMj
+U3MTg2NSwxNTUxMzQ4Mjc5LC0xNjk0MTkxODk4LC0xODcwNTkz
+Njc4LC0xNjM3NjMzMzMxLDU4NTIwMDA0OCwtMTYxNzY4NDQ5MS
+wtMTEyMDk3MzA2NCw0MjcwMTAyNzYsMTIxMzA0ODU1NSwxMDcz
+MTQzOTM1LDEwMTYzMTU0MzIsLTc0MzA4Njc0LDE5Nzc0NDUwNy
+w5NzU2ODIxMDEsMTE2ODg1NjI4NCwtMTAzMTU3MzU3NSwtMTU0
+OTcxOTg3XX0=
 -->
