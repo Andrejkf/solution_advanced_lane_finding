@@ -70,8 +70,10 @@ To get the camera matrix and distortion coefficients in file *camera_calibration
 
 ##### Steps
 1. Get inner corners.
+
 1.1 draw detected corners for debbugging purposes.
-2. find the chess inner corners using cv2.findChessboardCorners.
+
+2. Find the chess inner corners using cv2.findChessboardCorners.
 3. Get a list of object points and image points.
 4. get camera matrix and distortion coeffients using cv2.calibrateCamera.
 5. apply camera matrix and distortion correction to chess images.
@@ -317,11 +319,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY2NzU2NjE1LDEzODAwMzI4ODcsNTM2OD
-MwOTM3LDk4NjUwMDY3MSwtMTYxMjU3MTg2NSwxNTUxMzQ4Mjc5
-LC0xNjk0MTkxODk4LC0xODcwNTkzNjc4LC0xNjM3NjMzMzMxLD
-U4NTIwMDA0OCwtMTYxNzY4NDQ5MSwtMTEyMDk3MzA2NCw0Mjcw
-MTAyNzYsMTIxMzA0ODU1NSwxMDczMTQzOTM1LDEwMTYzMTU0Mz
-IsLTc0MzA4Njc0LDE5Nzc0NDUwNyw5NzU2ODIxMDEsMTE2ODg1
-NjI4NF19
+eyJoaXN0b3J5IjpbMTUxMTA1NzY3NSwxMzgwMDMyODg3LDUzNj
+gzMDkzNyw5ODY1MDA2NzEsLTE2MTI1NzE4NjUsMTU1MTM0ODI3
+OSwtMTY5NDE5MTg5OCwtMTg3MDU5MzY3OCwtMTYzNzYzMzMzMS
+w1ODUyMDAwNDgsLTE2MTc2ODQ0OTEsLTExMjA5NzMwNjQsNDI3
+MDEwMjc2LDEyMTMwNDg1NTUsMTA3MzE0MzkzNSwxMDE2MzE1ND
+MyLC03NDMwODY3NCwxOTc3NDQ1MDcsOTc1NjgyMTAxLDExNjg4
+NTYyODRdfQ==
 -->
