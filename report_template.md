@@ -44,6 +44,7 @@ Folder with binary images after applying gradients in y direction.
 * [j_car_lanelines_on_road](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/tree/master/output_images/j_car_lanelines_on_road "j_car_lanelines_on_road"): Folder with lane lines dispayed on it.
 * [k_car_bird_eye](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/tree/master/output_images/k_car_bird_eye "k_car_bird_eye"): Folder with images after persepective transformation to get bird_eye images.
 * [l_car_full_pipeline](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/tree/master/output_images/l_car_full_pipeline "l_car_full_pipeline"): Folder with images after applying full process pipeline.
+* [m_car_histograms_bird_eye](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/tree/master/output_images/m_car_histograms_bird_eye "m_car_histograms_bird_eye"): Folder with stimated lane lines histogram computed from
 
 The images in **camera_cal** are for camera calibration.
 
@@ -274,7 +275,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NjE1MDYsMTU1MTM0ODI3OSwtMTY5ND
+eyJoaXN0b3J5IjpbNzQ0MTcxNjcsMTU1MTM0ODI3OSwtMTY5ND
 E5MTg5OCwtMTg3MDU5MzY3OCwtMTYzNzYzMzMzMSw1ODUyMDAw
 NDgsLTE2MTc2ODQ0OTEsLTExMjA5NzMwNjQsNDI3MDEwMjc2LD
 EyMTMwNDg1NTUsMTA3MzE0MzkzNSwxMDE2MzE1NDMyLC03NDMw
