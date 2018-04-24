@@ -157,6 +157,24 @@ An ilustration is shown below:
 
 This is a shot part of code to ilustrate it:
 
+```
+# get oringinal and destination points based on previously calculated hough lines
+    # top righ, bottom rigth, top left, bottom left
+    trs     = [line1[0], line1[1]]
+    brs     = [line1[2], line1[3]]
+    tls     = [line2[0], line2[1]]
+    bls     = [line2[2], line2[3]]
+    
+    trd     = [line1[2], ylimit] 
+    brd     = [line1[2], line1[3]]
+    tld     = [line2[2], ylimit]
+    bld     = [line2[2], line2[3]]
+    
+    
+    source_img_pts = [trs, brs, tls, bls]
+    destination_pts= [trd, brd, tld, bld]
+```
+Then direct and inverse perspective transform was 
 
 
 The code for my perspective transform includes a function called `warper()`, which appears in lines 1 through 8 in the file `example.py` (output_images/examples/example.py) (or, for example, in the 3rd code cell of the IPython notebook).  The `warper()` function takes as inputs an image (`img`), as well as source (`src`) and destination (`dst`) points.  I chose the hardcode the source and destination points in the following manner:
@@ -265,10 +283,10 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA1OTM2NzgsLTE2Mzc2MzMzMzEsNT
-g1MjAwMDQ4LC0xNjE3Njg0NDkxLC0xMTIwOTczMDY0LDQyNzAx
-MDI3NiwxMjEzMDQ4NTU1LDEwNzMxNDM5MzUsMTAxNjMxNTQzMi
-wtNzQzMDg2NzQsMTk3NzQ0NTA3LDk3NTY4MjEwMSwxMTY4ODU2
-Mjg0LC0xMDMxNTczNTc1LC0xNTQ5NzE5ODcsMTUyNTUzOTc2Mi
-wyMTMwNjE1MzIsLTIwMTk4NjA2OV19
+eyJoaXN0b3J5IjpbMTUxNzk2MTg0NSwtMTg3MDU5MzY3OCwtMT
+YzNzYzMzMzMSw1ODUyMDAwNDgsLTE2MTc2ODQ0OTEsLTExMjA5
+NzMwNjQsNDI3MDEwMjc2LDEyMTMwNDg1NTUsMTA3MzE0MzkzNS
+wxMDE2MzE1NDMyLC03NDMwODY3NCwxOTc3NDQ1MDcsOTc1Njgy
+MTAxLDExNjg4NTYyODQsLTEwMzE1NzM1NzUsLTE1NDk3MTk4Ny
+wxNTI1NTM5NzYyLDIxMzA2MTUzMiwtMjAxOTg2MDY5XX0=
 -->
