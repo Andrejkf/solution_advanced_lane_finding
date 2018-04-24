@@ -189,7 +189,9 @@ To ilustrate this process a sample image is shown below:
 #### 4. Lane lines polinomial fit.
 ##### Describe how (and identify where in your code) you identified lane-line pixels and fit their positions with a polynomial?
 
-4.1. Using function scipy.find_peaks_cwt() to smooth a vector by convolving it with wavelet for each width, getting relative maximums where  
+4.1. Using function scipy.find_peaks_cwt() to smooth a vector by convolving it with wavelet for each width, getting relative maximums as stimations for posible lane lines detections. 
+
+4.1.1.  
 Then I did some other stuff and fit my lane lines with a 2nd order polynomial kinda like this:
 
 ![alt text][image5]
@@ -268,7 +270,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzOTg3MTY2NywtMTY5NDE5MTg5OCwtMT
+eyJoaXN0b3J5IjpbLTEzNDc2MTA5NSwtMTY5NDE5MTg5OCwtMT
 g3MDU5MzY3OCwtMTYzNzYzMzMzMSw1ODUyMDAwNDgsLTE2MTc2
 ODQ0OTEsLTExMjA5NzMwNjQsNDI3MDEwMjc2LDEyMTMwNDg1NT
 UsMTA3MzE0MzkzNSwxMDE2MzE1NDMyLC03NDMwODY3NCwxOTc3
