@@ -29,9 +29,11 @@ The goals / steps of this project are the following:
 Images for camera calibration are localted on folder **./output_images** . This folder contains:
 * [a_chess_corners](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/tree/master/output_images/a_chess_corners "a_chess_corners"): Folder with the camera calibration images 9x6 inner corners drawn on it.
 
-* b_undistorted_chess_images: Folder comparing orginal and undistorted chess images in it.
-* c_undistorted_car_test_images: Folder comparing orginal and undistorted test images from the driving car.
-* 
+* [b_undistorted_chess_images](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/tree/master/output_images/b_undistorted_chess_images "b_undistorted_chess_images"): Folder comparing orginal and undistorted chess images in it.
+
+* [c_undistorted_car_test_images](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/tree/master/output_images/c_undistorted_car_test_images "c_undistorted_car_test_images"): Folder comparing orginal and undistorted test images from the driving car.
+
+* [cx_car_gray_images](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/tree/master/output_images/cx_car_gray_images "cx_car_gray_images"): Folder showing binary images in gra
 
 
 
@@ -134,6 +136,6 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 [image6]: ./examples/example_output.jpg "Output"
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNjIwMTgyMCwxNTI1NTM5NzYyLDIxMz
-A2MTUzMiwtMjAxOTg2MDY5XX0=
+eyJoaXN0b3J5IjpbLTEwNDYxOTgzMDQsMTUyNTUzOTc2MiwyMT
+MwNjE1MzIsLTIwMTk4NjA2OV19
 -->
