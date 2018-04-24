@@ -83,6 +83,7 @@ These steps are ilustrated below:
 
 
 
+
 #### 1. Briefly state how you computed the camera matrix and distortion coefficients. Provide an example of a distortion corrected calibration image.
 
 The code for this step is contained in the first code cell of the IPython notebook located in "./examples/example.ipynb" (or in lines # through # of the file called `some_file.py`).  
@@ -201,7 +202,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MjE1MTM1MCwxOTc3NDQ1MDcsOTc1Nj
-gyMTAxLDExNjg4NTYyODQsLTEwMzE1NzM1NzUsLTE1NDk3MTk4
-NywxNTI1NTM5NzYyLDIxMzA2MTUzMiwtMjAxOTg2MDY5XX0=
+eyJoaXN0b3J5IjpbLTE1MDcyOTM1MzIsMTk3NzQ0NTA3LDk3NT
+Y4MjEwMSwxMTY4ODU2Mjg0LC0xMDMxNTczNTc1LC0xNTQ5NzE5
+ODcsMTUyNTUzOTc2MiwyMTMwNjE1MzIsLTIwMTk4NjA2OV19
 -->
