@@ -220,7 +220,7 @@ This is illustrated below:
 
 A conversion *from pixel units  to meters* is done. Then a seccond order polinomial regression estimation is done using numpy.polyfit().
 
-To ilustrate process, code is shown below:
+To ilustrate process, a short piece of code is shown below:
 ```
 ymbypixel = 30/imghigh # aprox meters by pixel
     xmbypixel = 3.7/700 # aprox meters by pixel
@@ -323,7 +323,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NjkwNDE4NSwtMTgwMDU0ODE3MCw1OT
+eyJoaXN0b3J5IjpbMTE2MDYwOTY4NSwtMTgwMDU0ODE3MCw1OT
 Y2ODQ2OTIsNTkxNzk2NjIxLDE2MjU5OTM0NDMsMTM4MDAzMjg4
 Nyw1MzY4MzA5MzcsOTg2NTAwNjcxLC0xNjEyNTcxODY1LDE1NT
 EzNDgyNzksLTE2OTQxOTE4OTgsLTE4NzA1OTM2NzgsLTE2Mzc2
