@@ -97,6 +97,9 @@ The goals / steps of this project are the following:
 
 #### 1. Provide an example of a distortion-corrected image.
 
+After applying distortion correction to the chess board images I saved the camera matrix and distortion coefficients in a 
+
+
 To demonstrate this step, I will describe how I apply the distortion correction to one of the test images like this one:
 ![alt text][image2]
 
@@ -201,7 +204,8 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MzA4Njc0LDE5Nzc0NDUwNyw5NzU2OD
-IxMDEsMTE2ODg1NjI4NCwtMTAzMTU3MzU3NSwtMTU0OTcxOTg3
-LDE1MjU1Mzk3NjIsMjEzMDYxNTMyLC0yMDE5ODYwNjldfQ==
+eyJoaXN0b3J5IjpbMTQ0MDM3NzU5NCwtNzQzMDg2NzQsMTk3Nz
+Q0NTA3LDk3NTY4MjEwMSwxMTY4ODU2Mjg0LC0xMDMxNTczNTc1
+LC0xNTQ5NzE5ODcsMTUyNTUzOTc2MiwyMTMwNjE1MzIsLTIwMT
+k4NjA2OV19
 -->
