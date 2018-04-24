@@ -194,6 +194,8 @@ To ilustrate this process a sample image is shown below:
 4.1.1.  Function getlanelinesbase(): (cell 57 Jupyter notebook). histogram vector is computed and then convolved with wavelet(width). 
 4.1.2. The left line is assumed to be the first element returned by scipy.find_peaks_cwt()  and the rigth line is assumed to be the last element returned by the same function scipy.find_peaks_cwt().
 
+
+
 Then I did some other stuff and fit my lane lines with a 2nd order polynomial kinda like this:
 
 ![alt text][image5]
@@ -272,7 +274,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzODQ4NjAzNSwtMTY5NDE5MTg5OCwtMT
+eyJoaXN0b3J5IjpbMTU1MTM0ODI3OSwtMTY5NDE5MTg5OCwtMT
 g3MDU5MzY3OCwtMTYzNzYzMzMzMSw1ODUyMDAwNDgsLTE2MTc2
 ODQ0OTEsLTExMjA5NzMwNjQsNDI3MDEwMjc2LDEyMTMwNDg1NT
 UsMTA3MzE0MzkzNSwxMDE2MzE1NDMyLC03NDMwODY3NCwxOTc3
