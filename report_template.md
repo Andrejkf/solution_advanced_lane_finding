@@ -63,11 +63,6 @@ To get the camera matrix and distortion coefficients in file *camera_calibration
 * 1.4. get_coefficients(): Used to either load distortion coefficientes or to calculate them.
 * * 1.5. get_undistorted(): To apply distortion correction to images.
 
-This steps are ilustrated below:
-<br/> ![alt text][image1]
-<br/> ![alt text][image2]
-
-
 ##### Steps
 1. Get inner corners.
 1.1 draw detected corners for debbugging purposes.
@@ -76,7 +71,9 @@ This steps are ilustrated below:
 4. get camera matrix and distortion coeffients using cv2.calibrateCamera.
 5. apply camera matrix and distortion correction to chess images.
 
-
+These steps are ilustrated below:
+<br/> ![alt text][image1]
+<br/> ![alt text][image2]
 
 
 
@@ -204,7 +201,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTQ4MjIyNjMsMTk3NzQ0NTA3LDk3NT
-Y4MjEwMSwxMTY4ODU2Mjg0LC0xMDMxNTczNTc1LC0xNTQ5NzE5
-ODcsMTUyNTUzOTc2MiwyMTMwNjE1MzIsLTIwMTk4NjA2OV19
+eyJoaXN0b3J5IjpbMjA4MjE1MTM1MCwxOTc3NDQ1MDcsOTc1Nj
+gyMTAxLDExNjg4NTYyODQsLTEwMzE1NzM1NzUsLTE1NDk3MTk4
+NywxNTI1NTM5NzYyLDIxMzA2MTUzMiwtMjAxOTg2MDY5XX0=
 -->
