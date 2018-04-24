@@ -284,7 +284,7 @@ However, for the project video in general lane lines are detected all the way al
 
 Even if this solution is not ready for production on a real car, is a first aproximation about how to use computer vission techniques to the inference system in the Self driving Car.
 
-Something that the solution is failing in, is that *the slower 
+Something that the solution is failing in, is that *the slower the radius of curvature, the more probability o
 
 If I were going further on this project I would install a camera on a car and I would test this model again.
 
@@ -337,7 +337,7 @@ Improvements
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzM0NTYzMTMsNDM4NTcxNTE4LC0xMD
+eyJoaXN0b3J5IjpbLTEwMTQ5OTM2NzYsNDM4NTcxNTE4LC0xMD
 cyNzc2OTI1LC0xOTYzODcwODI4LDcwNDM2NjMyMCwtMzMxMjEx
 ODAwLDI4NzYxNjcyNCwtMTkzMjYzMjQ4NSwxOTIxOTgxMjE3LD
 ExNjA2MDk2ODUsLTE4MDA1NDgxNzAsNTk2Njg0NjkyLDU5MTc5
