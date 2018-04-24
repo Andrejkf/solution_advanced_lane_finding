@@ -131,7 +131,7 @@ An image to ilustrate the process is shown below:
 <br/> ![alt text][image5]
 <br/> ![alt text][image6]
 <br/> ![alt text][image7]
-
+<br/> ![alt text][image8]
 
 #### 3. Describe how (and identify where in your code) you performed a perspective transform and provide an example of a transformed image.
 
@@ -241,9 +241,9 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxNzMzMjY0LC0xMTIwOTczMDY0LDQyNz
-AxMDI3NiwxMjEzMDQ4NTU1LDEwNzMxNDM5MzUsMTAxNjMxNTQz
-MiwtNzQzMDg2NzQsMTk3NzQ0NTA3LDk3NTY4MjEwMSwxMTY4OD
-U2Mjg0LC0xMDMxNTczNTc1LC0xNTQ5NzE5ODcsMTUyNTUzOTc2
-MiwyMTMwNjE1MzIsLTIwMTk4NjA2OV19
+eyJoaXN0b3J5IjpbMTQyMjgzNDgwOSwtMTEyMDk3MzA2NCw0Mj
+cwMTAyNzYsMTIxMzA0ODU1NSwxMDczMTQzOTM1LDEwMTYzMTU0
+MzIsLTc0MzA4Njc0LDE5Nzc0NDUwNyw5NzU2ODIxMDEsMTE2OD
+g1NjI4NCwtMTAzMTU3MzU3NSwtMTU0OTcxOTg3LDE1MjU1Mzk3
+NjIsMjEzMDYxNTMyLC0yMDE5ODYwNjldfQ==
 -->
