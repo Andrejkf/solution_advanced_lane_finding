@@ -280,7 +280,9 @@ In addition,  you may want to watch them in your browser using the following lin
 
 To make this solution approach more robust outliers (lane lines detection) should be added. 
 
-I have noticed that sometimes the model returns slope estimations divinding by zero, so this is something to related with the 
+I have noticed that sometimes the model returns slope estimations divinding by zero, so this is something to related with the slope calculation and might be improved.
+
+If I were going further on this project I would install a camera on a car and I would test this model again
 
 
 Thank you very much for taking part of your time reading this document.
@@ -322,11 +324,11 @@ Thank you very much for taking part of your time reading this document.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzAwODAxMzgsNDM4NTcxNTE4LC0xMD
-cyNzc2OTI1LC0xOTYzODcwODI4LDcwNDM2NjMyMCwtMzMxMjEx
-ODAwLDI4NzYxNjcyNCwtMTkzMjYzMjQ4NSwxOTIxOTgxMjE3LD
-ExNjA2MDk2ODUsLTE4MDA1NDgxNzAsNTk2Njg0NjkyLDU5MTc5
-NjYyMSwxNjI1OTkzNDQzLDEzODAwMzI4ODcsNTM2ODMwOTM3LD
-k4NjUwMDY3MSwtMTYxMjU3MTg2NSwxNTUxMzQ4Mjc5LC0xNjk0
-MTkxODk4XX0=
+eyJoaXN0b3J5IjpbMjk1ODk5MDEzLDQzODU3MTUxOCwtMTA3Mj
+c3NjkyNSwtMTk2Mzg3MDgyOCw3MDQzNjYzMjAsLTMzMTIxMTgw
+MCwyODc2MTY3MjQsLTE5MzI2MzI0ODUsMTkyMTk4MTIxNywxMT
+YwNjA5Njg1LC0xODAwNTQ4MTcwLDU5NjY4NDY5Miw1OTE3OTY2
+MjEsMTYyNTk5MzQ0MywxMzgwMDMyODg3LDUzNjgzMDkzNyw5OD
+Y1MDA2NzEsLTE2MTI1NzE4NjUsMTU1MTM0ODI3OSwtMTY5NDE5
+MTg5OF19
 -->
