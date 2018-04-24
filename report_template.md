@@ -119,7 +119,7 @@ The values of threshold used where tunned by trial and error looking to reduce a
 All that said, I defined the following functions:
 * hls_wyMask(). (cell 27 jupyter notebook). Used to apply a color white-yellow mask in HLS_color_space while keeping threshold values from project 1.
 * hsv_wyMask(): (cell 28 jupyter notebook). Used to apply a color white-yellow mask in HSV_color_space.
-* 
+* gray_binary(): (cell 29 jupyter notebook). Used to get a binary thresholded image from images im grayscale. 
 
 
 I applied a combination of 
@@ -225,9 +225,9 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2OTQ1NzQ5LDEyMTMwNDg1NTUsMTA3Mz
-E0MzkzNSwxMDE2MzE1NDMyLC03NDMwODY3NCwxOTc3NDQ1MDcs
-OTc1NjgyMTAxLDExNjg4NTYyODQsLTEwMzE1NzM1NzUsLTE1ND
-k3MTk4NywxNTI1NTM5NzYyLDIxMzA2MTUzMiwtMjAxOTg2MDY5
-XX0=
+eyJoaXN0b3J5IjpbMTM4NjI2NTk4OSwxMjEzMDQ4NTU1LDEwNz
+MxNDM5MzUsMTAxNjMxNTQzMiwtNzQzMDg2NzQsMTk3NzQ0NTA3
+LDk3NTY4MjEwMSwxMTY4ODU2Mjg0LC0xMDMxNTczNTc1LC0xNT
+Q5NzE5ODcsMTUyNTUzOTc2MiwyMTMwNjE1MzIsLTIwMTk4NjA2
+OV19
 -->
