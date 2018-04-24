@@ -175,17 +175,15 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [//]: # (Image References)
 
-[image1]: ./camera_cal/calibration3.jpg "chess distorted img"
+[image1]: ./output_images/a_chess_corners/a14.png "chess corners img"
 
-[image2]: ./output_images/a_chess_corners/a14.png "chess corners img"
+[image2]: ./output_images/b_undistorted_chess_images/b14.png " original and undistorted chess "
 
-[image3]: ./output_images/b_undistorted_chess_images/b14.png " original and undistorted chess "
+[image3]: ./output_images/c_undistorted_car_test_images/c6.png " original and undistorted img "
 
-[image4]: ./output_images/c_undistorted_car_test_images/c6.png " original and undistorted img "
+[image4]: ./output_images/a_chess_corners/ "  "
 
 [image5]: ./output_images/a_chess_corners/ "  "
-
-[image6]: ./output_images/a_chess_corners/ "  "
 
 [image7]: ./output_images/a_chess_corners/ "  "
 
@@ -204,7 +202,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDk0ODUwOTQsMTk3NzQ0NTA3LDk3NT
+eyJoaXN0b3J5IjpbLTExOTg3ODMwNTgsMTk3NzQ0NTA3LDk3NT
 Y4MjEwMSwxMTY4ODU2Mjg0LC0xMDMxNTczNTc1LC0xNTQ5NzE5
 ODcsMTUyNTUzOTc2MiwyMTMwNjE1MzIsLTIwMTk4NjA2OV19
 -->
