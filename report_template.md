@@ -201,7 +201,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [image3]: ./output_images/c_undistorted_car_test_images/c6.png " original and undistorted img "
 
-[image4]: ./output_images/a_chess_corners/ "  "
+[image4]: ./output_images/cx_car_gray_images/ "  "
 
 [image5]: ./output_images/a_chess_corners/ "  "
 
@@ -224,7 +224,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMTYyNDQ5MywxMjEzMDQ4NTU1LDEwNz
+eyJoaXN0b3J5IjpbMTI5NjI2Mzg3MywxMjEzMDQ4NTU1LDEwNz
 MxNDM5MzUsMTAxNjMxNTQzMiwtNzQzMDg2NzQsMTk3NzQ0NTA3
 LDk3NTY4MjEwMSwxMTY4ODU2Mjg0LC0xMDMxNTczNTc1LC0xNT
 Q5NzE5ODcsMTUyNTUzOTc2MiwyMTMwNjE1MzIsLTIwMTk4NjA2
