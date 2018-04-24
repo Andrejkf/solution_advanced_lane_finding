@@ -114,7 +114,8 @@ Initially I tried to use a color combination using a yellow_white color mask bet
 
 Note: I believe that x_treshold, y_threshold, magnitude_threshol and direction_threshold can be used altogether to get less noisy images. Even if I did not combine them. Those functions are in cells 32,33,34 from jupyter notebook and I was inspired on class exercises to write them.
 
-The values of threshold used where 
+The values of threshold used where tunned by trial and error looking to reduce all possible points/pixels that might introduce noise in the predictions.
+
 
 
 I applied a combination of 
@@ -220,9 +221,9 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyNzEyMTQ5LDEyMTMwNDg1NTUsMTA3Mz
-E0MzkzNSwxMDE2MzE1NDMyLC03NDMwODY3NCwxOTc3NDQ1MDcs
-OTc1NjgyMTAxLDExNjg4NTYyODQsLTEwMzE1NzM1NzUsLTE1ND
-k3MTk4NywxNTI1NTM5NzYyLDIxMzA2MTUzMiwtMjAxOTg2MDY5
-XX0=
+eyJoaXN0b3J5IjpbMTc4MDA1NTE2MSwxMjEzMDQ4NTU1LDEwNz
+MxNDM5MzUsMTAxNjMxNTQzMiwtNzQzMDg2NzQsMTk3NzQ0NTA3
+LDk3NTY4MjEwMSwxMTY4ODU2Mjg0LC0xMDMxNTczNTc1LC0xNT
+Q5NzE5ODcsMTUyNTUzOTc2MiwyMTMwNjE1MzIsLTIwMTk4NjA2
+OV19
 -->
