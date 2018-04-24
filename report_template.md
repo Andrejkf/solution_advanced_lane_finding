@@ -210,7 +210,7 @@ This is illustrated below:
 
 4.1.3. Then pixels from lane lines were searched using a window of 120 pixels. Function getlanepixels() (cell 57 Jupyter notebook).
 
-4.1.4. After, a 2nd order polinomial function is aproximated to the curved lines described by lane lines using numpy.polyfit function. Function getcurvedlaneline(). (cell 61 Jupyter notebook).
+4.1.4. After, a 2nd order polinomial function is aproximated to the curved lines described by lane lines using numpy.polyfit() function. Function getcurvedlaneline(). (cell 61 Jupyter notebook).
 
 
 #### 5.1 Radius of curvature of the lane
@@ -323,11 +323,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNjQ5NjIxNSw1OTY2ODQ2OTIsNTkxNz
-k2NjIxLDE2MjU5OTM0NDMsMTM4MDAzMjg4Nyw1MzY4MzA5Mzcs
-OTg2NTAwNjcxLC0xNjEyNTcxODY1LDE1NTEzNDgyNzksLTE2OT
-QxOTE4OTgsLTE4NzA1OTM2NzgsLTE2Mzc2MzMzMzEsNTg1MjAw
-MDQ4LC0xNjE3Njg0NDkxLC0xMTIwOTczMDY0LDQyNzAxMDI3Ni
-wxMjEzMDQ4NTU1LDEwNzMxNDM5MzUsMTAxNjMxNTQzMiwtNzQz
-MDg2NzRdfQ==
+eyJoaXN0b3J5IjpbLTE4MDA1NDgxNzAsNTk2Njg0NjkyLDU5MT
+c5NjYyMSwxNjI1OTkzNDQzLDEzODAwMzI4ODcsNTM2ODMwOTM3
+LDk4NjUwMDY3MSwtMTYxMjU3MTg2NSwxNTUxMzQ4Mjc5LC0xNj
+k0MTkxODk4LC0xODcwNTkzNjc4LC0xNjM3NjMzMzMxLDU4NTIw
+MDA0OCwtMTYxNzY4NDQ5MSwtMTEyMDk3MzA2NCw0MjcwMTAyNz
+YsMTIxMzA0ODU1NSwxMDczMTQzOTM1LDEwMTYzMTU0MzIsLTc0
+MzA4Njc0XX0=
 -->
