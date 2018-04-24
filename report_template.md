@@ -245,7 +245,9 @@ imghhalf = imgh/2
 
 ##### Provide an example image of your result plotted back down onto the road such that the lane area is identified clearly.
 
-In cell 28 from jupyter notebook is defined a full pipeline where a distorted RGB image is feeded and the predicted lane area is overlapped to the image to check detection
+In cell 28 from jupyter notebook is defined a full pipeline where a distorted RGB image is feeded and the predicted lane area is overlapped to the image to check prediction.
+
+
 I implemented this step in lines # through # in my code in `yet_another_file.py` in the function `map_lane()`.  Here is an example of my result on a test image:
 
 ![alt text][image6]
@@ -311,7 +313,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4Mjg2MDg2MCw1MzY4MzA5MzcsOTg2NT
+eyJoaXN0b3J5IjpbMTE1MTk1ODA0Miw1MzY4MzA5MzcsOTg2NT
 AwNjcxLC0xNjEyNTcxODY1LDE1NTEzNDgyNzksLTE2OTQxOTE4
 OTgsLTE4NzA1OTM2NzgsLTE2Mzc2MzMzMzEsNTg1MjAwMDQ4LC
 0xNjE3Njg0NDkxLC0xMTIwOTczMDY0LDQyNzAxMDI3NiwxMjEz
