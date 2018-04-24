@@ -189,7 +189,7 @@ t = top. b = bottom. r = rigth. l = left. s = source, and d = destination. So, f
 
 3.2.5. A short pipeline to get direct (M) and inverse (Minv) transformations  was defined. Function pipeline_get_tf_matrix(). (Cell 54 Jupyter notebook).
 
-To ilustrate this process a sample image is shown below:
+Ilustration of this process in sample image is shown below:
 <br/> ![alt text][image11]
 <br/> ![alt text][image12]
 <br/> ![alt text][image13]
@@ -322,7 +322,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg0MDUzMjExLDU5MTc5NjYyMSwxNjI1OT
+eyJoaXN0b3J5IjpbNTE1ODk0MzM0LDU5MTc5NjYyMSwxNjI1OT
 kzNDQzLDEzODAwMzI4ODcsNTM2ODMwOTM3LDk4NjUwMDY3MSwt
 MTYxMjU3MTg2NSwxNTUxMzQ4Mjc5LC0xNjk0MTkxODk4LC0xOD
 cwNTkzNjc4LC0xNjM3NjMzMzMxLDU4NTIwMDA0OCwtMTYxNzY4
