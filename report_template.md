@@ -147,7 +147,7 @@ To get the perspective transform the vertices for the region_of_interest were de
 3.1.2. Function region_of_interest(). (Cell 41 in Jupyter notebook). Was used to apply an image mask to the input image in such a way that only keeps region of the image defined by the polygon from from 'vertices'.
 An ilustration is shown below:
 <br/> ![alt text][image10]
-<br/> ![alt text][image11]
+
 
 
 
@@ -257,7 +257,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNTI3MTcwOSwtMTYxNzY4NDQ5MSwtMT
+eyJoaXN0b3J5IjpbMTM3MTY2MzU4NCwtMTYxNzY4NDQ5MSwtMT
 EyMDk3MzA2NCw0MjcwMTAyNzYsMTIxMzA0ODU1NSwxMDczMTQz
 OTM1LDEwMTYzMTU0MzIsLTc0MzA4Njc0LDE5Nzc0NDUwNyw5Nz
 U2ODIxMDEsMTE2ODg1NjI4NCwtMTAzMTU3MzU3NSwtMTU0OTcx
