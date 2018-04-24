@@ -120,7 +120,8 @@ All that said, I defined the following functions:
 * hls_wyMask(). (cell 27 jupyter notebook). Used to apply a color white-yellow mask in HLS_color_space while keeping threshold values from project 1.
 * hsv_wyMask(): (cell 28 jupyter notebook). Used to apply a color white-yellow mask in HSV_color_space.
 * gray_binary(): (cell 29 jupyter notebook). Used to get a binary thresholded image from images im grayscale. I tried using global  histogram equalization but I did not included in this pipeline.
-* hls_channel_binary(): (cell 30 jupyter notebook). 
+* hls_channel_binary(): (cell 30 jupyter notebook). Used to apply binary threshold to S or L channel of image in HSL color space.
+* abs_sobel_thresh(): 
 
 
 I applied a combination of 
@@ -226,9 +227,9 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjE0ODQ2MjYsMTIxMzA0ODU1NSwxMD
-czMTQzOTM1LDEwMTYzMTU0MzIsLTc0MzA4Njc0LDE5Nzc0NDUw
-Nyw5NzU2ODIxMDEsMTE2ODg1NjI4NCwtMTAzMTU3MzU3NSwtMT
-U0OTcxOTg3LDE1MjU1Mzk3NjIsMjEzMDYxNTMyLC0yMDE5ODYw
-NjldfQ==
+eyJoaXN0b3J5IjpbNTY2NzkzODMsMTIxMzA0ODU1NSwxMDczMT
+QzOTM1LDEwMTYzMTU0MzIsLTc0MzA4Njc0LDE5Nzc0NDUwNyw5
+NzU2ODIxMDEsMTE2ODg1NjI4NCwtMTAzMTU3MzU3NSwtMTU0OT
+cxOTg3LDE1MjU1Mzk3NjIsMjEzMDYxNTMyLC0yMDE5ODYwNjld
+fQ==
 -->
