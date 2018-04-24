@@ -148,6 +148,7 @@ To get the perspective transform the vertices for the region_of_interest were de
 An ilustration is shown below:
 <br/> ![alt text][image10]
 
+##### 3.2 Perspective transform.
 
 
 
@@ -258,7 +259,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg4NTY3NDc0LC0xNjE3Njg0NDkxLC0xMT
+eyJoaXN0b3J5IjpbNTg1MjAwMDQ4LC0xNjE3Njg0NDkxLC0xMT
 IwOTczMDY0LDQyNzAxMDI3NiwxMjEzMDQ4NTU1LDEwNzMxNDM5
 MzUsMTAxNjMxNTQzMiwtNzQzMDg2NzQsMTk3NzQ0NTA3LDk3NT
 Y4MjEwMSwxMTY4ODU2Mjg0LC0xMDMxNTczNTc1LC0xNTQ5NzE5
