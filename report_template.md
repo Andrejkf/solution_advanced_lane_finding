@@ -241,10 +241,11 @@ imghhalf = imgh/2
 ```
 
 
-#### 6. 
+#### 6. Lane area is identification.
 
- Provide an example image of your result plotted back down onto the road such that the lane area is identified clearly.
+##### Provide an example image of your result plotted back down onto the road such that the lane area is identified clearly.
 
+In cells 27 and 
 I implemented this step in lines # through # in my code in `yet_another_file.py` in the function `map_lane()`.  Here is an example of my result on a test image:
 
 ![alt text][image6]
@@ -310,11 +311,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyNTA2NjA3LDUzNjgzMDkzNyw5ODY1MD
-A2NzEsLTE2MTI1NzE4NjUsMTU1MTM0ODI3OSwtMTY5NDE5MTg5
-OCwtMTg3MDU5MzY3OCwtMTYzNzYzMzMzMSw1ODUyMDAwNDgsLT
-E2MTc2ODQ0OTEsLTExMjA5NzMwNjQsNDI3MDEwMjc2LDEyMTMw
-NDg1NTUsMTA3MzE0MzkzNSwxMDE2MzE1NDMyLC03NDMwODY3NC
-wxOTc3NDQ1MDcsOTc1NjgyMTAxLDExNjg4NTYyODQsLTEwMzE1
-NzM1NzVdfQ==
+eyJoaXN0b3J5IjpbMTkzNDUzMzQ1Nyw1MzY4MzA5MzcsOTg2NT
+AwNjcxLC0xNjEyNTcxODY1LDE1NTEzNDgyNzksLTE2OTQxOTE4
+OTgsLTE4NzA1OTM2NzgsLTE2Mzc2MzMzMzEsNTg1MjAwMDQ4LC
+0xNjE3Njg0NDkxLC0xMTIwOTczMDY0LDQyNzAxMDI3NiwxMjEz
+MDQ4NTU1LDEwNzMxNDM5MzUsMTAxNjMxNTQzMiwtNzQzMDg2Nz
+QsMTk3NzQ0NTA3LDk3NTY4MjEwMSwxMTY4ODU2Mjg0LC0xMDMx
+NTczNTc1XX0=
 -->
