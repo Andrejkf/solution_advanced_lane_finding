@@ -128,9 +128,9 @@ All that said, I defined the following functions:
 * hsv_wyMask(): (cell 28 Jupyter notebook). Used to apply a color white-yellow mask in HSV_color_space.
 * gray_binary(): (cell 29 Jupyter notebook). Used to get a binary thresholded image from images im grayscale. I tried using global  histogram equalization but I did not included in this pipeline.
 * hls_channel_binary(): (cell 30 Jupyter notebook). Used to apply binary threshold to S or L channel of image in HSL color space.
-* abs_sobel_thresh():  (cell 32 jupyter notebook). Used to apply sobel gradients in X or Y direction using cv2.Sobel to gray images. 
+* abs_sobel_thresh():  (cell 32 Jupyter notebook). Used to apply sobel gradients in X or Y direction using cv2.Sobel to gray images. 
 * mag_thresh():  (cell 33 Jupyter notebook). Used to apply Sobel L2 norm using cv2.Sobel to gray images. 
-* dir_threshold():  (cell 34 jupyter notebook). Used to apply Sobel directional threshold using cv2.Sobel to gray images.
+* dir_threshold():  (cell 34 Jupyter notebook). Used to apply Sobel directional threshold using cv2.Sobel to gray images.
 * binary_threshold():  (cell 37 Jupyter notebook). Used to generate the combined binary thresholded image.
 Some images to ilustrate the process are shown below:
 
@@ -319,7 +319,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDczNTA2OSwxNjI1OTkzNDQzLDEzOD
+eyJoaXN0b3J5IjpbMTc5NjU3Njk4OSwxNjI1OTkzNDQzLDEzOD
 AwMzI4ODcsNTM2ODMwOTM3LDk4NjUwMDY3MSwtMTYxMjU3MTg2
 NSwxNTUxMzQ4Mjc5LC0xNjk0MTkxODk4LC0xODcwNTkzNjc4LC
 0xNjM3NjMzMzMxLDU4NTIwMDA0OCwtMTYxNzY4NDQ5MSwtMTEy
