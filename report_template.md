@@ -164,7 +164,7 @@ An ilustration is shown below:
 
 3.2.3. In addition, to define the source and destination points the output heigh of points was defined as *0.4 * imghigh*  (cell 52 Jupyter notebook) for top_rigth and top_left vertices as destination points. 
 
-This is a shot part of code to ilustrate it:
+Bellow, you will fin short part of code to ilustrate it:
 
 ```
 # get oringinal and destination points based on previously calculated hough lines
@@ -320,7 +320,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0Nzk1OTExMiw1OTE3OTY2MjEsMTYyNT
+eyJoaXN0b3J5IjpbLTQ2ODc3MDM3Miw1OTE3OTY2MjEsMTYyNT
 k5MzQ0MywxMzgwMDMyODg3LDUzNjgzMDkzNyw5ODY1MDA2NzEs
 LTE2MTI1NzE4NjUsMTU1MTM0ODI3OSwtMTY5NDE5MTg5OCwtMT
 g3MDU5MzY3OCwtMTYzNzYzMzMzMSw1ODUyMDAwNDgsLTE2MTc2
