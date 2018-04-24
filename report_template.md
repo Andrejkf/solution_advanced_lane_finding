@@ -189,6 +189,7 @@ To ilustrate this process a sample image is shown below:
 #### 4. Lane lines polinomial fit.
 ##### Describe how (and identify where in your code) you identified lane-line pixels and fit their positions with a polynomial?
 
+
 Then I did some other stuff and fit my lane lines with a 2nd order polynomial kinda like this:
 
 ![alt text][image5]
@@ -267,10 +268,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTQxOTE4OTgsLTE4NzA1OTM2NzgsLT
-E2Mzc2MzMzMzEsNTg1MjAwMDQ4LC0xNjE3Njg0NDkxLC0xMTIw
-OTczMDY0LDQyNzAxMDI3NiwxMjEzMDQ4NTU1LDEwNzMxNDM5Mz
-UsMTAxNjMxNTQzMiwtNzQzMDg2NzQsMTk3NzQ0NTA3LDk3NTY4
-MjEwMSwxMTY4ODU2Mjg0LC0xMDMxNTczNTc1LC0xNTQ5NzE5OD
-csMTUyNTUzOTc2MiwyMTMwNjE1MzIsLTIwMTk4NjA2OV19
+eyJoaXN0b3J5IjpbMjAwODUwMjk2LC0xNjk0MTkxODk4LC0xOD
+cwNTkzNjc4LC0xNjM3NjMzMzMxLDU4NTIwMDA0OCwtMTYxNzY4
+NDQ5MSwtMTEyMDk3MzA2NCw0MjcwMTAyNzYsMTIxMzA0ODU1NS
+wxMDczMTQzOTM1LDEwMTYzMTU0MzIsLTc0MzA4Njc0LDE5Nzc0
+NDUwNyw5NzU2ODIxMDEsMTE2ODg1NjI4NCwtMTAzMTU3MzU3NS
+wtMTU0OTcxOTg3LDE1MjU1Mzk3NjIsMjEzMDYxNTMyLC0yMDE5
+ODYwNjldfQ==
 -->
