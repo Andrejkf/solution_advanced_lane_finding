@@ -218,7 +218,7 @@ This is illustrated below:
 
 5.1.1. Function drawcurvedline() was defined. (cell 62 Jupyter notebook). Used to estimate curvature radius for lanes. 
 
-A conversion from pizxel units  to meters is done. then an estimation is done using numpy.polyfit().
+A conversion *from pixel units  to meters* is done. then an estimation is done using numpy.polyfit().
 
 To ilustrate process, code is shown below:
 ```
@@ -323,7 +323,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1NTgxNjIzLC0xODAwNTQ4MTcwLDU5Nj
+eyJoaXN0b3J5IjpbMzUwOTAyMTAzLC0xODAwNTQ4MTcwLDU5Nj
 Y4NDY5Miw1OTE3OTY2MjEsMTYyNTk5MzQ0MywxMzgwMDMyODg3
 LDUzNjgzMDkzNyw5ODY1MDA2NzEsLTE2MTI1NzE4NjUsMTU1MT
 M0ODI3OSwtMTY5NDE5MTg5OCwtMTg3MDU5MzY3OCwtMTYzNzYz
