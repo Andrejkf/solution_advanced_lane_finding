@@ -50,7 +50,7 @@ The images in **camera_cal** are for camera calibration.
 
 The images in **test_images** are the test images provided for testing the pipeline.
 
-The output videos are located in the **output_videos** folder.
+The output videos are located in the folder named **output_videos**.
 
 
 
@@ -334,11 +334,11 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgyMzcyNzcxLDQzODU3MTUxOCwtMTA3Mj
-c3NjkyNSwtMTk2Mzg3MDgyOCw3MDQzNjYzMjAsLTMzMTIxMTgw
-MCwyODc2MTY3MjQsLTE5MzI2MzI0ODUsMTkyMTk4MTIxNywxMT
-YwNjA5Njg1LC0xODAwNTQ4MTcwLDU5NjY4NDY5Miw1OTE3OTY2
-MjEsMTYyNTk5MzQ0MywxMzgwMDMyODg3LDUzNjgzMDkzNyw5OD
-Y1MDA2NzEsLTE2MTI1NzE4NjUsMTU1MTM0ODI3OSwtMTY5NDE5
-MTg5OF19
+eyJoaXN0b3J5IjpbMjA2OTg0OTk2MCwyODIzNzI3NzEsNDM4NT
+cxNTE4LC0xMDcyNzc2OTI1LC0xOTYzODcwODI4LDcwNDM2NjMy
+MCwtMzMxMjExODAwLDI4NzYxNjcyNCwtMTkzMjYzMjQ4NSwxOT
+IxOTgxMjE3LDExNjA2MDk2ODUsLTE4MDA1NDgxNzAsNTk2Njg0
+NjkyLDU5MTc5NjYyMSwxNjI1OTkzNDQzLDEzODAwMzI4ODcsNT
+M2ODMwOTM3LDk4NjUwMDY3MSwtMTYxMjU3MTg2NSwxNTUxMzQ4
+Mjc5XX0=
 -->
