@@ -158,7 +158,7 @@ An ilustration is shown below:
 
 ##### 3.2 Perspective transform.
 
-3.2.1. One image of ROI was selected. (Cell 42 in Jupyter notebook)
+3.2.1. First, image of ROI was selected. (Cell 42 in Jupyter notebook)
 
 3.2.2. Hough transform is applied to binary image Region of Interest with function cv2.HoughLinesP(). (Cell 49 in Jupyter notebook)
 
@@ -320,11 +320,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjQ0Nzk1OSw1OTE3OTY2MjEsMTYyNT
-k5MzQ0MywxMzgwMDMyODg3LDUzNjgzMDkzNyw5ODY1MDA2NzEs
-LTE2MTI1NzE4NjUsMTU1MTM0ODI3OSwtMTY5NDE5MTg5OCwtMT
-g3MDU5MzY3OCwtMTYzNzYzMzMzMSw1ODUyMDAwNDgsLTE2MTc2
-ODQ0OTEsLTExMjA5NzMwNjQsNDI3MDEwMjc2LDEyMTMwNDg1NT
-UsMTA3MzE0MzkzNSwxMDE2MzE1NDMyLC03NDMwODY3NCwxOTc3
-NDQ1MDddfQ==
+eyJoaXN0b3J5IjpbMjc2OTcyMTk1LDU5MTc5NjYyMSwxNjI1OT
+kzNDQzLDEzODAwMzI4ODcsNTM2ODMwOTM3LDk4NjUwMDY3MSwt
+MTYxMjU3MTg2NSwxNTUxMzQ4Mjc5LC0xNjk0MTkxODk4LC0xOD
+cwNTkzNjc4LC0xNjM3NjMzMzMxLDU4NTIwMDA0OCwtMTYxNzY4
+NDQ5MSwtMTEyMDk3MzA2NCw0MjcwMTAyNzYsMTIxMzA0ODU1NS
+wxMDczMTQzOTM1LDEwMTYzMTU0MzIsLTc0MzA4Njc0LDE5Nzc0
+NDUwN119
 -->
