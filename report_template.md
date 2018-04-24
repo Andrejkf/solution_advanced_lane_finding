@@ -35,7 +35,7 @@ Images for camera calibration are localted on folder **./output_images** . This 
 
 * [cx_car_gray_images](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/tree/master/output_images/cx_car_gray_images "cx_car_gray_images"): Folder showing binary images from gray images.
 * [d_car_s_channel_binary_images](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/tree/master/output_images/d_car_s_channel_binary_images "d_car_s_channel_binary_images"): Folder with binary images from s_channel of images in HLS color space.
-* [e_car_s_channel_binary_images](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/tree/master/output_images/e_car_s_channel_binary_images "e_car_s_channel_binary_images"): Folder with binary images from L_channel of images in HLS color space.
+* [e_car_L_channel_binary_images](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/tree/master/output_images/e_car_L_channel_binary_images "e_car_L_channel_binary_images"): Folder with binary images from L_channel of images in HLS color space.
 * [f_car_sobelx_binary_images](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/tree/master/output_images/f_car_sobelx_binary_images "f_car_sobelx_binary_images"): Folder with binary images after applying gradients in x direction.
 * [g_car_sobely_binary_images](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/tree/master/output_images/g_car_sobely_binary_images "g_car_sobely_binary_images"):
 Folder with binary images after applying gradients in y direction.
@@ -274,11 +274,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTM0ODI3OSwtMTY5NDE5MTg5OCwtMT
-g3MDU5MzY3OCwtMTYzNzYzMzMzMSw1ODUyMDAwNDgsLTE2MTc2
-ODQ0OTEsLTExMjA5NzMwNjQsNDI3MDEwMjc2LDEyMTMwNDg1NT
-UsMTA3MzE0MzkzNSwxMDE2MzE1NDMyLC03NDMwODY3NCwxOTc3
-NDQ1MDcsOTc1NjgyMTAxLDExNjg4NTYyODQsLTEwMzE1NzM1Nz
-UsLTE1NDk3MTk4NywxNTI1NTM5NzYyLDIxMzA2MTUzMiwtMjAx
-OTg2MDY5XX0=
+eyJoaXN0b3J5IjpbLTM5NjE1MDYsMTU1MTM0ODI3OSwtMTY5ND
+E5MTg5OCwtMTg3MDU5MzY3OCwtMTYzNzYzMzMzMSw1ODUyMDAw
+NDgsLTE2MTc2ODQ0OTEsLTExMjA5NzMwNjQsNDI3MDEwMjc2LD
+EyMTMwNDg1NTUsMTA3MzE0MzkzNSwxMDE2MzE1NDMyLC03NDMw
+ODY3NCwxOTc3NDQ1MDcsOTc1NjgyMTAxLDExNjg4NTYyODQsLT
+EwMzE1NzM1NzUsLTE1NDk3MTk4NywxNTI1NTM5NzYyLDIxMzA2
+MTUzMl19
 -->
