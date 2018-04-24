@@ -288,14 +288,11 @@ Something that the solution is failing in, is that *the slower the radius of cur
 
 I also have noticed that for some images *noisy binary images* during the image preprocessing so further image preprocessing would end up with a more robust model to changes in brightness, temperature, fuzziness on lane lines. This can be observed on the seccond video *(challenge video)* where the lane lines stimation is lost while the car is being driven under the bridge.
 
-If I were going further on this project I would install a camera on a car and I would test this model again.
-
-It will be amaizing
-
-Improvements
 #### Possible improvements
 
+* If I were going further on this project I would install a camera on a car and I would test this model again.
 * To make this solution approach more robust outliers (lane lines detection) should be added. 
+* It would be very good to try other aproaches for low cu
 
 
 
@@ -339,7 +336,7 @@ Improvements
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDYzOTUwNCw0Mzg1NzE1MTgsLTEwNz
+eyJoaXN0b3J5IjpbMTI2MzAwNjE3MCw0Mzg1NzE1MTgsLTEwNz
 I3NzY5MjUsLTE5NjM4NzA4MjgsNzA0MzY2MzIwLC0zMzEyMTE4
 MDAsMjg3NjE2NzI0LC0xOTMyNjMyNDg1LDE5MjE5ODEyMTcsMT
 E2MDYwOTY4NSwtMTgwMDU0ODE3MCw1OTY2ODQ2OTIsNTkxNzk2
