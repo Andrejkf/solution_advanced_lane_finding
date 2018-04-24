@@ -26,7 +26,8 @@ The goals / steps of this project are the following:
 
 ### Student Notes
 
-Images for camera calibration are localted on folder **./output_images** 
+Images for camera calibration are localted on folder **./output_images** . This folder contains:
+* a_chess_corners: Folder with the ca
 
 
 ### Camera Calibration
@@ -128,6 +129,6 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 [image6]: ./examples/example_output.jpg "Output"
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzk1MjY1NjUsMjEzMDYxNTMyLC0yMD
-E5ODYwNjldfQ==
+eyJoaXN0b3J5IjpbLTgyODQ4MTUwNCwyMTMwNjE1MzIsLTIwMT
+k4NjA2OV19
 -->
