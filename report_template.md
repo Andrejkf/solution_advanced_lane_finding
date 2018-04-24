@@ -265,7 +265,7 @@ An ilustration is shown below:
 
 ##### Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Output videos are located on the folder *output_videos*. however you can watch them on the following links:
+Output videos are located in this repository on the folder *./output_videos*. however you can watch them on the following links:
 * [Project video solution](https://youtu.be/lyNLjPRfZ_8)
 * [Testing initial solution on challenge video](https://youtu.be/RNq73SDdllc)
 * [Testing initial solution on a harder challenge video](https://youtu.be/FhY_4tScF7M)
@@ -317,11 +317,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzI3NzY5MjUsLTE5NjM4NzA4MjgsNz
-A0MzY2MzIwLC0zMzEyMTE4MDAsMjg3NjE2NzI0LC0xOTMyNjMy
-NDg1LDE5MjE5ODEyMTcsMTE2MDYwOTY4NSwtMTgwMDU0ODE3MC
-w1OTY2ODQ2OTIsNTkxNzk2NjIxLDE2MjU5OTM0NDMsMTM4MDAz
-Mjg4Nyw1MzY4MzA5MzcsOTg2NTAwNjcxLC0xNjEyNTcxODY1LD
-E1NTEzNDgyNzksLTE2OTQxOTE4OTgsLTE4NzA1OTM2NzgsLTE2
-Mzc2MzMzMzFdfQ==
+eyJoaXN0b3J5IjpbMTQzNzczNTM4MSwtMTA3Mjc3NjkyNSwtMT
+k2Mzg3MDgyOCw3MDQzNjYzMjAsLTMzMTIxMTgwMCwyODc2MTY3
+MjQsLTE5MzI2MzI0ODUsMTkyMTk4MTIxNywxMTYwNjA5Njg1LC
+0xODAwNTQ4MTcwLDU5NjY4NDY5Miw1OTE3OTY2MjEsMTYyNTk5
+MzQ0MywxMzgwMDMyODg3LDUzNjgzMDkzNyw5ODY1MDA2NzEsLT
+E2MTI1NzE4NjUsMTU1MTM0ODI3OSwtMTY5NDE5MTg5OCwtMTg3
+MDU5MzY3OF19
 -->
