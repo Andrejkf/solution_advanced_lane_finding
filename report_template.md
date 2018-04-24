@@ -126,7 +126,6 @@ All that said, I defined the following functions:
 * dir_threshold():  (cell 34 jupyter notebook). Used to apply Sobel directional threshold using cv2.Sobel to gray images.
 * binary_threshold():  (cell 37 jupyter notebook). Used to generate the combined binary thresholded image.
 An image to ilustrate the process is shown below:
-* 
 
 
 I applied a combination of 
@@ -232,9 +231,9 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTM4NTE1MDAsMTIxMzA0ODU1NSwxMD
-czMTQzOTM1LDEwMTYzMTU0MzIsLTc0MzA4Njc0LDE5Nzc0NDUw
-Nyw5NzU2ODIxMDEsMTE2ODg1NjI4NCwtMTAzMTU3MzU3NSwtMT
-U0OTcxOTg3LDE1MjU1Mzk3NjIsMjEzMDYxNTMyLC0yMDE5ODYw
-NjldfQ==
+eyJoaXN0b3J5IjpbODI4NDg0MzE2LDEyMTMwNDg1NTUsMTA3Mz
+E0MzkzNSwxMDE2MzE1NDMyLC03NDMwODY3NCwxOTc3NDQ1MDcs
+OTc1NjgyMTAxLDExNjg4NTYyODQsLTEwMzE1NzM1NzUsLTE1ND
+k3MTk4NywxNTI1NTM5NzYyLDIxMzA2MTUzMiwtMjAxOTg2MDY5
+XX0=
 -->
