@@ -216,7 +216,7 @@ This is illustrated below:
 #### 5.1 Radius of curvature of the lane
 ##### Describe how (and identify where in your code) you calculated the radius of curvature of the lane and the position of the vehicle with respect to center.
 
-5.1.1. Function drawcurvedline() was defined. (cell 62 Jupyter notebook). Used to stimate curvature radius for lanes. 
+5.1.1. Function drawcurvedline() was defined. (cell 62 Jupyter notebook). Used to estimate curvature radius for lanes. 
 
 A conversion from pizxel units  to meters is done. then an estimation is done using numpy.polyfit().
 
@@ -323,11 +323,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDA1NDgxNzAsNTk2Njg0NjkyLDU5MT
-c5NjYyMSwxNjI1OTkzNDQzLDEzODAwMzI4ODcsNTM2ODMwOTM3
-LDk4NjUwMDY3MSwtMTYxMjU3MTg2NSwxNTUxMzQ4Mjc5LC0xNj
-k0MTkxODk4LC0xODcwNTkzNjc4LC0xNjM3NjMzMzMxLDU4NTIw
-MDA0OCwtMTYxNzY4NDQ5MSwtMTEyMDk3MzA2NCw0MjcwMTAyNz
-YsMTIxMzA0ODU1NSwxMDczMTQzOTM1LDEwMTYzMTU0MzIsLTc0
-MzA4Njc0XX0=
+eyJoaXN0b3J5IjpbNTI1NTgxNjIzLC0xODAwNTQ4MTcwLDU5Nj
+Y4NDY5Miw1OTE3OTY2MjEsMTYyNTk5MzQ0MywxMzgwMDMyODg3
+LDUzNjgzMDkzNyw5ODY1MDA2NzEsLTE2MTI1NzE4NjUsMTU1MT
+M0ODI3OSwtMTY5NDE5MTg5OCwtMTg3MDU5MzY3OCwtMTYzNzYz
+MzMzMSw1ODUyMDAwNDgsLTE2MTc2ODQ0OTEsLTExMjA5NzMwNj
+QsNDI3MDEwMjc2LDEyMTMwNDg1NTUsMTA3MzE0MzkzNSwxMDE2
+MzE1NDMyXX0=
 -->
