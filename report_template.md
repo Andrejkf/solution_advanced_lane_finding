@@ -64,8 +64,8 @@ To get the camera matrix and distortion coefficients in file *camera_calibration
 * * 1.5. get_undistorted(): To apply distortion correction to images.
 
 This steps are ilustrated below:
-<br/> ![alt text][image1]
-
+<br/> ![alt text][image1]  ![alt text][image1]
+<br/>
 
 ##### Steps
 1. Get inner corners.
@@ -203,7 +203,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU3NTQ1MzU4LDk3NTY4MjEwMSwxMTY4OD
+eyJoaXN0b3J5IjpbMzU1MzczOTE0LDk3NTY4MjEwMSwxMTY4OD
 U2Mjg0LC0xMDMxNTczNTc1LC0xNTQ5NzE5ODcsMTUyNTUzOTc2
 MiwyMTMwNjE1MzIsLTIwMTk4NjA2OV19
 -->
