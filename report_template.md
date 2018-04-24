@@ -172,9 +172,9 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [image1]: ./camera_cal/calibration3.jpg "chess distorted img"
 
-[image2]: ./output_images1/b_undistorted_chess_images/b14.png "chess corners img"
+[image2]: ./output_images1/a_chess_corners/a14.png "chess corners img"
 
-[image3]: ./output_images1/a_chess_corners/ "  "
+[image3]: ./output_images1/b_undistorted_chess_images/b14.png " original and undistorted chess "
 
 [image4]: ./output_images1/a_chess_corners/ "  "
 
@@ -199,7 +199,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDIwMzM5MTYsMTE2ODg1NjI4NCwtMT
-AzMTU3MzU3NSwtMTU0OTcxOTg3LDE1MjU1Mzk3NjIsMjEzMDYx
-NTMyLC0yMDE5ODYwNjldfQ==
+eyJoaXN0b3J5IjpbLTk5OTU1MjEzNCwxMTY4ODU2Mjg0LC0xMD
+MxNTczNTc1LC0xNTQ5NzE5ODcsMTUyNTUzOTc2MiwyMTMwNjE1
+MzIsLTIwMTk4NjA2OV19
 -->
