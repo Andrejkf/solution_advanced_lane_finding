@@ -268,19 +268,7 @@ An ilustration is shown below:
 Output videos are located on the folder *output_videos*. however you can watch them on the following links:
 * [Project video solution](https://youtu.be/lyNLjPRfZ_8)
 * [Testing initial solution on challenge video](https://youtu.be/RNq73SDdllc)
-* [Testing initial solution on a harder challenge video]
-
-
-solution project vdeo
-
-esting on challenge video
-
-
-testing on harder challenge video
-https://youtu.be/FhY_4tScF7M
-
-* Project video is f
-Here's a [link to my video result](./output_videos/solution_project_video.mp4)
+* [Testing initial solution on a harder challenge video](https://youtu.be/FhY_4tScF7M)
 
 ---
 
@@ -327,21 +315,9 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 
 
-[video1]: ./output_videos/solution_project_video.mp4 "Video"
 
-
-
-
-
-
-[output_videos](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/tree/master/output_videos "output_videos")
-
-
-output_videos
-
-[solution_project_video.mp4](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/blob/master/output_videos/solution_project_video.mp4 "solution_project_video.mp4")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDk1Nzc5MTYsLTE5NjM4NzA4MjgsNz
+eyJoaXN0b3J5IjpbLTEwNzI3NzY5MjUsLTE5NjM4NzA4MjgsNz
 A0MzY2MzIwLC0zMzEyMTE4MDAsMjg3NjE2NzI0LC0xOTMyNjMy
 NDg1LDE5MjE5ODEyMTcsMTE2MDYwOTY4NSwtMTgwMDU0ODE3MC
 w1OTY2ODQ2OTIsNTkxNzk2NjIxLDE2MjU5OTM0NDMsMTM4MDAz
