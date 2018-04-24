@@ -212,11 +212,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [image6]: ./output_images/e_car_L_channel_binary_images/e6.png "  lchannel binary img"
 
-[image7]: ./output_images/f_car_sobelx_binary_images/ " x sobel img "
+[image7]: ./output_images/f_car_sobelx_binary_images/f6.png " x sobel img "
 
-[image8]: ./output_images/g_car_sobely_binary_images/ " y sobel img  "
+[image8]: ./output_images/g_car_sobely_binary_images/g6.png " y sobel img  "
 
-[image9]: ./output_images/h_car_combined_binary_images/ " combined thresholds  binary img "
+[image9]: ./output_images/h_car_combined_binary_images/h6.png " combined thresholds  binary img "
 
 [image10]: ./output_images/i_car_roi_combined_binary_images/ " roi in binary img "
 
@@ -242,9 +242,9 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODUxNDI1ODksLTExMjA5NzMwNjQsND
-I3MDEwMjc2LDEyMTMwNDg1NTUsMTA3MzE0MzkzNSwxMDE2MzE1
-NDMyLC03NDMwODY3NCwxOTc3NDQ1MDcsOTc1NjgyMTAxLDExNj
-g4NTYyODQsLTEwMzE1NzM1NzUsLTE1NDk3MTk4NywxNTI1NTM5
-NzYyLDIxMzA2MTUzMiwtMjAxOTg2MDY5XX0=
+eyJoaXN0b3J5IjpbNTQyNTMwMTA3LC0xMTIwOTczMDY0LDQyNz
+AxMDI3NiwxMjEzMDQ4NTU1LDEwNzMxNDM5MzUsMTAxNjMxNTQz
+MiwtNzQzMDg2NzQsMTk3NzQ0NTA3LDk3NTY4MjEwMSwxMTY4OD
+U2Mjg0LC0xMDMxNTczNTc1LC0xNTQ5NzE5ODcsMTUyNTUzOTc2
+MiwyMTMwNjE1MzIsLTIwMTk4NjA2OV19
 -->
