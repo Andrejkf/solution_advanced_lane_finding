@@ -65,7 +65,7 @@ To get the camera matrix and distortion coefficients in file *camera_calibration
  
 * 1.3. load_coefficients(): Used to load the previously saved information(camera matrix and distortion coefficients) to make process faster for the pipeline on the video instead of calculating them again.
 
-* 1.4. get_coefficients(): Used to either load distortion coefficients from the pickle file or to calculate them.
+* 1.4. get_coefficients(): Used to either load distortion coefficients from the pickle file ([wide_dist_pickle.p](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/blob/master/wide_dist_pickle.p "wide_dist_pickle.p"))or to calculate them.
 * 1.5. get_undistorted(): To apply distortion correction to images.
 
 ##### Steps
@@ -334,7 +334,7 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDg1NDI0OTEsMjgyMzcyNzcxLDQzOD
+eyJoaXN0b3J5IjpbLTE5OTc0NjAwMzEsMjgyMzcyNzcxLDQzOD
 U3MTUxOCwtMTA3Mjc3NjkyNSwtMTk2Mzg3MDgyOCw3MDQzNjYz
 MjAsLTMzMTIxMTgwMCwyODc2MTY3MjQsLTE5MzI2MzI0ODUsMT
 kyMTk4MTIxNywxMTYwNjA5Njg1LC0xODAwNTQ4MTcwLDU5NjY4
