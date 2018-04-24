@@ -103,8 +103,7 @@ After applying distortion correction to the chess board images I saved the camer
 
 
 
-To demonstrate this step, I will describe how I apply the distortion correction to one of the test images like this one:
-![alt text][image2]
+
 
 #### 2. Describe how (and identify where in your code) you used color transforms, gradients or other methods to create a thresholded binary image.  Provide an example of a binary image result.
 
@@ -207,8 +206,8 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjMxNTQzMiwtNzQzMDg2NzQsMTk3Nz
-Q0NTA3LDk3NTY4MjEwMSwxMTY4ODU2Mjg0LC0xMDMxNTczNTc1
-LC0xNTQ5NzE5ODcsMTUyNTUzOTc2MiwyMTMwNjE1MzIsLTIwMT
-k4NjA2OV19
+eyJoaXN0b3J5IjpbMTE4NDg2MjY3OCwxMDE2MzE1NDMyLC03ND
+MwODY3NCwxOTc3NDQ1MDcsOTc1NjgyMTAxLDExNjg4NTYyODQs
+LTEwMzE1NzM1NzUsLTE1NDk3MTk4NywxNTI1NTM5NzYyLDIxMz
+A2MTUzMiwtMjAxOTg2MDY5XX0=
 -->
