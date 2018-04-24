@@ -215,11 +215,15 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [image10]: ./output_images/i_car_roi_combined_binary_images/ "  "
 
-[image11]: ./output_images/i_car_roi_combined_binary_images/ "  "
+[image11]: ./output_images/j_car_lanelines_on_road/ "  "
 
-[image12]: ./output_images/i_car_roi_combined_binary_images/ "  "
+[image12]: ./output_images/k_car_bird_eye/ "  "
 
-[image13]: ./output_images/i_car_roi_combined_binary_images/ "  "
+[image13]: ./output_images/l_car_full_pipeline/ "  "
+
+
+
+
 
 [image14]: ./output_images/i_car_roi_combined_binary_images/ "  "
 
@@ -233,9 +237,9 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMzk3ODk2MSwxMjEzMDQ4NTU1LDEwNz
-MxNDM5MzUsMTAxNjMxNTQzMiwtNzQzMDg2NzQsMTk3NzQ0NTA3
-LDk3NTY4MjEwMSwxMTY4ODU2Mjg0LC0xMDMxNTczNTc1LC0xNT
-Q5NzE5ODcsMTUyNTUzOTc2MiwyMTMwNjE1MzIsLTIwMTk4NjA2
-OV19
+eyJoaXN0b3J5IjpbMzcxNTMxNTQxLDEyMTMwNDg1NTUsMTA3Mz
+E0MzkzNSwxMDE2MzE1NDMyLC03NDMwODY3NCwxOTc3NDQ1MDcs
+OTc1NjgyMTAxLDExNjg4NTYyODQsLTEwMzE1NzM1NzUsLTE1ND
+k3MTk4NywxNTI1NTM5NzYyLDIxMzA2MTUzMiwtMjAxOTg2MDY5
+XX0=
 -->
