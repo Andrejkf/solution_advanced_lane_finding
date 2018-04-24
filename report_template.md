@@ -124,7 +124,7 @@ Note: I believe that x_treshold, y_threshold, magnitude_threshol and direction_t
 The values of threshold used where tunned by trial and error looking to reduce all possible points/pixels that might introduce noise in the predictions.
 
 All that said, I defined the following functions:
-* hls_wyMask(). (cell 27 jupyter notebook). Used to apply a color white-yellow mask in HLS_color_space while keeping threshold values from project 1.
+* hls_wyMask(). (cell 27 Jupyter notebook). Used to apply a color white-yellow mask in HLS_color_space while keeping threshold values from project 1.
 * hsv_wyMask(): (cell 28 jupyter notebook). Used to apply a color white-yellow mask in HSV_color_space.
 * gray_binary(): (cell 29 jupyter notebook). Used to get a binary thresholded image from images im grayscale. I tried using global  histogram equalization but I did not included in this pipeline.
 * hls_channel_binary(): (cell 30 jupyter notebook). Used to apply binary threshold to S or L channel of image in HSL color space.
@@ -319,11 +319,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTk5MzQ0MywxMzgwMDMyODg3LDUzNj
-gzMDkzNyw5ODY1MDA2NzEsLTE2MTI1NzE4NjUsMTU1MTM0ODI3
-OSwtMTY5NDE5MTg5OCwtMTg3MDU5MzY3OCwtMTYzNzYzMzMzMS
-w1ODUyMDAwNDgsLTE2MTc2ODQ0OTEsLTExMjA5NzMwNjQsNDI3
-MDEwMjc2LDEyMTMwNDg1NTUsMTA3MzE0MzkzNSwxMDE2MzE1ND
-MyLC03NDMwODY3NCwxOTc3NDQ1MDcsOTc1NjgyMTAxLDExNjg4
-NTYyODRdfQ==
+eyJoaXN0b3J5IjpbLTI1Njk4MTc1NywxNjI1OTkzNDQzLDEzOD
+AwMzI4ODcsNTM2ODMwOTM3LDk4NjUwMDY3MSwtMTYxMjU3MTg2
+NSwxNTUxMzQ4Mjc5LC0xNjk0MTkxODk4LC0xODcwNTkzNjc4LC
+0xNjM3NjMzMzMxLDU4NTIwMDA0OCwtMTYxNzY4NDQ5MSwtMTEy
+MDk3MzA2NCw0MjcwMTAyNzYsMTIxMzA0ODU1NSwxMDczMTQzOT
+M1LDEwMTYzMTU0MzIsLTc0MzA4Njc0LDE5Nzc0NDUwNyw5NzU2
+ODIxMDFdfQ==
 -->
