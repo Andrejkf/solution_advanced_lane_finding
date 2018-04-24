@@ -278,9 +278,7 @@ In addition,  you may want to watch them in your browser using the following lin
 
 ##### Briefly discuss any problems / issues you faced in your implementation of this project.  Where will your pipeline likely fail?  What could you do to make it more robust?
 
-#### Problems detected
-
-I have noticed that sometimes the model returns slope estimations divinding by zero, so this is something to related with the slope calculation and might be improved.
+I have noticed that sometimes the model returns slope estimations divinding by zero, so this is something related to the slope calculation and might be improved. That is why you get the perception in some miliseconds that the lane lines disapear.
 
 If I were going further on this project I would install a camera on a car and I would test this model again.
 
@@ -333,7 +331,7 @@ Improvements
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NjY5MDAxLDQzODU3MTUxOCwtMTA3Mj
+eyJoaXN0b3J5IjpbNTAyNzI0MDQ0LDQzODU3MTUxOCwtMTA3Mj
 c3NjkyNSwtMTk2Mzg3MDgyOCw3MDQzNjYzMjAsLTMzMTIxMTgw
 MCwyODc2MTY3MjQsLTE5MzI2MzI0ODUsMTkyMTk4MTIxNywxMT
 YwNjA5Njg1LC0xODAwNTQ4MTcwLDU5NjY4NDY5Miw1OTE3OTY2
