@@ -139,7 +139,7 @@ An image to ilustrate the process is shown below:
 
 ##### Describe how (and identify where in your code) you performed a perspective transform and provide an example of a transformed image.
 
-To get the perspective transform the vertices for the region_of_interest were defined and then 
+To get the perspective transform the vertices for the region_of_interest were defined and then warped images were obtained by using function cv2.
 
 ##### 3.1 ROI ( Region Of Interest)
 
@@ -251,9 +251,10 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0ODM2OTM3LC0xNjE3Njg0NDkxLC0xMT
-IwOTczMDY0LDQyNzAxMDI3NiwxMjEzMDQ4NTU1LDEwNzMxNDM5
-MzUsMTAxNjMxNTQzMiwtNzQzMDg2NzQsMTk3NzQ0NTA3LDk3NT
-Y4MjEwMSwxMTY4ODU2Mjg0LC0xMDMxNTczNTc1LC0xNTQ5NzE5
-ODcsMTUyNTUzOTc2MiwyMTMwNjE1MzIsLTIwMTk4NjA2OV19
+eyJoaXN0b3J5IjpbMTgwOTY1NjkwNywtMTYxNzY4NDQ5MSwtMT
+EyMDk3MzA2NCw0MjcwMTAyNzYsMTIxMzA0ODU1NSwxMDczMTQz
+OTM1LDEwMTYzMTU0MzIsLTc0MzA4Njc0LDE5Nzc0NDUwNyw5Nz
+U2ODIxMDEsMTE2ODg1NjI4NCwtMTAzMTU3MzU3NSwtMTU0OTcx
+OTg3LDE1MjU1Mzk3NjIsMjEzMDYxNTMyLC0yMDE5ODYwNjldfQ
+==
 -->
