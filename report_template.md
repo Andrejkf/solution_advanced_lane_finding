@@ -123,7 +123,8 @@ All that said, I defined the following functions:
 * hls_channel_binary(): (cell 30 jupyter notebook). Used to apply binary threshold to S or L channel of image in HSL color space.
 * abs_sobel_thresh():  (cell 32 jupyter notebook). Used to apply sobel gradients in X or Y direction using cv2.Sobel to gray images. 
 * mag_thresh():  (cell 33 jupyter notebook). Used to apply Sobel L2 norm using cv2.Sobel to gray images. 
-* dir_threshold():  (cell 34 jupyter notebook). Used to apply Sobel directional thresholdm using cv2.Sobel to gray images.
+* dir_threshold():  (cell 34 jupyter notebook). Used to apply Sobel directional threshold using cv2.Sobel to gray images.
+* 
 * 
 
 
@@ -230,9 +231,9 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYxMDk1NTM1LDEyMTMwNDg1NTUsMTA3Mz
-E0MzkzNSwxMDE2MzE1NDMyLC03NDMwODY3NCwxOTc3NDQ1MDcs
-OTc1NjgyMTAxLDExNjg4NTYyODQsLTEwMzE1NzM1NzUsLTE1ND
-k3MTk4NywxNTI1NTM5NzYyLDIxMzA2MTUzMiwtMjAxOTg2MDY5
-XX0=
+eyJoaXN0b3J5IjpbLTgyNTIyODUzNiwxMjEzMDQ4NTU1LDEwNz
+MxNDM5MzUsMTAxNjMxNTQzMiwtNzQzMDg2NzQsMTk3NzQ0NTA3
+LDk3NTY4MjEwMSwxMTY4ODU2Mjg0LC0xMDMxNTczNTc1LC0xNT
+Q5NzE5ODcsMTUyNTUzOTc2MiwyMTMwNjE1MzIsLTIwMTk4NjA2
+OV19
 -->
