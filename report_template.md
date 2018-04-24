@@ -58,7 +58,7 @@ The images in **test_images** are the test images provided for testing the pipel
 
 ### 1.  Camera Calibration
 To get the camera matrix and distortion coefficients in file *camera_calibration_final.py (also in notebook cell 6).*  class *CalibratorCamera* was defined. It has the following funtions:
-* 1.1 find_calibration_numbers(): Used to find chess board corners in grayscaled images and then to get camera matrix and distortion coefficients.
+ 1.1 find_calibration_numbers(): Used to find chess board corners in grayscaled images and then to get camera matrix and distortion coefficients.
 * 1.2. save_coefficients(): to save camera matrix and distortion coefficients in a pickle with  fileName='wide_dist_pickle.p'.
 * 1.3. load_coefficients() to load the previously saved information to make process faster for the pipeline on the video instead of calculating them again.
 * 1.4. get_coefficients(): Used to either load distortion coefficientes or to calculate them.
@@ -313,11 +313,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDAzMjg4Nyw1MzY4MzA5MzcsOTg2NT
-AwNjcxLC0xNjEyNTcxODY1LDE1NTEzNDgyNzksLTE2OTQxOTE4
-OTgsLTE4NzA1OTM2NzgsLTE2Mzc2MzMzMzEsNTg1MjAwMDQ4LC
-0xNjE3Njg0NDkxLC0xMTIwOTczMDY0LDQyNzAxMDI3NiwxMjEz
-MDQ4NTU1LDEwNzMxNDM5MzUsMTAxNjMxNTQzMiwtNzQzMDg2Nz
-QsMTk3NzQ0NTA3LDk3NTY4MjEwMSwxMTY4ODU2Mjg0LC0xMDMx
-NTczNTc1XX0=
+eyJoaXN0b3J5IjpbLTE5NjQ4NDEwNDMsMTM4MDAzMjg4Nyw1Mz
+Y4MzA5MzcsOTg2NTAwNjcxLC0xNjEyNTcxODY1LDE1NTEzNDgy
+NzksLTE2OTQxOTE4OTgsLTE4NzA1OTM2NzgsLTE2Mzc2MzMzMz
+EsNTg1MjAwMDQ4LC0xNjE3Njg0NDkxLC0xMTIwOTczMDY0LDQy
+NzAxMDI3NiwxMjEzMDQ4NTU1LDEwNzMxNDM5MzUsMTAxNjMxNT
+QzMiwtNzQzMDg2NzQsMTk3NzQ0NTA3LDk3NTY4MjEwMSwxMTY4
+ODU2Mjg0XX0=
 -->
