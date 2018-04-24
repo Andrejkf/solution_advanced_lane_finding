@@ -203,18 +203,27 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [image4]: ./output_images/cx_car_gray_images/ "  "
 
-[image5]: ./output_images/a_chess_corners/ "  "
+[image5]: ./output_images/d_car_s_channel_binary_images/ "  "
 
-[image6]: ./output_images/a_chess_corners/ "  "
+[image6]: ./output_images/e_car_L_channel_binary_images/ "  "
 
-[image7]: ./output_images/a_chess_corners/ "  "
+[image7]: ./output_images/f_car_sobelx_binary_images/ "  "
 
-[image8]: ./output_images/a_chess_corners/ "  "
+[image8]: ./output_images/g_car_sobely_binary_images/ "  "
 
-[image9]: ./output_images/a_chess_corners/ "  "
+[image9]: ./output_images/h_car_combined_binary_images/ "  "
 
-[image10]: ./output_images/a_chess_corners/ "  "
+[image10]: ./output_images/i_car_roi_combined_binary_images/ "  "
 
+[image11]: ./output_images/i_car_roi_combined_binary_images/ "  "
+
+[image12]: ./output_images/i_car_roi_combined_binary_images/ "  "
+
+[image13]: ./output_images/i_car_roi_combined_binary_images/ "  "
+
+[image14]: ./output_images/i_car_roi_combined_binary_images/ "  "
+
+[image15]: ./output_images/i_car_roi_combined_binary_images/ "  "
 
 
 
@@ -224,7 +233,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NjI2Mzg3MywxMjEzMDQ4NTU1LDEwNz
+eyJoaXN0b3J5IjpbMTQwMzk3ODk2MSwxMjEzMDQ4NTU1LDEwNz
 MxNDM5MzUsMTAxNjMxNTQzMiwtNzQzMDg2NzQsMTk3NzQ0NTA3
 LDk3NTY4MjEwMSwxMTY4ODU2Mjg0LC0xMDMxNTczNTc1LC0xNT
 Q5NzE5ODcsMTUyNTUzOTc2MiwyMTMwNjE1MzIsLTIwMTk4NjA2
