@@ -150,6 +150,7 @@ An ilustration is shown below:
 
 ##### 3.2 Perspective transform.
 
+3.2.1. 
 
 
 
@@ -259,9 +260,10 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1MjAwMDQ4LC0xNjE3Njg0NDkxLC0xMT
-IwOTczMDY0LDQyNzAxMDI3NiwxMjEzMDQ4NTU1LDEwNzMxNDM5
-MzUsMTAxNjMxNTQzMiwtNzQzMDg2NzQsMTk3NzQ0NTA3LDk3NT
-Y4MjEwMSwxMTY4ODU2Mjg0LC0xMDMxNTczNTc1LC0xNTQ5NzE5
-ODcsMTUyNTUzOTc2MiwyMTMwNjE1MzIsLTIwMTk4NjA2OV19
+eyJoaXN0b3J5IjpbNjExNDEzMDEyLDU4NTIwMDA0OCwtMTYxNz
+Y4NDQ5MSwtMTEyMDk3MzA2NCw0MjcwMTAyNzYsMTIxMzA0ODU1
+NSwxMDczMTQzOTM1LDEwMTYzMTU0MzIsLTc0MzA4Njc0LDE5Nz
+c0NDUwNyw5NzU2ODIxMDEsMTE2ODg1NjI4NCwtMTAzMTU3MzU3
+NSwtMTU0OTcxOTg3LDE1MjU1Mzk3NjIsMjEzMDYxNTMyLC0yMD
+E5ODYwNjldfQ==
 -->
