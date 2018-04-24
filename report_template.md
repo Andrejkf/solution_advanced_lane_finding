@@ -170,14 +170,20 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [//]: # (Image References)
 
-[image1]: ./examples/undistort_output.png "Undistorted"
+[image1]: ./camera_cal/calibration3.jpg "chess distorted img"
+
 [image2]: ./test_images/test1.jpg "Road Transformed"
+
 [image3]: ./examples/binary_combo_example.jpg "Binary Example"
+
 [image4]: ./examples/warped_straight_lines.jpg "Warp Example"
+
 [image5]: ./examples/color_fit_lines.jpg "Fit Visual"
+
 [image6]: ./examples/example_output.jpg "Output"
+
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDk3MTk4NywxNTI1NTM5NzYyLDIxMz
-A2MTUzMiwtMjAxOTg2MDY5XX0=
+eyJoaXN0b3J5IjpbLTEwMzE1NzM1NzUsLTE1NDk3MTk4NywxNT
+I1NTM5NzYyLDIxMzA2MTUzMiwtMjAxOTg2MDY5XX0=
 -->
