@@ -257,7 +257,9 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [image13]: ./output_images/k_car_bird_eye/k2.png " bird eye view img "
 
-[image14]: ./output_images/l_car_full_pipeline/l2.png " full pipeline on img"
+[image14]: ./output_images/k_car_bird_eye/k2.png " bird eye view img "
+
+[image15]: ./output_images/m_car_histograms_bird_eye/m2.png " full pipeline on img"
 
 
 
@@ -275,11 +277,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTI1NzE4NjUsMTU1MTM0ODI3OSwtMT
-Y5NDE5MTg5OCwtMTg3MDU5MzY3OCwtMTYzNzYzMzMzMSw1ODUy
-MDAwNDgsLTE2MTc2ODQ0OTEsLTExMjA5NzMwNjQsNDI3MDEwMj
-c2LDEyMTMwNDg1NTUsMTA3MzE0MzkzNSwxMDE2MzE1NDMyLC03
-NDMwODY3NCwxOTc3NDQ1MDcsOTc1NjgyMTAxLDExNjg4NTYyOD
-QsLTEwMzE1NzM1NzUsLTE1NDk3MTk4NywxNTI1NTM5NzYyLDIx
-MzA2MTUzMl19
+eyJoaXN0b3J5IjpbLTIxMDM0MTU1NzYsLTE2MTI1NzE4NjUsMT
+U1MTM0ODI3OSwtMTY5NDE5MTg5OCwtMTg3MDU5MzY3OCwtMTYz
+NzYzMzMzMSw1ODUyMDAwNDgsLTE2MTc2ODQ0OTEsLTExMjA5Nz
+MwNjQsNDI3MDEwMjc2LDEyMTMwNDg1NTUsMTA3MzE0MzkzNSwx
+MDE2MzE1NDMyLC03NDMwODY3NCwxOTc3NDQ1MDcsOTc1NjgyMT
+AxLDExNjg4NTYyODQsLTEwMzE1NzM1NzUsLTE1NDk3MTk4Nywx
+NTI1NTM5NzYyXX0=
 -->
