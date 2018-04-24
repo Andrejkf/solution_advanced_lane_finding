@@ -1,6 +1,6 @@
 ## Writeup Template
 
-### I used template for my code
+### I used template for my report.
 
 ---
 
@@ -126,5 +126,5 @@ Here's a [link to my video result](./project_video.mp4)
 
 Here I'll talk about the approach I took, what techniques I used, what worked and why, where the pipeline might fail and how I might improve it if I were going to pursue this project further.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxNjE3MTYsLTIwMTk4NjA2OV19
+eyJoaXN0b3J5IjpbNDMxNTE3NTU3LC0yMDE5ODYwNjldfQ==
 -->
