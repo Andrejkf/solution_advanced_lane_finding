@@ -265,11 +265,6 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 
 
-[image14]: ./output_images/i_car_roi_combined_binary_images/ "  "
-
-[image15]: ./output_images/i_car_roi_combined_binary_images/ "  "
-
-
 
 
 
@@ -277,7 +272,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2NDk2Nzg0LC0xNjEyNTcxODY1LDE1NT
+eyJoaXN0b3J5IjpbLTUxNzkzOTIxLC0xNjEyNTcxODY1LDE1NT
 EzNDgyNzksLTE2OTQxOTE4OTgsLTE4NzA1OTM2NzgsLTE2Mzc2
 MzMzMzEsNTg1MjAwMDQ4LC0xNjE3Njg0NDkxLC0xMTIwOTczMD
 Y0LDQyNzAxMDI3NiwxMjEzMDQ4NTU1LDEwNzMxNDM5MzUsMTAx
