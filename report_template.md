@@ -61,11 +61,11 @@ To get the camera matrix and distortion coefficients in file *camera_calibration
  
 * 1.1 find_calibration_numbers(): Used to find chess board corners in grayscaled images and then to get camera matrix and distortion coefficients.
  
- * 1.2. save_coefficients(): to save camera matrix and distortion coefficients in a pickle with  fileName='wide_dist_pickle.p'.
+ * 1.2. save_coefficients(): to save camera matrix and distortion coefficients in a pickle with  *fileName='wide_dist_pickle.p'*.
  
 * 1.3. load_coefficients(): Used to load the previously saved information(camera matrix and distortion coefficients) to make process faster for the pipeline on the video instead of calculating them again.
 
-* 1.4. get_coefficients(): Used to either load distortion coefficientes or to calculate them.
+* 1.4. get_coefficients(): Used to either load distortion coefficients from the pickle file or to calculate them.
 * 1.5. get_undistorted(): To apply distortion correction to images.
 
 ##### Steps
@@ -334,11 +334,11 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzgwMzgzMywyODIzNzI3NzEsNDM4NT
-cxNTE4LC0xMDcyNzc2OTI1LC0xOTYzODcwODI4LDcwNDM2NjMy
-MCwtMzMxMjExODAwLDI4NzYxNjcyNCwtMTkzMjYzMjQ4NSwxOT
-IxOTgxMjE3LDExNjA2MDk2ODUsLTE4MDA1NDgxNzAsNTk2Njg0
-NjkyLDU5MTc5NjYyMSwxNjI1OTkzNDQzLDEzODAwMzI4ODcsNT
-M2ODMwOTM3LDk4NjUwMDY3MSwtMTYxMjU3MTg2NSwxNTUxMzQ4
-Mjc5XX0=
+eyJoaXN0b3J5IjpbLTEwMDg1NDI0OTEsMjgyMzcyNzcxLDQzOD
+U3MTUxOCwtMTA3Mjc3NjkyNSwtMTk2Mzg3MDgyOCw3MDQzNjYz
+MjAsLTMzMTIxMTgwMCwyODc2MTY3MjQsLTE5MzI2MzI0ODUsMT
+kyMTk4MTIxNywxMTYwNjA5Njg1LC0xODAwNTQ4MTcwLDU5NjY4
+NDY5Miw1OTE3OTY2MjEsMTYyNTk5MzQ0MywxMzgwMDMyODg3LD
+UzNjgzMDkzNyw5ODY1MDA2NzEsLTE2MTI1NzE4NjUsMTU1MTM0
+ODI3OV19
 -->
