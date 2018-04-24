@@ -97,7 +97,7 @@ The goals / steps of this project are the following:
 
 #### 1. Provide an example of a distortion-corrected image.
 
-After applying distortion correction to the chess board images I saved the camera matrix and distortion coefficients in a pickle file ([wide_dist_pickle.p](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/blob/master/wide_dist_pickle.p "wide_dist_pickle.p")). 
+After applying distortion correction to the chess board images I saved the camera matrix and distortion coefficients in a pickle file ([wide_dist_pickle.p](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/blob/master/wide_dist_pickle.p "wide_dist_pickle.p")). Then I loaded the same matrix and distortion coefficients and applied them to the 
 
 
 To demonstrate this step, I will describe how I apply the distortion correction to one of the test images like this one:
@@ -204,8 +204,8 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjgwNjIyMzAsLTc0MzA4Njc0LDE5Nz
-c0NDUwNyw5NzU2ODIxMDEsMTE2ODg1NjI4NCwtMTAzMTU3MzU3
-NSwtMTU0OTcxOTg3LDE1MjU1Mzk3NjIsMjEzMDYxNTMyLC0yMD
-E5ODYwNjldfQ==
+eyJoaXN0b3J5IjpbOTU4NjYwNjI1LC03NDMwODY3NCwxOTc3ND
+Q1MDcsOTc1NjgyMTAxLDExNjg4NTYyODQsLTEwMzE1NzM1NzUs
+LTE1NDk3MTk4NywxNTI1NTM5NzYyLDIxMzA2MTUzMiwtMjAxOT
+g2MDY5XX0=
 -->
