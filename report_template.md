@@ -282,6 +282,8 @@ I have noticed that sometimes the model returns slope estimations divinding by z
 
 However, for the project video in general lane lines are detected all the way along. 
 
+Even if this solution is not ready for production on a real car, is a first aproximation about how to use computer vission techniques to the inference system in the SDC.
+
 If I were going further on this project I would install a camera on a car and I would test this model again.
 
 It will be amaizing
@@ -333,11 +335,11 @@ Improvements
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDI1MzQzNiw0Mzg1NzE1MTgsLTEwNz
-I3NzY5MjUsLTE5NjM4NzA4MjgsNzA0MzY2MzIwLC0zMzEyMTE4
-MDAsMjg3NjE2NzI0LC0xOTMyNjMyNDg1LDE5MjE5ODEyMTcsMT
-E2MDYwOTY4NSwtMTgwMDU0ODE3MCw1OTY2ODQ2OTIsNTkxNzk2
-NjIxLDE2MjU5OTM0NDMsMTM4MDAzMjg4Nyw1MzY4MzA5MzcsOT
-g2NTAwNjcxLC0xNjEyNTcxODY1LDE1NTEzNDgyNzksLTE2OTQx
-OTE4OThdfQ==
+eyJoaXN0b3J5IjpbLTEzODc5NTY5OTAsNDM4NTcxNTE4LC0xMD
+cyNzc2OTI1LC0xOTYzODcwODI4LDcwNDM2NjMyMCwtMzMxMjEx
+ODAwLDI4NzYxNjcyNCwtMTkzMjYzMjQ4NSwxOTIxOTgxMjE3LD
+ExNjA2MDk2ODUsLTE4MDA1NDgxNzAsNTk2Njg0NjkyLDU5MTc5
+NjYyMSwxNjI1OTkzNDQzLDEzODAwMzI4ODcsNTM2ODMwOTM3LD
+k4NjUwMDY3MSwtMTYxMjU3MTg2NSwxNTUxMzQ4Mjc5LC0xNjk0
+MTkxODk4XX0=
 -->
