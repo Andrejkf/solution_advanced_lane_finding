@@ -63,7 +63,7 @@ To get the camera matrix and distortion coefficients in file *camera_calibration
  
  * 1.2. save_coefficients(): to save camera matrix and distortion coefficients in a pickle with  fileName='wide_dist_pickle.p'.
  
-* 1.3. load_coefficients(): Used to load the previously saved information to make process faster for the pipeline on the video instead of calculating them again.
+* 1.3. load_coefficients(): Used to load the previously saved information(camera matrix and distortion coefficients) to make process faster for the pipeline on the video instead of calculating them again.
 
 * 1.4. get_coefficients(): Used to either load distortion coefficientes or to calculate them.
 * 1.5. get_undistorted(): To apply distortion correction to images.
@@ -317,11 +317,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODE4Njc4NjgsMTM4MDAzMjg4Nyw1Mz
-Y4MzA5MzcsOTg2NTAwNjcxLC0xNjEyNTcxODY1LDE1NTEzNDgy
-NzksLTE2OTQxOTE4OTgsLTE4NzA1OTM2NzgsLTE2Mzc2MzMzMz
-EsNTg1MjAwMDQ4LC0xNjE3Njg0NDkxLC0xMTIwOTczMDY0LDQy
-NzAxMDI3NiwxMjEzMDQ4NTU1LDEwNzMxNDM5MzUsMTAxNjMxNT
-QzMiwtNzQzMDg2NzQsMTk3NzQ0NTA3LDk3NTY4MjEwMSwxMTY4
-ODU2Mjg0XX0=
+eyJoaXN0b3J5IjpbNzY2NzU2NjE1LDEzODAwMzI4ODcsNTM2OD
+MwOTM3LDk4NjUwMDY3MSwtMTYxMjU3MTg2NSwxNTUxMzQ4Mjc5
+LC0xNjk0MTkxODk4LC0xODcwNTkzNjc4LC0xNjM3NjMzMzMxLD
+U4NTIwMDA0OCwtMTYxNzY4NDQ5MSwtMTEyMDk3MzA2NCw0Mjcw
+MTAyNzYsMTIxMzA0ODU1NSwxMDczMTQzOTM1LDEwMTYzMTU0Mz
+IsLTc0MzA4Njc0LDE5Nzc0NDUwNyw5NzU2ODIxMDEsMTE2ODg1
+NjI4NF19
 -->
