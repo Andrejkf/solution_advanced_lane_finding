@@ -180,7 +180,7 @@ This is a shot part of code to ilustrate it:
 
 To ilustrate this process a sample image is shown below:
 <br/> ![alt text][image11]
-<br/> ![alt text][image10]
+<br/> ![alt text][image12]
 
 
 The code for my perspective transform includes a function called `warper()`, which appears in lines 1 through 8 in the file `example.py` (output_images/examples/example.py) (or, for example, in the 3rd code cell of the IPython notebook).  The `warper()` function takes as inputs an image (`img`), as well as source (`src`) and destination (`dst`) points.  I chose the hardcode the source and destination points in the following manner:
@@ -269,6 +269,8 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [image11]: ./output_images/j_car_lanelines_on_road/j2.png " lines on img "
 
+[image12]: ./output_images/i_car_roi_combined_binary_images/i2.png " roi in binary img "
+
 [image12]: ./output_images/k_car_bird_eye/k2.png " bird eye view img "
 
 [image13]: ./output_images/l_car_full_pipeline/l2.png " full pipeline on img"
@@ -289,7 +291,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjQ5NTk5NDQsLTE4NzA1OTM2NzgsLT
+eyJoaXN0b3J5IjpbLTEwMzE1ODI4NTgsLTE4NzA1OTM2NzgsLT
 E2Mzc2MzMzMzEsNTg1MjAwMDQ4LC0xNjE3Njg0NDkxLC0xMTIw
 OTczMDY0LDQyNzAxMDI3NiwxMjEzMDQ4NTU1LDEwNzMxNDM5Mz
 UsMTAxNjMxNTQzMiwtNzQzMDg2NzQsMTk3NzQ0NTA3LDk3NTY4
