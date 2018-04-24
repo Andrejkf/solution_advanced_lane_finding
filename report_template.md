@@ -160,7 +160,7 @@ An ilustration is shown below:
 
 3.2.1. First, image of ROI was selected. (Cell 42 in Jupyter notebook)
 
-3.2.2. Hough transform is applied to binary image Region of Interest with function cv2.HoughLinesP(). (Cell 49 in Jupyter notebook)
+3.2.2. Then, Hough transform is applied to binary image Region of Interest with function cv2.HoughLinesP(). (Cell 49 in Jupyter notebook)
 
 3.2.3. to define the source and destination points the output heigh of points was defined as *0.4 * imghigh*  (cell 52 Jupyter notebook) for top_rigth and top_left vertices as destination points. 
 
@@ -320,11 +320,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2OTcyMTk1LDU5MTc5NjYyMSwxNjI1OT
-kzNDQzLDEzODAwMzI4ODcsNTM2ODMwOTM3LDk4NjUwMDY3MSwt
-MTYxMjU3MTg2NSwxNTUxMzQ4Mjc5LC0xNjk0MTkxODk4LC0xOD
-cwNTkzNjc4LC0xNjM3NjMzMzMxLDU4NTIwMDA0OCwtMTYxNzY4
-NDQ5MSwtMTEyMDk3MzA2NCw0MjcwMTAyNzYsMTIxMzA0ODU1NS
-wxMDczMTQzOTM1LDEwMTYzMTU0MzIsLTc0MzA4Njc0LDE5Nzc0
-NDUwN119
+eyJoaXN0b3J5IjpbLTIwMDYyMjA3MTgsNTkxNzk2NjIxLDE2Mj
+U5OTM0NDMsMTM4MDAzMjg4Nyw1MzY4MzA5MzcsOTg2NTAwNjcx
+LC0xNjEyNTcxODY1LDE1NTEzNDgyNzksLTE2OTQxOTE4OTgsLT
+E4NzA1OTM2NzgsLTE2Mzc2MzMzMzEsNTg1MjAwMDQ4LC0xNjE3
+Njg0NDkxLC0xMTIwOTczMDY0LDQyNzAxMDI3NiwxMjEzMDQ4NT
+U1LDEwNzMxNDM5MzUsMTAxNjMxNTQzMiwtNzQzMDg2NzQsMTk3
+NzQ0NTA3XX0=
 -->
