@@ -185,33 +185,7 @@ To ilustrate this process a sample image is shown below:
 <br/> ![alt text][image13]
 
 
-The code for my perspective transform includes a function called `warper()`, which appears in lines 1 through 8 in the file `example.py` (output_images/examples/example.py) (or, for example, in the 3rd code cell of the IPython notebook).  The `warper()` function takes as inputs an image (`img`), as well as source (`src`) and destination (`dst`) points.  I chose the hardcode the source and destination points in the following manner:
 
-```python
-src = np.float32(
-    [[(img_size[0] / 2) - 55, img_size[1] / 2 + 100],
-    [((img_size[0] / 6) - 10), img_size[1]],
-    [(img_size[0] * 5 / 6) + 60, img_size[1]],
-    [(img_size[0] / 2 + 55), img_size[1] / 2 + 100]])
-dst = np.float32(
-    [[(img_size[0] / 4), 0],
-    [(img_size[0] / 4), img_size[1]],
-    [(img_size[0] * 3 / 4), img_size[1]],
-    [(img_size[0] * 3 / 4), 0]])
-```
-
-This resulted in the following source and destination points:
-
-| Source        | Destination   | 
-|:-------------:|:-------------:| 
-| 585, 460      | 320, 0        | 
-| 203, 720      | 320, 720      |
-| 1127, 720     | 960, 720      |
-| 695, 460      | 960, 0        |
-
-I verified that my perspective transform was working as expected by drawing the `src` and `dst` points onto a test image and its warped counterpart to verify that the lines appear parallel in the warped image.
-
-![alt text][image4]
 
 #### 4. Describe how (and identify where in your code) you identified lane-line pixels and fit their positions with a polynomial?
 
@@ -293,10 +267,10 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQ2NTg5MTksLTE4NzA1OTM2NzgsLT
-E2Mzc2MzMzMzEsNTg1MjAwMDQ4LC0xNjE3Njg0NDkxLC0xMTIw
-OTczMDY0LDQyNzAxMDI3NiwxMjEzMDQ4NTU1LDEwNzMxNDM5Mz
-UsMTAxNjMxNTQzMiwtNzQzMDg2NzQsMTk3NzQ0NTA3LDk3NTY4
-MjEwMSwxMTY4ODU2Mjg0LC0xMDMxNTczNTc1LC0xNTQ5NzE5OD
-csMTUyNTUzOTc2MiwyMTMwNjE1MzIsLTIwMTk4NjA2OV19
+eyJoaXN0b3J5IjpbMjAzNDY5NjAwNywtMTg3MDU5MzY3OCwtMT
+YzNzYzMzMzMSw1ODUyMDAwNDgsLTE2MTc2ODQ0OTEsLTExMjA5
+NzMwNjQsNDI3MDEwMjc2LDEyMTMwNDg1NTUsMTA3MzE0MzkzNS
+wxMDE2MzE1NDMyLC03NDMwODY3NCwxOTc3NDQ1MDcsOTc1Njgy
+MTAxLDExNjg4NTYyODQsLTEwMzE1NzM1NzUsLTE1NDk3MTk4Ny
+wxNTI1NTM5NzYyLDIxMzA2MTUzMiwtMjAxOTg2MDY5XX0=
 -->
