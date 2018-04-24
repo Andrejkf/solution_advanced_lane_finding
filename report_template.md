@@ -206,7 +206,8 @@ Illustration of this process on sample image is shown below:
 
 This is illustrated below:
 <br/> ![alt text][image14]
-(In red: histogram 
+(In red: histogram used for convolution with wavelet(width))
+
 4.1.3. Then pixels from lane lines were searched using a window of 120 pixels. Function getlanepixels() (cell 57 Jupyter notebook).
 
 4.1.4. After, a 2nd order polinomial function is aproximated to the curved lines described by lane lines using numpy.polyfit function. Function getcurvedlaneline(). (cell 61 Jupyter notebook).
@@ -322,7 +323,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMTUwNTU3MCw1OTY2ODQ2OTIsNTkxNz
+eyJoaXN0b3J5IjpbMTU3MTY4MjQwOCw1OTY2ODQ2OTIsNTkxNz
 k2NjIxLDE2MjU5OTM0NDMsMTM4MDAzMjg4Nyw1MzY4MzA5Mzcs
 OTg2NTAwNjcxLC0xNjEyNTcxODY1LDE1NTEzNDgyNzksLTE2OT
 QxOTE4OTgsLTE4NzA1OTM2NzgsLTE2Mzc2MzMzMzEsNTg1MjAw
