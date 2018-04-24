@@ -62,7 +62,10 @@ To get the camera matrix and distortion coefficients in file *camera_calibration
 * 1.3. load_coefficients() to load the previously saved information to make process faster for the pipeline on the video instead of calculating them again.
 * 1.4. get_coefficients(): Used to either load distortion coefficientes or to calculate them.
 * * 1.5. get_undistorted(): To apply distortion correction to images.
+
+This steps are ilustrated below:
 <br/> ![alt text][image1]
+
 
 ##### Steps
 1. Get inner corners.
@@ -200,7 +203,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NDcxNTcyNyw5NzU2ODIxMDEsMTE2OD
-g1NjI4NCwtMTAzMTU3MzU3NSwtMTU0OTcxOTg3LDE1MjU1Mzk3
-NjIsMjEzMDYxNTMyLC0yMDE5ODYwNjldfQ==
+eyJoaXN0b3J5IjpbNTU3NTQ1MzU4LDk3NTY4MjEwMSwxMTY4OD
+U2Mjg0LC0xMDMxNTczNTc1LC0xNTQ5NzE5ODcsMTUyNTUzOTc2
+MiwyMTMwNjE1MzIsLTIwMTk4NjA2OV19
 -->
