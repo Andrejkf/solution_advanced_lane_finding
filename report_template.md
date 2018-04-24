@@ -124,7 +124,8 @@ All that said, I defined the following functions:
 * abs_sobel_thresh():  (cell 32 jupyter notebook). Used to apply sobel gradients in X or Y direction using cv2.Sobel to gray images. 
 * mag_thresh():  (cell 33 jupyter notebook). Used to apply Sobel L2 norm using cv2.Sobel to gray images. 
 * dir_threshold():  (cell 34 jupyter notebook). Used to apply Sobel directional threshold using cv2.Sobel to gray images.
-* 
+* binary_threshold():  (cell 37 jupyter notebook). Used to generate the combined binary thresholded image.
+An image to ilustrate the process is shown below:
 * 
 
 
@@ -231,9 +232,9 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNTIyODUzNiwxMjEzMDQ4NTU1LDEwNz
-MxNDM5MzUsMTAxNjMxNTQzMiwtNzQzMDg2NzQsMTk3NzQ0NTA3
-LDk3NTY4MjEwMSwxMTY4ODU2Mjg0LC0xMDMxNTczNTc1LC0xNT
-Q5NzE5ODcsMTUyNTUzOTc2MiwyMTMwNjE1MzIsLTIwMTk4NjA2
-OV19
+eyJoaXN0b3J5IjpbLTEyNTM4NTE1MDAsMTIxMzA0ODU1NSwxMD
+czMTQzOTM1LDEwMTYzMTU0MzIsLTc0MzA4Njc0LDE5Nzc0NDUw
+Nyw5NzU2ODIxMDEsMTE2ODg1NjI4NCwtMTAzMTU3MzU3NSwtMT
+U0OTcxOTg3LDE1MjU1Mzk3NjIsMjEzMDYxNTMyLC0yMDE5ODYw
+NjldfQ==
 -->
