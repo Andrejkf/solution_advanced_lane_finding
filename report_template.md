@@ -94,7 +94,9 @@ The goals / steps of this project are the following:
 
 ### Pipeline (single images)
 
-#### 1. Provide an example of a distortion-corrected image.
+#### 1. distortion-corrected image.
+
+##### Provide an example of a distortion-corrected image.
 
 After applying distortion correction to the chess board images I saved the camera matrix and distortion coefficients in a pickle file ([wide_dist_pickle.p](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/blob/master/wide_dist_pickle.p "wide_dist_pickle.p")). Then I loaded the same matrix and distortion coefficients and applied them to the raw test images provided in folder *./test_images*. Below there is an ilustration:
 <br/> ![alt text][image3]
@@ -105,9 +107,9 @@ After applying distortion correction to the chess board images I saved the camer
 
 
 #### 2. Thresholded binary image
+###### Describe how (and identify where in your code) you used color transforms, gradients or other methods to create a thresholded binary image.  Provide an example of a binary image result.
 
 
-Describe how (and identify where in your code) you used color transforms, gradients or other methods to create a thresholded binary image.  Provide an example of a binary image result.
 
 -   Use color transforms, gradients, etc., to create a thresholded binary image.
 
@@ -210,8 +212,8 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgyMTQ1NjM3LDEwNzMxNDM5MzUsMTAxNj
-MxNTQzMiwtNzQzMDg2NzQsMTk3NzQ0NTA3LDk3NTY4MjEwMSwx
-MTY4ODU2Mjg0LC0xMDMxNTczNTc1LC0xNTQ5NzE5ODcsMTUyNT
-UzOTc2MiwyMTMwNjE1MzIsLTIwMTk4NjA2OV19
+eyJoaXN0b3J5IjpbLTExNTE4NjYxMCwxMDczMTQzOTM1LDEwMT
+YzMTU0MzIsLTc0MzA4Njc0LDE5Nzc0NDUwNyw5NzU2ODIxMDEs
+MTE2ODg1NjI4NCwtMTAzMTU3MzU3NSwtMTU0OTcxOTg3LDE1Mj
+U1Mzk3NjIsMjEzMDYxNTMyLC0yMDE5ODYwNjldfQ==
 -->
