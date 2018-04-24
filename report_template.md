@@ -81,18 +81,17 @@ These steps are ilustrated below:
 
 
 
+The goals / steps of this project are the following:
 
+-   Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
+-   Apply a distortion correction to raw images.
+-   Use color transforms, gradients, etc., to create a thresholded binary image.
+-   Apply a perspective transform to rectify binary image (“birds-eye view”).
+-   Detect lane pixels and fit to find the lane boundary.
+-   Determine the curvature of the lane and vehicle position with respect to center.
+-   Warp the detected lane boundaries back onto the original image.
+-   Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
-
-#### 1. Briefly state how you computed the camera matrix and distortion coefficients. Provide an example of a distortion corrected calibration image.
-
-The code for this step is contained in the first code cell of the IPython notebook located in "./examples/example.ipynb" (or in lines # through # of the file called `some_file.py`).  
-
-I start by preparing "object points", which will be the (x, y, z) coordinates of the chessboard corners in the world. Here I am assuming the chessboard is fixed on the (x, y) plane at z=0, such that the object points are the same for each calibration image.  Thus, `objp` is just a replicated array of coordinates, and `objpoints` will be appended with a copy of it every time I successfully detect all chessboard corners in a test image.  `imgpoints` will be appended with the (x, y) pixel position of each of the corners in the image plane with each successful chessboard detection.  
-
-I then used the output `objpoints` and `imgpoints` to compute the camera calibration and distortion coefficients using the `cv2.calibrateCamera()` function.  I applied this distortion correction to the test image using the `cv2.undistort()` function and obtained this result: 
-
-![alt text][image1]
 
 ### Pipeline (single images)
 
@@ -202,7 +201,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDcyOTM1MzIsMTk3NzQ0NTA3LDk3NT
-Y4MjEwMSwxMTY4ODU2Mjg0LC0xMDMxNTczNTc1LC0xNTQ5NzE5
-ODcsMTUyNTUzOTc2MiwyMTMwNjE1MzIsLTIwMTk4NjA2OV19
+eyJoaXN0b3J5IjpbLTc0MzA4Njc0LDE5Nzc0NDUwNyw5NzU2OD
+IxMDEsMTE2ODg1NjI4NCwtMTAzMTU3MzU3NSwtMTU0OTcxOTg3
+LDE1MjU1Mzk3NjIsMjEzMDYxNTMyLC0yMDE5ODYwNjldfQ==
 -->
