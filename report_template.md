@@ -257,7 +257,7 @@ An ilustration is shown below:
 ##### Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
 Output videos are located on the folder *output_videos*.
-
+* Project video is f
 Here's a [link to my video result](./project_video.mp4)
 
 ---
@@ -313,11 +313,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk0NDQ4MzI1LDUzNjgzMDkzNyw5ODY1MD
-A2NzEsLTE2MTI1NzE4NjUsMTU1MTM0ODI3OSwtMTY5NDE5MTg5
-OCwtMTg3MDU5MzY3OCwtMTYzNzYzMzMzMSw1ODUyMDAwNDgsLT
-E2MTc2ODQ0OTEsLTExMjA5NzMwNjQsNDI3MDEwMjc2LDEyMTMw
-NDg1NTUsMTA3MzE0MzkzNSwxMDE2MzE1NDMyLC03NDMwODY3NC
-wxOTc3NDQ1MDcsOTc1NjgyMTAxLDExNjg4NTYyODQsLTEwMzE1
-NzM1NzVdfQ==
+eyJoaXN0b3J5IjpbMTM4MDAzMjg4Nyw1MzY4MzA5MzcsOTg2NT
+AwNjcxLC0xNjEyNTcxODY1LDE1NTEzNDgyNzksLTE2OTQxOTE4
+OTgsLTE4NzA1OTM2NzgsLTE2Mzc2MzMzMzEsNTg1MjAwMDQ4LC
+0xNjE3Njg0NDkxLC0xMTIwOTczMDY0LDQyNzAxMDI3NiwxMjEz
+MDQ4NTU1LDEwNzMxNDM5MzUsMTAxNjMxNTQzMiwtNzQzMDg2Nz
+QsMTk3NzQ0NTA3LDk3NTY4MjEwMSwxMTY4ODU2Mjg0LC0xMDMx
+NTczNTc1XX0=
 -->
