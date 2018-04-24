@@ -225,7 +225,9 @@ ymbypixel = 30/imghigh # aprox meters by pixel
 
 5.2.1. Function estimatedistancefromlane() was defined. (Cell 64 Jupyter notebook). Used to estimate vehicle distance from center.
 
-In here, an assumtion that the images correspond to a camera located on the center was done. 
+In here, an assumtion that the images correspond to a camera located on the center was done. So pixel units are transformed to meters and then the difference to the center of the image is computed.
+
+To ilustrate ir 
 
 
 #### 6. 
@@ -297,11 +299,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNTgxOTg4MSw1MzY4MzA5MzcsOTg2NT
-AwNjcxLC0xNjEyNTcxODY1LDE1NTEzNDgyNzksLTE2OTQxOTE4
-OTgsLTE4NzA1OTM2NzgsLTE2Mzc2MzMzMzEsNTg1MjAwMDQ4LC
-0xNjE3Njg0NDkxLC0xMTIwOTczMDY0LDQyNzAxMDI3NiwxMjEz
-MDQ4NTU1LDEwNzMxNDM5MzUsMTAxNjMxNTQzMiwtNzQzMDg2Nz
-QsMTk3NzQ0NTA3LDk3NTY4MjEwMSwxMTY4ODU2Mjg0LC0xMDMx
-NTczNTc1XX0=
+eyJoaXN0b3J5IjpbLTIxMDMwNzA1NTAsNTM2ODMwOTM3LDk4Nj
+UwMDY3MSwtMTYxMjU3MTg2NSwxNTUxMzQ4Mjc5LC0xNjk0MTkx
+ODk4LC0xODcwNTkzNjc4LC0xNjM3NjMzMzMxLDU4NTIwMDA0OC
+wtMTYxNzY4NDQ5MSwtMTEyMDk3MzA2NCw0MjcwMTAyNzYsMTIx
+MzA0ODU1NSwxMDczMTQzOTM1LDEwMTYzMTU0MzIsLTc0MzA4Nj
+c0LDE5Nzc0NDUwNyw5NzU2ODIxMDEsMTE2ODg1NjI4NCwtMTAz
+MTU3MzU3NV19
 -->
