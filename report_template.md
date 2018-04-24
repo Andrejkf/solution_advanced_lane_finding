@@ -144,7 +144,7 @@ To get the perspective transform the vertices for the region_of_interest were de
 ##### 3.1 ROI ( Region Of Interest)
 3.1.1. Function generate_vertices(): (Cell 40 in Jupyter notebook). Was defined to set up the trapezoidal vertices of the region of interest containing road lane lines. This function was taken from project 1 term1.
 
-3.1.2. Function 
+3.1.2. Function region_of_interest(). (Cell 41 in Jupyter notebook). 
 
 
 
@@ -254,7 +254,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTg2OTY5MCwtMTYxNzY4NDQ5MSwtMT
+eyJoaXN0b3J5IjpbMTE2NDM4ODEzNywtMTYxNzY4NDQ5MSwtMT
 EyMDk3MzA2NCw0MjcwMTAyNzYsMTIxMzA0ODU1NSwxMDczMTQz
 OTM1LDEwMTYzMTU0MzIsLTc0MzA4Njc0LDE5Nzc0NDUwNyw5Nz
 U2ODIxMDEsMTE2ODg1NjI4NCwtMTAzMTU3MzU3NSwtMTU0OTcx
