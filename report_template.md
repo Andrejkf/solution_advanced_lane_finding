@@ -278,7 +278,7 @@ In addition,  you may want to watch them in your browser using the following lin
 
 #### 1. Briefly discuss any problems / issues you faced in your implementation of this project.  Where will your pipeline likely fail?  What could you do to make it more robust?
 
-About the performance of the solution in the first video it is clear to infer that 
+To make this solution approach more robust outliers (lane lines detection) should be added. 
 
 
 Thank you very much for taking part of your time reading this document.
@@ -320,7 +320,7 @@ Thank you very much for taking part of your time reading this document.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MTQyNjMzMCw0Mzg1NzE1MTgsLTEwNz
+eyJoaXN0b3J5IjpbLTM3MjIzNzcxMiw0Mzg1NzE1MTgsLTEwNz
 I3NzY5MjUsLTE5NjM4NzA4MjgsNzA0MzY2MzIwLC0zMzEyMTE4
 MDAsMjg3NjE2NzI0LC0xOTMyNjMyNDg1LDE5MjE5ODEyMTcsMT
 E2MDYwOTY4NSwtMTgwMDU0ODE3MCw1OTY2ODQ2OTIsNTkxNzk2
