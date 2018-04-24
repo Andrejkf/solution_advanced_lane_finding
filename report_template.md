@@ -172,14 +172,14 @@ t = top. b = bottom. r = rigth. l = left. s = source, and d = destination. So, f
 # get original and destination points based on previously calculated hough lines
     # top righ, bottom rigth, top left, bottom left
     trs     = [line1[0], line1[1]] # source
-    brs     = [line1[2], line1[3]]
-    tls     = [line2[0], line2[1]]
-    bls     = [line2[2], line2[3]]
+    brs     = [line1[2], line1[3]] # source
+    tls     = [line2[0], line2[1]] # source
+    bls     = [line2[2], line2[3]] # source
     
-    trd     = [line1[2], ylimit] 
-    brd     = [line1[2], line1[3]]
-    tld     = [line2[2], ylimit]
-    bld     = [line2[2], line2[3]]
+    trd     = [line1[2], ylimit]   # destination
+    brd     = [line1[2], line1[3]] # destination
+    tld     = [line2[2], ylimit]   # destination
+    bld     = [line2[2], line2[3]] # destination
     
     
     source_img_pts = [trs, brs, tls, bls]
@@ -322,7 +322,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzMxMDUyMCw1OTE3OTY2MjEsMTYyNT
+eyJoaXN0b3J5IjpbMjEyNDY0NjgyNiw1OTE3OTY2MjEsMTYyNT
 k5MzQ0MywxMzgwMDMyODg3LDUzNjgzMDkzNyw5ODY1MDA2NzEs
 LTE2MTI1NzE4NjUsMTU1MTM0ODI3OSwtMTY5NDE5MTg5OCwtMT
 g3MDU5MzY3OCwtMTYzNzYzMzMzMSw1ODUyMDAwNDgsLTE2MTc2
