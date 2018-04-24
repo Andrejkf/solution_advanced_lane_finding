@@ -187,7 +187,7 @@ t = top. b = bottom. r = rigth. l = left. s = source, and d = destination. So, f
 ```
 3.2.4. Then direct and inverse perspective transform was computed using cv2.getPerspectiveTransform() .
 
-3.2.5. A short pipeline to get direct (M) and inverse transformations (Minv) was defined. Function pipeline_get_tf_matrix(). (Cell 54 Jupyter notebook).
+3.2.5. A short pipeline to get direct (M) and inverse (Minv) transformations  was defined. Function pipeline_get_tf_matrix(). (Cell 54 Jupyter notebook).
 
 To ilustrate this process a sample image is shown below:
 <br/> ![alt text][image11]
@@ -322,11 +322,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODM2MTcyNjEsNTkxNzk2NjIxLDE2Mj
-U5OTM0NDMsMTM4MDAzMjg4Nyw1MzY4MzA5MzcsOTg2NTAwNjcx
-LC0xNjEyNTcxODY1LDE1NTEzNDgyNzksLTE2OTQxOTE4OTgsLT
-E4NzA1OTM2NzgsLTE2Mzc2MzMzMzEsNTg1MjAwMDQ4LC0xNjE3
-Njg0NDkxLC0xMTIwOTczMDY0LDQyNzAxMDI3NiwxMjEzMDQ4NT
-U1LDEwNzMxNDM5MzUsMTAxNjMxNTQzMiwtNzQzMDg2NzQsMTk3
-NzQ0NTA3XX0=
+eyJoaXN0b3J5IjpbOTg0MDUzMjExLDU5MTc5NjYyMSwxNjI1OT
+kzNDQzLDEzODAwMzI4ODcsNTM2ODMwOTM3LDk4NjUwMDY3MSwt
+MTYxMjU3MTg2NSwxNTUxMzQ4Mjc5LC0xNjk0MTkxODk4LC0xOD
+cwNTkzNjc4LC0xNjM3NjMzMzMxLDU4NTIwMDA0OCwtMTYxNzY4
+NDQ5MSwtMTEyMDk3MzA2NCw0MjcwMTAyNzYsMTIxMzA0ODU1NS
+wxMDczMTQzOTM1LDEwMTYzMTU0MzIsLTc0MzA4Njc0LDE5Nzc0
+NDUwN119
 -->
