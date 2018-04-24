@@ -268,7 +268,7 @@ An ilustration is shown below:
 Output videos are located on the folder *output_videos*. however you can watch them on the following links:
 * [Project video solution](https://youtu.be/lyNLjPRfZ_8)
 * [Testing initial solution on challenge video](https://youtu.be/RNq73SDdllc)
-* [Testing initial solution on a harder challen]
+* [Testing initial solution on a harder challenge video]
 
 
 solution project vdeo
@@ -341,11 +341,11 @@ output_videos
 
 [solution_project_video.mp4](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/blob/master/output_videos/solution_project_video.mp4 "solution_project_video.mp4")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU2NzE2NDQ1LC0xOTYzODcwODI4LDcwND
-M2NjMyMCwtMzMxMjExODAwLDI4NzYxNjcyNCwtMTkzMjYzMjQ4
-NSwxOTIxOTgxMjE3LDExNjA2MDk2ODUsLTE4MDA1NDgxNzAsNT
-k2Njg0NjkyLDU5MTc5NjYyMSwxNjI1OTkzNDQzLDEzODAwMzI4
-ODcsNTM2ODMwOTM3LDk4NjUwMDY3MSwtMTYxMjU3MTg2NSwxNT
-UxMzQ4Mjc5LC0xNjk0MTkxODk4LC0xODcwNTkzNjc4LC0xNjM3
-NjMzMzMxXX0=
+eyJoaXN0b3J5IjpbLTEyNDk1Nzc5MTYsLTE5NjM4NzA4MjgsNz
+A0MzY2MzIwLC0zMzEyMTE4MDAsMjg3NjE2NzI0LC0xOTMyNjMy
+NDg1LDE5MjE5ODEyMTcsMTE2MDYwOTY4NSwtMTgwMDU0ODE3MC
+w1OTY2ODQ2OTIsNTkxNzk2NjIxLDE2MjU5OTM0NDMsMTM4MDAz
+Mjg4Nyw1MzY4MzA5MzcsOTg2NTAwNjcxLC0xNjEyNTcxODY1LD
+E1NTEzNDgyNzksLTE2OTQxOTE4OTgsLTE4NzA1OTM2NzgsLTE2
+Mzc2MzMzMzFdfQ==
 -->
