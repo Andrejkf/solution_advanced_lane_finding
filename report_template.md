@@ -265,7 +265,9 @@ An ilustration is shown below:
 
 ##### Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Output videos are located on the folder *output_videos*.
+Output videos are located on the folder *output_videos*. however you can watch them on the following links:
+
+
 * Project video is f
 Here's a [link to my video result](./output_videos/solution_project_video.mp4)
 
@@ -333,11 +335,11 @@ output_videos
 
 [solution_project_video.mp4](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/blob/master/output_videos/solution_project_video.mp4 "solution_project_video.mp4")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUzMzMyNjE4LC0xOTYzODcwODI4LDcwND
-M2NjMyMCwtMzMxMjExODAwLDI4NzYxNjcyNCwtMTkzMjYzMjQ4
-NSwxOTIxOTgxMjE3LDExNjA2MDk2ODUsLTE4MDA1NDgxNzAsNT
-k2Njg0NjkyLDU5MTc5NjYyMSwxNjI1OTkzNDQzLDEzODAwMzI4
-ODcsNTM2ODMwOTM3LDk4NjUwMDY3MSwtMTYxMjU3MTg2NSwxNT
-UxMzQ4Mjc5LC0xNjk0MTkxODk4LC0xODcwNTkzNjc4LC0xNjM3
-NjMzMzMxXX0=
+eyJoaXN0b3J5IjpbMTcyMjM3MjA5MCwtMTk2Mzg3MDgyOCw3MD
+QzNjYzMjAsLTMzMTIxMTgwMCwyODc2MTY3MjQsLTE5MzI2MzI0
+ODUsMTkyMTk4MTIxNywxMTYwNjA5Njg1LC0xODAwNTQ4MTcwLD
+U5NjY4NDY5Miw1OTE3OTY2MjEsMTYyNTk5MzQ0MywxMzgwMDMy
+ODg3LDUzNjgzMDkzNyw5ODY1MDA2NzEsLTE2MTI1NzE4NjUsMT
+U1MTM0ODI3OSwtMTY5NDE5MTg5OCwtMTg3MDU5MzY3OCwtMTYz
+NzYzMzMzMV19
 -->
