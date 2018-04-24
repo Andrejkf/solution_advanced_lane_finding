@@ -150,7 +150,7 @@ An ilustration is shown below:
 
 ##### 3.2 Perspective transform.
 
-3.2.1. One image of ROI was selected. (Cell 41 in Jupyter notebook)
+3.2.1. One image of ROI was selected. (Cell 42 in Jupyter notebook)
 
 
 
@@ -260,7 +260,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MzM2MTAyNSw1ODUyMDAwNDgsLTE2MT
+eyJoaXN0b3J5IjpbMTczNzMwNDk5MCw1ODUyMDAwNDgsLTE2MT
 c2ODQ0OTEsLTExMjA5NzMwNjQsNDI3MDEwMjc2LDEyMTMwNDg1
 NTUsMTA3MzE0MzkzNSwxMDE2MzE1NDMyLC03NDMwODY3NCwxOT
 c3NDQ1MDcsOTc1NjgyMTAxLDExNjg4NTYyODQsLTEwMzE1NzM1
