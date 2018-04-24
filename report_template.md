@@ -286,7 +286,7 @@ Even if this solution is not ready for production on a real car, is a first apro
 
 Something that the solution is failing in, is that *the slower the radius of curvature, the more probability to have lane lines out of the perspective transformation* resulting on missing lane lines. This can be observed on the third video *(harder challenge video)*.
 
-I
+I also have noticed that for some images *noisy binary images* during the image preprocessing so further image preprocessing would end up with a more robust 
 
 If I were going further on this project I would install a camera on a car and I would test this model again.
 
@@ -339,11 +339,11 @@ Improvements
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1OTAxOTg0LDQzODU3MTUxOCwtMTA3Mj
-c3NjkyNSwtMTk2Mzg3MDgyOCw3MDQzNjYzMjAsLTMzMTIxMTgw
-MCwyODc2MTY3MjQsLTE5MzI2MzI0ODUsMTkyMTk4MTIxNywxMT
-YwNjA5Njg1LC0xODAwNTQ4MTcwLDU5NjY4NDY5Miw1OTE3OTY2
-MjEsMTYyNTk5MzQ0MywxMzgwMDMyODg3LDUzNjgzMDkzNyw5OD
-Y1MDA2NzEsLTE2MTI1NzE4NjUsMTU1MTM0ODI3OSwtMTY5NDE5
-MTg5OF19
+eyJoaXN0b3J5IjpbLTE4MjkyMDE5NTYsNDM4NTcxNTE4LC0xMD
+cyNzc2OTI1LC0xOTYzODcwODI4LDcwNDM2NjMyMCwtMzMxMjEx
+ODAwLDI4NzYxNjcyNCwtMTkzMjYzMjQ4NSwxOTIxOTgxMjE3LD
+ExNjA2MDk2ODUsLTE4MDA1NDgxNzAsNTk2Njg0NjkyLDU5MTc5
+NjYyMSwxNjI1OTkzNDQzLDEzODAwMzI4ODcsNTM2ODMwOTM3LD
+k4NjUwMDY3MSwtMTYxMjU3MTg2NSwxNTUxMzQ4Mjc5LC0xNjk0
+MTkxODk4XX0=
 -->
