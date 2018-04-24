@@ -167,7 +167,7 @@ An ilustration is shown below:
 Bellow, you may find a short part of code to ilustrate it:
 
 Here:
-t = top. b = bottom. r = rigth. l = left. s = source, and d = destination. So, for 
+t = top. b = bottom. r = rigth. l = left. s = source, and d = destination. So, for source points we have ( trs, brs, tls, and bls) and for destination points (trd, brd, tld, and bld).
 ```
 # get oringinal and destination points based on previously calculated hough lines
     # top righ, bottom rigth, top left, bottom left
@@ -322,7 +322,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzkzNDE1Nyw1OTE3OTY2MjEsMTYyNT
+eyJoaXN0b3J5IjpbMTE2MDg5MDMzNiw1OTE3OTY2MjEsMTYyNT
 k5MzQ0MywxMzgwMDMyODg3LDUzNjgzMDkzNyw5ODY1MDA2NzEs
 LTE2MTI1NzE4NjUsMTU1MTM0ODI3OSwtMTY5NDE5MTg5OCwtMT
 g3MDU5MzY3OCwtMTYzNzYzMzMzMSw1ODUyMDAwNDgsLTE2MTc2
