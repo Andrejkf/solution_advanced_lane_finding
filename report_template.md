@@ -127,12 +127,7 @@ All that said, I defined the following functions:
 * binary_threshold():  (cell 37 jupyter notebook). Used to generate the combined binary thresholded image.
 An image to ilustrate the process is shown below:
 
-
-I applied a combination of 
-
-
-
-![alt text][image3]
+<br/> ![alt text][image4]
 
 #### 3. Describe how (and identify where in your code) you performed a perspective transform and provide an example of a transformed image.
 
@@ -229,7 +224,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjgzMzQzMCwxMjEzMDQ4NTU1LDEwNz
+eyJoaXN0b3J5IjpbMTczMTYyNDQ5MywxMjEzMDQ4NTU1LDEwNz
 MxNDM5MzUsMTAxNjMxNTQzMiwtNzQzMDg2NzQsMTk3NzQ0NTA3
 LDk3NTY4MjEwMSwxMTY4ODU2Mjg0LC0xMDMxNTczNTc1LC0xNT
 Q5NzE5ODcsMTUyNTUzOTc2MiwyMTMwNjE1MzIsLTIwMTk4NjA2
