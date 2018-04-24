@@ -198,7 +198,7 @@ To ilustrate this process a sample image is shown below:
 This is ilustrated below:
 <br/> ![alt text][image14]
 
-4.1.3. Then 
+4.1.3. Then pixels from lane 
 
 
 Then I did some other stuff and fit my lane lines with a 2nd order polynomial kinda like this:
@@ -276,7 +276,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTAzMzk0OSwtMTYxMjU3MTg2NSwxNT
+eyJoaXN0b3J5IjpbMTQyODE3NzA5NiwtMTYxMjU3MTg2NSwxNT
 UxMzQ4Mjc5LC0xNjk0MTkxODk4LC0xODcwNTkzNjc4LC0xNjM3
 NjMzMzMxLDU4NTIwMDA0OCwtMTYxNzY4NDQ5MSwtMTEyMDk3Mz
 A2NCw0MjcwMTAyNzYsMTIxMzA0ODU1NSwxMDczMTQzOTM1LDEw
