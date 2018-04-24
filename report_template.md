@@ -197,17 +197,9 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 
 
-[image3]: ./examples/binary_combo_example.jpg "Binary Example"
-
-[image4]: ./examples/warped_straight_lines.jpg "Warp Example"
-
-[image5]: ./examples/color_fit_lines.jpg "Fit Visual"
-
-[image6]: ./examples/example_output.jpg "Output"
-
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3OTIxNTAzLC0xMDMxNTczNTc1LC0xNT
-Q5NzE5ODcsMTUyNTUzOTc2MiwyMTMwNjE1MzIsLTIwMTk4NjA2
-OV19
+eyJoaXN0b3J5IjpbMTE2ODg1NjI4NCwtMTAzMTU3MzU3NSwtMT
+U0OTcxOTg3LDE1MjU1Mzk3NjIsMjEzMDYxNTMyLC0yMDE5ODYw
+NjldfQ==
 -->
