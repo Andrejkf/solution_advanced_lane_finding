@@ -223,7 +223,10 @@ ymbypixel = 30/imghigh # aprox meters by pixel
 ```
 #### 5.2 Position of the vehicle with respect to center.
 
-5.2.1. Function estimatedistancefromlane() was defined. (Cell 64 Jupyter notebook).
+5.2.1. Function estimatedistancefromlane() was defined. (Cell 64 Jupyter notebook). Used to estimate vehicle distance from center.
+
+
+
 
 #### 6. 
 
@@ -294,7 +297,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTg0OTE0MTYsNTM2ODMwOTM3LDk4Nj
+eyJoaXN0b3J5IjpbLTExNzg5MTM5NDAsNTM2ODMwOTM3LDk4Nj
 UwMDY3MSwtMTYxMjU3MTg2NSwxNTUxMzQ4Mjc5LC0xNjk0MTkx
 ODk4LC0xODcwNTkzNjc4LC0xNjM3NjMzMzMxLDU4NTIwMDA0OC
 wtMTYxNzY4NDQ5MSwtMTEyMDk3MzA2NCw0MjcwMTAyNzYsMTIx
