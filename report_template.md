@@ -145,7 +145,9 @@ To get the perspective transform the vertices for the region_of_interest were de
 3.1.1. Function generate_vertices(): (Cell 40 in Jupyter notebook). Was defined to set up the trapezoidal vertices of the region of interest containing road lane lines. This function was taken from project 1 term1.
 
 3.1.2. Function region_of_interest(). (Cell 41 in Jupyter notebook). Was used to apply an image mask to the input image in such a way that only keeps region of the image defined by the polygon from from 'vertices'.
-
+An ilustration is shown below:
+<br/> ![alt text][image10]
+<br/> ![alt text][image11]
 
 
 
@@ -255,9 +257,10 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0NzkxMTQzLC0xNjE3Njg0NDkxLC0xMT
-IwOTczMDY0LDQyNzAxMDI3NiwxMjEzMDQ4NTU1LDEwNzMxNDM5
-MzUsMTAxNjMxNTQzMiwtNzQzMDg2NzQsMTk3NzQ0NTA3LDk3NT
-Y4MjEwMSwxMTY4ODU2Mjg0LC0xMDMxNTczNTc1LC0xNTQ5NzE5
-ODcsMTUyNTUzOTc2MiwyMTMwNjE1MzIsLTIwMTk4NjA2OV19
+eyJoaXN0b3J5IjpbLTkwNTI3MTcwOSwtMTYxNzY4NDQ5MSwtMT
+EyMDk3MzA2NCw0MjcwMTAyNzYsMTIxMzA0ODU1NSwxMDczMTQz
+OTM1LDEwMTYzMTU0MzIsLTc0MzA4Njc0LDE5Nzc0NDUwNyw5Nz
+U2ODIxMDEsMTE2ODg1NjI4NCwtMTAzMTU3MzU3NSwtMTU0OTcx
+OTg3LDE1MjU1Mzk3NjIsMjEzMDYxNTMyLC0yMDE5ODYwNjldfQ
+==
 -->
