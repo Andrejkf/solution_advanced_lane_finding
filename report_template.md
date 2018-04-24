@@ -57,7 +57,7 @@ The output videos are located in the folder named **output_videos**.
 
 
 ### 1.  Camera Calibration
-To get the camera matrix and distortion coefficients in file *camera_calibration_final.py (also in notebook cell 6).*  class *CalibratorCamera* was defined. It has the following funtions:
+To get the camera matrix and distortion coefficients in file *camera_calibration_final.py (also in notebook cell 6)* the  class *CalibratorCamera* was defined. It has the following funtions:
  
 * 1.1 find_calibration_numbers(): Used to find chess board corners in grayscaled images and then to get camera matrix and distortion coefficients.
  
@@ -334,7 +334,7 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTg0OTk2MCwyODIzNzI3NzEsNDM4NT
+eyJoaXN0b3J5IjpbLTg2NzgwMzgzMywyODIzNzI3NzEsNDM4NT
 cxNTE4LC0xMDcyNzc2OTI1LC0xOTYzODcwODI4LDcwNDM2NjMy
 MCwtMzMxMjExODAwLDI4NzYxNjcyNCwtMTkzMjYzMjQ4NSwxOT
 IxOTgxMjE3LDExNjA2MDk2ODUsLTE4MDA1NDgxNzAsNTk2Njg0
