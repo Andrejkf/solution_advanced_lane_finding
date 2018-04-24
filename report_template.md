@@ -172,7 +172,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [image1]: ./camera_cal/calibration3.jpg "chess distorted img"
 
-[image2]: ./test_images/test1.jpg "Road Transformed"
+[image2]: ./a_chess_corners/a14.png "chess c"
 
 [image3]: ./examples/binary_combo_example.jpg "Binary Example"
 
@@ -184,6 +184,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzE1NzM1NzUsLTE1NDk3MTk4NywxNT
-I1NTM5NzYyLDIxMzA2MTUzMiwtMjAxOTg2MDY5XX0=
+eyJoaXN0b3J5IjpbLTEzNTEwNDA0MDQsLTEwMzE1NzM1NzUsLT
+E1NDk3MTk4NywxNTI1NTM5NzYyLDIxMzA2MTUzMiwtMjAxOTg2
+MDY5XX0=
 -->
