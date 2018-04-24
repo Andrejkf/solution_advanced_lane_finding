@@ -84,7 +84,7 @@ These steps are ilustrated below:
 The goals / steps of this project are the following:
 
 
--   Use color transforms, gradients, etc., to create a thresholded binary image.
+
 -   Apply a perspective transform to rectify binary image (“birds-eye view”).
 -   Detect lane pixels and fit to find the lane boundary.
 -   Determine the curvature of the lane and vehicle position with respect to center.
@@ -104,7 +104,12 @@ After applying distortion correction to the chess board images I saved the camer
 
 
 
-#### 2. Describe how (and identify where in your code) you used color transforms, gradients or other methods to create a thresholded binary image.  Provide an example of a binary image result.
+#### 2. Thresholded binary image
+
+
+Describe how (and identify where in your code) you used color transforms, gradients or other methods to create a thresholded binary image.  Provide an example of a binary image result.
+
+-   Use color transforms, gradients, etc., to create a thresholded binary image.
 
 I used a combination of color and gradient thresholds to generate a binary image (thresholding steps at lines # through # in `another_file.py`).  Here's an example of my output for this step.  (note: this is not actually from one of the test images)
 
@@ -205,8 +210,8 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MzE0MzkzNSwxMDE2MzE1NDMyLC03ND
-MwODY3NCwxOTc3NDQ1MDcsOTc1NjgyMTAxLDExNjg4NTYyODQs
-LTEwMzE1NzM1NzUsLTE1NDk3MTk4NywxNTI1NTM5NzYyLDIxMz
-A2MTUzMiwtMjAxOTg2MDY5XX0=
+eyJoaXN0b3J5IjpbMjgyMTQ1NjM3LDEwNzMxNDM5MzUsMTAxNj
+MxNTQzMiwtNzQzMDg2NzQsMTk3NzQ0NTA3LDk3NTY4MjEwMSwx
+MTY4ODU2Mjg0LC0xMDMxNTczNTc1LC0xNTQ5NzE5ODcsMTUyNT
+UzOTc2MiwyMTMwNjE1MzIsLTIwMTk4NjA2OV19
 -->
