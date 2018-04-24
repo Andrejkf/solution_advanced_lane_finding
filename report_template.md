@@ -142,6 +142,7 @@ An image to ilustrate the process is shown below:
 To get the perspective transform the vertices for the region_of_interest were defined and then warped images were obtained by using function cv2.warpPerspective to the images with hough lines after ROI was applied.
 
 ##### 3.1 ROI ( Region Of Interest)
+3.1.1. Function generate_vertices(): (Cell 40 in 
 
 
 
@@ -251,10 +252,10 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MjUyNjY0NywtMTYxNzY4NDQ5MSwtMT
-EyMDk3MzA2NCw0MjcwMTAyNzYsMTIxMzA0ODU1NSwxMDczMTQz
-OTM1LDEwMTYzMTU0MzIsLTc0MzA4Njc0LDE5Nzc0NDUwNyw5Nz
-U2ODIxMDEsMTE2ODg1NjI4NCwtMTAzMTU3MzU3NSwtMTU0OTcx
-OTg3LDE1MjU1Mzk3NjIsMjEzMDYxNTMyLC0yMDE5ODYwNjldfQ
-==
+eyJoaXN0b3J5IjpbLTE3ODc0MDU2MjMsLTE2MTc2ODQ0OTEsLT
+ExMjA5NzMwNjQsNDI3MDEwMjc2LDEyMTMwNDg1NTUsMTA3MzE0
+MzkzNSwxMDE2MzE1NDMyLC03NDMwODY3NCwxOTc3NDQ1MDcsOT
+c1NjgyMTAxLDExNjg4NTYyODQsLTEwMzE1NzM1NzUsLTE1NDk3
+MTk4NywxNTI1NTM5NzYyLDIxMzA2MTUzMiwtMjAxOTg2MDY5XX
+0=
 -->
