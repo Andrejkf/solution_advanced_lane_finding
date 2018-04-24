@@ -219,7 +219,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [image12]: ./output_images/k_car_bird_eye/ " bird eye view img "
 
-[image13]: ./output_images/l_car_full_pipeline/ " pipeline "
+[image13]: ./output_images/l_car_full_pipeline/ " full pipeline on img"
 
 
 
@@ -237,9 +237,9 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3MDEwMjc2LDEyMTMwNDg1NTUsMTA3Mz
-E0MzkzNSwxMDE2MzE1NDMyLC03NDMwODY3NCwxOTc3NDQ1MDcs
-OTc1NjgyMTAxLDExNjg4NTYyODQsLTEwMzE1NzM1NzUsLTE1ND
-k3MTk4NywxNTI1NTM5NzYyLDIxMzA2MTUzMiwtMjAxOTg2MDY5
-XX0=
+eyJoaXN0b3J5IjpbLTMzMjg5MjgwOSw0MjcwMTAyNzYsMTIxMz
+A0ODU1NSwxMDczMTQzOTM1LDEwMTYzMTU0MzIsLTc0MzA4Njc0
+LDE5Nzc0NDUwNyw5NzU2ODIxMDEsMTE2ODg1NjI4NCwtMTAzMT
+U3MzU3NSwtMTU0OTcxOTg3LDE1MjU1Mzk3NjIsMjEzMDYxNTMy
+LC0yMDE5ODYwNjldfQ==
 -->
