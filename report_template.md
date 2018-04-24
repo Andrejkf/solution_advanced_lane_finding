@@ -45,7 +45,9 @@ Folder with binary images after applying gradients in y direction.
 * [k_car_bird_eye](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/tree/master/output_images/k_car_bird_eye "k_car_bird_eye"): Folder with images after persepective transformation to get bird_eye images.
 * [l_car_full_pipeline](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/tree/master/output_images/l_car_full_pipeline "l_car_full_pipeline"): Folder with images after applying full process pipeline.
 
-The images in **test
+The images in **camera_cal** are for camera calibration.
+
+The images in 
 
 
 
@@ -150,6 +152,6 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 [image6]: ./examples/example_output.jpg "Output"
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDczMjk4NjUsMTUyNTUzOTc2MiwyMT
-MwNjE1MzIsLTIwMTk4NjA2OV19
+eyJoaXN0b3J5IjpbODYyMjI4OTE1LDE1MjU1Mzk3NjIsMjEzMD
+YxNTMyLC0yMDE5ODYwNjldfQ==
 -->
