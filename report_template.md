@@ -203,12 +203,13 @@ This is ilustrated below:
 4.1.4. After, a 2nd order polinomial function is aproximated to the curved lines described by lane lines using numpy.polyfit function. Function getcurvedlaneline(). (cell 61 Jupyter notebook).
 
 
-#### 5. Radius of curvature of the lane
+#### 5.1 Radius of curvature of the lane
 ##### Describe how (and identify where in your code) you calculated the radius of curvature of the lane and the position of the vehicle with respect to center.
 
 5.1. Function drawcurvedline() was defined. (cell 62 Jupyter notebook). Used to stimate curvature radius for lanes. 
 
-A conversion from pizxel units  to meters is done. then an estimation is donde u
+A conversion from pizxel units  to meters is done. then an estimation is done using numpy.polyfit().
+
 To ilustrate process, code is shown below:
 ```
 ymbypixel = 30/imghigh # aprox meters by pixel
@@ -221,10 +222,9 @@ ymbypixel = 30/imghigh # aprox meters by pixel
     estimation= int(((1 + (2*polifit[0]*yeval + polifit[1])**2)**1.5)/np.absolute(2*polifit[0]))
 ```
 
+#### 6. 
 
-I did this in lines # through # in my code in `my_other_file.py`
-
-#### 6. Provide an example image of your result plotted back down onto the road such that the lane area is identified clearly.
+ Provide an example image of your result plotted back down onto the road such that the lane area is identified clearly.
 
 I implemented this step in lines # through # in my code in `yet_another_file.py` in the function `map_lane()`.  Here is an example of my result on a test image:
 
@@ -291,11 +291,11 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwOTk1NDEyOCw1MzY4MzA5MzcsOTg2NT
-AwNjcxLC0xNjEyNTcxODY1LDE1NTEzNDgyNzksLTE2OTQxOTE4
-OTgsLTE4NzA1OTM2NzgsLTE2Mzc2MzMzMzEsNTg1MjAwMDQ4LC
-0xNjE3Njg0NDkxLC0xMTIwOTczMDY0LDQyNzAxMDI3NiwxMjEz
-MDQ4NTU1LDEwNzMxNDM5MzUsMTAxNjMxNTQzMiwtNzQzMDg2Nz
-QsMTk3NzQ0NTA3LDk3NTY4MjEwMSwxMTY4ODU2Mjg0LC0xMDMx
-NTczNTc1XX0=
+eyJoaXN0b3J5IjpbNTc0ODIxMjQwLDUzNjgzMDkzNyw5ODY1MD
+A2NzEsLTE2MTI1NzE4NjUsMTU1MTM0ODI3OSwtMTY5NDE5MTg5
+OCwtMTg3MDU5MzY3OCwtMTYzNzYzMzMzMSw1ODUyMDAwNDgsLT
+E2MTc2ODQ0OTEsLTExMjA5NzMwNjQsNDI3MDEwMjc2LDEyMTMw
+NDg1NTUsMTA3MzE0MzkzNSwxMDE2MzE1NDMyLC03NDMwODY3NC
+wxOTc3NDQ1MDcsOTc1NjgyMTAxLDExNjg4NTYyODQsLTEwMzE1
+NzM1NzVdfQ==
 -->
