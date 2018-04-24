@@ -132,6 +132,7 @@ An image to ilustrate the process is shown below:
 <br/> ![alt text][image6]
 <br/> ![alt text][image7]
 <br/> ![alt text][image8]
+**This is the final binary image**
 <br/> ![alt text][image9]
 
 #### 3. Describe how (and identify where in your code) you performed a perspective transform and provide an example of a transformed image.
@@ -242,9 +243,9 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTc2ODQ0OTEsLTExMjA5NzMwNjQsND
-I3MDEwMjc2LDEyMTMwNDg1NTUsMTA3MzE0MzkzNSwxMDE2MzE1
-NDMyLC03NDMwODY3NCwxOTc3NDQ1MDcsOTc1NjgyMTAxLDExNj
-g4NTYyODQsLTEwMzE1NzM1NzUsLTE1NDk3MTk4NywxNTI1NTM5
-NzYyLDIxMzA2MTUzMiwtMjAxOTg2MDY5XX0=
+eyJoaXN0b3J5IjpbNTI0MTE0MjU2LC0xNjE3Njg0NDkxLC0xMT
+IwOTczMDY0LDQyNzAxMDI3NiwxMjEzMDQ4NTU1LDEwNzMxNDM5
+MzUsMTAxNjMxNTQzMiwtNzQzMDg2NzQsMTk3NzQ0NTA3LDk3NT
+Y4MjEwMSwxMTY4ODU2Mjg0LC0xMDMxNTczNTc1LC0xNTQ5NzE5
+ODcsMTUyNTUzOTc2MiwyMTMwNjE1MzIsLTIwMTk4NjA2OV19
 -->
