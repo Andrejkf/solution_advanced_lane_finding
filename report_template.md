@@ -171,7 +171,7 @@ t = top. b = bottom. r = rigth. l = left. s = source, and d = destination. So, f
 ```
 # get original and destination points based on previously calculated hough lines
     # top righ, bottom rigth, top left, bottom left
-    trs     = [line1[0], line1[1]]
+    trs     = [line1[0], line1[1]] # source
     brs     = [line1[2], line1[3]]
     tls     = [line2[0], line2[1]]
     bls     = [line2[2], line2[3]]
@@ -322,7 +322,7 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 [video1]: ./project_video.mp4 "Video"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNDE1MTEwNCw1OTE3OTY2MjEsMTYyNT
+eyJoaXN0b3J5IjpbMTI0NzMxMDUyMCw1OTE3OTY2MjEsMTYyNT
 k5MzQ0MywxMzgwMDMyODg3LDUzNjgzMDkzNyw5ODY1MDA2NzEs
 LTE2MTI1NzE4NjUsMTU1MTM0ODI3OSwtMTY5NDE5MTg5OCwtMT
 g3MDU5MzY3OCwtMTYzNzYzMzMzMSw1ODUyMDAwNDgsLTE2MTc2
