@@ -315,6 +315,8 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 
 [video1]: ./project_video.mp4 "Video"
+
+
 solution project vdeo
 https://youtu.be/lyNLjPRfZ_8
 esting on challenge video
@@ -323,11 +325,11 @@ https://youtu.be/RNq73SDdllc
 testing on harder challenge video
 https://youtu.be/FhY_4tScF7M
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0MzY2MzIwLC0zMzEyMTE4MDAsMjg3Nj
-E2NzI0LC0xOTMyNjMyNDg1LDE5MjE5ODEyMTcsMTE2MDYwOTY4
-NSwtMTgwMDU0ODE3MCw1OTY2ODQ2OTIsNTkxNzk2NjIxLDE2Mj
-U5OTM0NDMsMTM4MDAzMjg4Nyw1MzY4MzA5MzcsOTg2NTAwNjcx
-LC0xNjEyNTcxODY1LDE1NTEzNDgyNzksLTE2OTQxOTE4OTgsLT
-E4NzA1OTM2NzgsLTE2Mzc2MzMzMzEsNTg1MjAwMDQ4LC0xNjE3
-Njg0NDkxXX0=
+eyJoaXN0b3J5IjpbLTE5NjM4NzA4MjgsNzA0MzY2MzIwLC0zMz
+EyMTE4MDAsMjg3NjE2NzI0LC0xOTMyNjMyNDg1LDE5MjE5ODEy
+MTcsMTE2MDYwOTY4NSwtMTgwMDU0ODE3MCw1OTY2ODQ2OTIsNT
+kxNzk2NjIxLDE2MjU5OTM0NDMsMTM4MDAzMjg4Nyw1MzY4MzA5
+MzcsOTg2NTAwNjcxLC0xNjEyNTcxODY1LDE1NTEzNDgyNzksLT
+E2OTQxOTE4OTgsLTE4NzA1OTM2NzgsLTE2Mzc2MzMzMzEsNTg1
+MjAwMDQ4XX0=
 -->
