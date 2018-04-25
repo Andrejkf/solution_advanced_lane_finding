@@ -280,7 +280,7 @@ Even if this solution is not ready for production on a real car, is a first apro
 
 One possible scenario where the solution is failing in, is summarized in this statement: *"the slower the radius of curvature, the more probability to have lane lines out of the perspective transformation"*, resulting in missing lane lines. This can be observed on the third video *(harder challenge video)*.
 
-I also have noticed that for some images *noisy binary images* during the image preprocessing so further image preprocessing would end up with a more robust model to changes in brightness, temperature and fuzziness on lane l                                                                                                                                                                                                                                                    ines. This can be observed on the seccond video *(challenge video)* where the lane lines estimation is lost while the car is being driven under the bridge.
+I also have noticed that for some images *noisy binary images* during the image preprocessing so further image preprocessing would end up with a more robust model to changes in brightness, temperature and fuzziness on lane l                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ines. This can be observed on the seccond video *(challenge video)* where the lane lines estimation is lost while the car is being driven under the bridge.
 
 #### Possible improvements
 
@@ -328,7 +328,7 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMDQ1NjQ2NywtMTIzNzY5OTYwMywtMT
+eyJoaXN0b3J5IjpbMTA2ODIzMTg1MywtMTIzNzY5OTYwMywtMT
 g5NTUzMTA2MywxNTE5NzA5MTMyLC0yMDA5NTg1MTk4LDEwMzU1
 MTg3MzMsLTE4Mjg5NzgwNzYsNTY5OTUzMDMsMjgyMzcyNzcxLD
 QzODU3MTUxOCwtMTA3Mjc3NjkyNSwtMTk2Mzg3MDgyOCw3MDQz
