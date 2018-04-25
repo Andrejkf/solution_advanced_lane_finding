@@ -230,7 +230,7 @@ In here, an assumtion that the images correspond to a camera located on the cent
 
 5.2.1. A Function named *estimatedistancefromlane()* was defined. (Cell 64 Jupyter notebook). This was the funtion used to estimate vehicle distance from center.
 
-To ilustrate it a piace of the code is shown below:
+To ilustrate it a piece of the code is shown below:
 ```
 imghhalf = imgh/2    
     
@@ -328,11 +328,11 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNzQ3Mzc3MSwyODIzNzI3NzEsNDM4NT
-cxNTE4LC0xMDcyNzc2OTI1LC0xOTYzODcwODI4LDcwNDM2NjMy
-MCwtMzMxMjExODAwLDI4NzYxNjcyNCwtMTkzMjYzMjQ4NSwxOT
-IxOTgxMjE3LDExNjA2MDk2ODUsLTE4MDA1NDgxNzAsNTk2Njg0
-NjkyLDU5MTc5NjYyMSwxNjI1OTkzNDQzLDEzODAwMzI4ODcsNT
-M2ODMwOTM3LDk4NjUwMDY3MSwtMTYxMjU3MTg2NSwxNTUxMzQ4
-Mjc5XX0=
+eyJoaXN0b3J5IjpbNTY5OTUzMDMsMjgyMzcyNzcxLDQzODU3MT
+UxOCwtMTA3Mjc3NjkyNSwtMTk2Mzg3MDgyOCw3MDQzNjYzMjAs
+LTMzMTIxMTgwMCwyODc2MTY3MjQsLTE5MzI2MzI0ODUsMTkyMT
+k4MTIxNywxMTYwNjA5Njg1LC0xODAwNTQ4MTcwLDU5NjY4NDY5
+Miw1OTE3OTY2MjEsMTYyNTk5MzQ0MywxMzgwMDMyODg3LDUzNj
+gzMDkzNyw5ODY1MDA2NzEsLTE2MTI1NzE4NjUsMTU1MTM0ODI3
+OV19
 -->
