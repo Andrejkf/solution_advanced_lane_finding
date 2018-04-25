@@ -59,7 +59,7 @@ The output videos are located in the folder named **output_videos**.
 ### 1.  Camera Calibration
 To get the camera matrix and distortion coefficients in file *camera_calibration_final.py (also in notebook cell 6)* the  class *CalibratorCamera* was defined. It has the following funtions:
  
-* 1.1 find_calibration_numbers(): Used to find chess board (9x6) corners in grayscaled images and then to get camera matrix and distortion coefficients.
+* 1.1 find_calibration_numbers(): Used to find chess board *(9x6)* corners in grayscaled images and then to get camera matrix and distortion coefficients.
  
  * 1.2. save_coefficients(): to save camera matrix and distortion coefficients in a pickle with  *fileName='wide_dist_pickle.p'*.
  
@@ -328,11 +328,11 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ5NTQ2MzQ4LC0yMDA5NTg1MTk4LDEwMz
-U1MTg3MzMsLTE4Mjg5NzgwNzYsNTY5OTUzMDMsMjgyMzcyNzcx
-LDQzODU3MTUxOCwtMTA3Mjc3NjkyNSwtMTk2Mzg3MDgyOCw3MD
-QzNjYzMjAsLTMzMTIxMTgwMCwyODc2MTY3MjQsLTE5MzI2MzI0
-ODUsMTkyMTk4MTIxNywxMTYwNjA5Njg1LC0xODAwNTQ4MTcwLD
-U5NjY4NDY5Miw1OTE3OTY2MjEsMTYyNTk5MzQ0MywxMzgwMDMy
-ODg3XX0=
+eyJoaXN0b3J5IjpbMTUxOTcwOTEzMiwtMjAwOTU4NTE5OCwxMD
+M1NTE4NzMzLC0xODI4OTc4MDc2LDU2OTk1MzAzLDI4MjM3Mjc3
+MSw0Mzg1NzE1MTgsLTEwNzI3NzY5MjUsLTE5NjM4NzA4MjgsNz
+A0MzY2MzIwLC0zMzEyMTE4MDAsMjg3NjE2NzI0LC0xOTMyNjMy
+NDg1LDE5MjE5ODEyMTcsMTE2MDYwOTY4NSwtMTgwMDU0ODE3MC
+w1OTY2ODQ2OTIsNTkxNzk2NjIxLDE2MjU5OTM0NDMsMTM4MDAz
+Mjg4N119
 -->
