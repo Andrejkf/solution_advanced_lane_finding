@@ -160,7 +160,7 @@ An ilustration is shown below:
 Bellow, you may find a short part of code to ilustrate it:
 
 Here:
-*t = top. b = bottom. r = rigth. l = left. s = source*, and *d = destination*. So, for source points we have ( trs, brs, tls, and bls) and for destination points (trd, brd, tld, and bld).
+*t = top. b = bottom. r = rigth. l = left. s = source*, and *d = destination*. So, for source points we have ( *trs, brs, tls, and bls*) and for destination points (*trd, brd, tld, and bld*).
 ```
 # get original and destination points based on previously calculated hough lines
     # top righ, bottom rigth, top left, bottom left
@@ -327,11 +327,11 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NTk0NjI5LDI4MjM3Mjc3MSw0Mzg1Nz
-E1MTgsLTEwNzI3NzY5MjUsLTE5NjM4NzA4MjgsNzA0MzY2MzIw
-LC0zMzEyMTE4MDAsMjg3NjE2NzI0LC0xOTMyNjMyNDg1LDE5Mj
-E5ODEyMTcsMTE2MDYwOTY4NSwtMTgwMDU0ODE3MCw1OTY2ODQ2
-OTIsNTkxNzk2NjIxLDE2MjU5OTM0NDMsMTM4MDAzMjg4Nyw1Mz
-Y4MzA5MzcsOTg2NTAwNjcxLC0xNjEyNTcxODY1LDE1NTEzNDgy
-NzldfQ==
+eyJoaXN0b3J5IjpbLTEwMzkzNzkzODMsMjgyMzcyNzcxLDQzOD
+U3MTUxOCwtMTA3Mjc3NjkyNSwtMTk2Mzg3MDgyOCw3MDQzNjYz
+MjAsLTMzMTIxMTgwMCwyODc2MTY3MjQsLTE5MzI2MzI0ODUsMT
+kyMTk4MTIxNywxMTYwNjA5Njg1LC0xODAwNTQ4MTcwLDU5NjY4
+NDY5Miw1OTE3OTY2MjEsMTYyNTk5MzQ0MywxMzgwMDMyODg3LD
+UzNjgzMDkzNyw5ODY1MDA2NzEsLTE2MTI1NzE4NjUsMTU1MTM0
+ODI3OV19
 -->
