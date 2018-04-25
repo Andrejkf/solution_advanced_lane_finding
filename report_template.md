@@ -280,7 +280,7 @@ Even if this solution is not ready for production on a real car, is a first apro
 
 Something that the solution is failing in, is that *the slower the radius of curvature, the more probability to have lane lines out of the perspective transformation* resulting on missing lane lines. This can be observed on the third video *(harder challenge video)*.
 
-I also have noticed that for some images *noisy binary images* during the image preprocessing so further image preprocessing would end up with a more robust model to changes in brightness, temperature, fuzziness on lane lines. This can be observed on the seccond video *(challenge video)* where the lane lines stimation is lost while the car is being driven under the bridge.
+I also have noticed that for some images *noisy binary images* during the image preprocessing so further image preprocessing would end up with a more robust model to changes in brightness, temperature and fuzziness on lane lines. This can be observed on the seccond video *(challenge video)* where the lane lines stimation is lost while the car is being driven under the bridge.
 
 #### Possible improvements
 
@@ -328,11 +328,11 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjg5NzgwNzYsNTY5OTUzMDMsMjgyMz
-cyNzcxLDQzODU3MTUxOCwtMTA3Mjc3NjkyNSwtMTk2Mzg3MDgy
-OCw3MDQzNjYzMjAsLTMzMTIxMTgwMCwyODc2MTY3MjQsLTE5Mz
-I2MzI0ODUsMTkyMTk4MTIxNywxMTYwNjA5Njg1LC0xODAwNTQ4
-MTcwLDU5NjY4NDY5Miw1OTE3OTY2MjEsMTYyNTk5MzQ0MywxMz
-gwMDMyODg3LDUzNjgzMDkzNyw5ODY1MDA2NzEsLTE2MTI1NzE4
-NjVdfQ==
+eyJoaXN0b3J5IjpbMTAzNTUxODczMywtMTgyODk3ODA3Niw1Nj
+k5NTMwMywyODIzNzI3NzEsNDM4NTcxNTE4LC0xMDcyNzc2OTI1
+LC0xOTYzODcwODI4LDcwNDM2NjMyMCwtMzMxMjExODAwLDI4Nz
+YxNjcyNCwtMTkzMjYzMjQ4NSwxOTIxOTgxMjE3LDExNjA2MDk2
+ODUsLTE4MDA1NDgxNzAsNTk2Njg0NjkyLDU5MTc5NjYyMSwxNj
+I1OTkzNDQzLDEzODAwMzI4ODcsNTM2ODMwOTM3LDk4NjUwMDY3
+MV19
 -->
