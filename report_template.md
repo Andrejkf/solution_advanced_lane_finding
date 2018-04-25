@@ -151,11 +151,11 @@ An ilustration is shown below:
 
 ##### 3.2 Perspective transform.
 
-3.2.1. First, image of ROI was selected. (Cell 42 in Jupyter notebook)
+3.2.1. First, image of ROI was selected. (Cell 42 in Jupyter notebook).
 
-3.2.2. Then, Hough transform was applied to binary image Region of Interest with function cv2.HoughLinesP(). (Cell 49 in Jupyter notebook)
+3.2.2. Then, Hough transform was applied to binary image Region of Interest with function *cv2.HoughLinesP().* (Cell 49 in Jupyter notebook).
 
-3.2.3. In addition, to define the source and destination points the output heigh of points was defined as *0.4 * imghigh*  (cell 52 Jupyter notebook) for top_rigth and top_left vertices as destination points. 
+3.2.3. In addition, to define the source and destination points the output heigh of points was defined as ** *0.4 * imghigh* **  (cell 52 Jupyter notebook) for top_rigth and top_left vertices as destination points. 
 
 Bellow, you may find a short part of code to ilustrate it:
 
@@ -327,7 +327,7 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzQyNDIyNywyODIzNzI3NzEsNDM4NT
+eyJoaXN0b3J5IjpbMTI4MDY5OTM0MSwyODIzNzI3NzEsNDM4NT
 cxNTE4LC0xMDcyNzc2OTI1LC0xOTYzODcwODI4LDcwNDM2NjMy
 MCwtMzMxMjExODAwLDI4NzYxNjcyNCwtMTkzMjYzMjQ4NSwxOT
 IxOTgxMjE3LDExNjA2MDk2ODUsLTE4MDA1NDgxNzAsNTk2Njg0
