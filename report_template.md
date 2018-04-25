@@ -111,7 +111,7 @@ Initially I tried to use a color combination using a *yellow_white color mask* b
 
 Note: I believe that x_treshold, y_threshold, magnitude_threshol and direction_threshold can be used altogether to get less noisy images. Even if I did not combine them. Those functions are in cells 32,33,34 from the Jupyter notebook and I was inspired on class exercises to write them.
 
-The values of threshold used where tunned by trial and error looking to reduce all possible points/pixels that might introduce noise in the predictions.
+The values of threshold used were tunned by trial and error looking to reduce all possible points/pixels that might introduce noise in the predictions.
 
 All that said, I defined the following functions:
 * hls_wyMask(). (cell 27 Jupyter notebook). Used to apply a color white-yellow mask in HLS_color_space while keeping threshold values from project 1.
@@ -324,11 +324,11 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4MTMzMjczLDI4MjM3Mjc3MSw0Mzg1Nz
-E1MTgsLTEwNzI3NzY5MjUsLTE5NjM4NzA4MjgsNzA0MzY2MzIw
-LC0zMzEyMTE4MDAsMjg3NjE2NzI0LC0xOTMyNjMyNDg1LDE5Mj
-E5ODEyMTcsMTE2MDYwOTY4NSwtMTgwMDU0ODE3MCw1OTY2ODQ2
-OTIsNTkxNzk2NjIxLDE2MjU5OTM0NDMsMTM4MDAzMjg4Nyw1Mz
-Y4MzA5MzcsOTg2NTAwNjcxLC0xNjEyNTcxODY1LDE1NTEzNDgy
-NzldfQ==
+eyJoaXN0b3J5IjpbLTE0MDM2NjAzMDUsMjgyMzcyNzcxLDQzOD
+U3MTUxOCwtMTA3Mjc3NjkyNSwtMTk2Mzg3MDgyOCw3MDQzNjYz
+MjAsLTMzMTIxMTgwMCwyODc2MTY3MjQsLTE5MzI2MzI0ODUsMT
+kyMTk4MTIxNywxMTYwNjA5Njg1LC0xODAwNTQ4MTcwLDU5NjY4
+NDY5Miw1OTE3OTY2MjEsMTYyNTk5MzQ0MywxMzgwMDMyODg3LD
+UzNjgzMDkzNyw5ODY1MDA2NzEsLTE2MTI1NzE4NjUsMTU1MTM0
+ODI3OV19
 -->
