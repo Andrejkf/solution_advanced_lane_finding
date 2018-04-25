@@ -73,7 +73,7 @@ To get the camera matrix and distortion coefficients in file *camera_calibration
 
 	1.1 draw detected corners for debbugging purposes.
 
-2. Find the chess inner corners using cv2.findChessboardCorners.
+2. Find the chess inner corners using *cv2.findChessboardCorners()*.
 3. Get a list of object points and image points.
 4. Get camera matrix and distortion coeffients using *cv2.calibrateCamera()*.
 5. Apply camera matrix and distortion correction to chess images.
@@ -334,7 +334,7 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MzAzMTgxNCwyODIzNzI3NzEsNDM4NT
+eyJoaXN0b3J5IjpbMTg5NTk3MTc4MywyODIzNzI3NzEsNDM4NT
 cxNTE4LC0xMDcyNzc2OTI1LC0xOTYzODcwODI4LDcwNDM2NjMy
 MCwtMzMxMjExODAwLDI4NzYxNjcyNCwtMTkzMjYzMjQ4NSwxOT
 IxOTgxMjE3LDExNjA2MDk2ODUsLTE4MDA1NDgxNzAsNTk2Njg0
