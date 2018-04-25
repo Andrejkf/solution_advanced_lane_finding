@@ -204,15 +204,15 @@ This is illustrated below:
 
 4.1.3. Then pixels from lane lines were searched using a window of 120 pixels. Function *getlanepixels()* (cell 57 Jupyter notebook).
 
-4.1.4. After, a *2nd* order polinomial function is aproximated to the curved lines described by lane lines using numpy.polyfit() function. Function getcurvedlaneline(). (cell 61 Jupyter notebook).
+4.1.4. After, a *2nd* order polinomial function is aproximated to the curved lines described by lane lines using *numpy.polyfit()* function. Function *getcurvedlaneline()*. (cell 61 Jupyter notebook).
 
 
 #### 5.1 Radius of curvature of the lane
 ##### Describe how (and identify where in your code) you calculated the radius of curvature of the lane and the position of the vehicle with respect to center.
 
-5.1.1. Function drawcurvedline() was defined. (cell 62 Jupyter notebook). Used to estimate curvature radius for lanes. 
+5.1.1. Function *drawcurvedline()* was defined. (cell 62 Jupyter notebook). Used to estimate curvature radius for lanes. 
 
-A conversion *from pixel units  to meters* is done. Then a seccond order polinomial regression estimation is done using numpy.polyfit().
+A conversion *from pixel units  to meters* is done. Then a seccond order polinomial regression estimation is done using *numpy.polyfit()*.
 
 To ilustrate process, a short piece of code is shown below:
 ```
@@ -328,11 +328,11 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NjQxNzU4NiwyODIzNzI3NzEsNDM4NT
-cxNTE4LC0xMDcyNzc2OTI1LC0xOTYzODcwODI4LDcwNDM2NjMy
-MCwtMzMxMjExODAwLDI4NzYxNjcyNCwtMTkzMjYzMjQ4NSwxOT
-IxOTgxMjE3LDExNjA2MDk2ODUsLTE4MDA1NDgxNzAsNTk2Njg0
-NjkyLDU5MTc5NjYyMSwxNjI1OTkzNDQzLDEzODAwMzI4ODcsNT
-M2ODMwOTM3LDk4NjUwMDY3MSwtMTYxMjU3MTg2NSwxNTUxMzQ4
-Mjc5XX0=
+eyJoaXN0b3J5IjpbLTIxMjQyODMxODIsMjgyMzcyNzcxLDQzOD
+U3MTUxOCwtMTA3Mjc3NjkyNSwtMTk2Mzg3MDgyOCw3MDQzNjYz
+MjAsLTMzMTIxMTgwMCwyODc2MTY3MjQsLTE5MzI2MzI0ODUsMT
+kyMTk4MTIxNywxMTYwNjA5Njg1LC0xODAwNTQ4MTcwLDU5NjY4
+NDY5Miw1OTE3OTY2MjEsMTYyNTk5MzQ0MywxMzgwMDMyODg3LD
+UzNjgzMDkzNyw5ODY1MDA2NzEsLTE2MTI1NzE4NjUsMTU1MTM0
+ODI3OV19
 -->
