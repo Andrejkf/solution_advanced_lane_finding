@@ -142,7 +142,7 @@ To get the perspective transform the *vertices* for the *region_of_interest* wer
 ##### 3.1 ROI ( Region Of Interest)
 To apply ROI to images a poligon vertices was generated for image masking as follows.
 
-3.1.1. Function generate_vertices(): (Cell 40 in Jupyter notebook). Was defined to set up the trapezoidal vertices of the region of interest containing road lane lines. This function was taken from project 1 term1.
+3.1.1. *Function generate_vertices()*: (Cell 40 in Jupyter notebook). Was defined to set up the trapezoidal vertices of the region of interest containing road lane lines. This function was taken from project 1 term1.
 
 3.1.2. Function region_of_interest(). (Cell 41 in Jupyter notebook). Was used to apply an image mask to the input image in such a way that only keeps region of the image defined by the polygon from 'vertices'.
 
@@ -327,7 +327,7 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNDI0NzAxMCwyODIzNzI3NzEsNDM4NT
+eyJoaXN0b3J5IjpbLTE0NzAwMDk5OCwyODIzNzI3NzEsNDM4NT
 cxNTE4LC0xMDcyNzc2OTI1LC0xOTYzODcwODI4LDcwNDM2NjMy
 MCwtMzMxMjExODAwLDI4NzYxNjcyNCwtMTkzMjYzMjQ4NSwxOT
 IxOTgxMjE3LDExNjA2MDk2ODUsLTE4MDA1NDgxNzAsNTk2Njg0
