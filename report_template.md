@@ -226,7 +226,7 @@ ymbypixel = 30/imghigh # aprox meters by pixel
     estimation= int(((1 + (2*polifit[0]*yeval + polifit[1])**2)**1.5)/np.absolute(2*polifit[0]))
 ```
 #### 5.2 Position of the vehicle with respect to center.
-In here, an assumtion that the images correspond to a camera located on the center was done. So pixel units are transformed to meters and then the difference to the center of the image is computed.
+In here, an assumtion that the images correspond to a camera located on the center was done. So *pixel units* are *transformed to meters* and then the difference to the center of the image is computed.
 
 5.2.1. A Function named *estimatedistancefromlane()* was defined. (Cell 64 Jupyter notebook). This was the funtion used to estimate vehicle distance from center.
 
@@ -328,11 +328,11 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQyODMxODIsMjgyMzcyNzcxLDQzOD
-U3MTUxOCwtMTA3Mjc3NjkyNSwtMTk2Mzg3MDgyOCw3MDQzNjYz
-MjAsLTMzMTIxMTgwMCwyODc2MTY3MjQsLTE5MzI2MzI0ODUsMT
-kyMTk4MTIxNywxMTYwNjA5Njg1LC0xODAwNTQ4MTcwLDU5NjY4
-NDY5Miw1OTE3OTY2MjEsMTYyNTk5MzQ0MywxMzgwMDMyODg3LD
-UzNjgzMDkzNyw5ODY1MDA2NzEsLTE2MTI1NzE4NjUsMTU1MTM0
-ODI3OV19
+eyJoaXN0b3J5IjpbMTc0MTA5MDY2NCwyODIzNzI3NzEsNDM4NT
+cxNTE4LC0xMDcyNzc2OTI1LC0xOTYzODcwODI4LDcwNDM2NjMy
+MCwtMzMxMjExODAwLDI4NzYxNjcyNCwtMTkzMjYzMjQ4NSwxOT
+IxOTgxMjE3LDExNjA2MDk2ODUsLTE4MDA1NDgxNzAsNTk2Njg0
+NjkyLDU5MTc5NjYyMSwxNjI1OTkzNDQzLDEzODAwMzI4ODcsNT
+M2ODMwOTM3LDk4NjUwMDY3MSwtMTYxMjU3MTg2NSwxNTUxMzQ4
+Mjc5XX0=
 -->
