@@ -88,16 +88,6 @@ These steps are ilustrated below:
 
 
 
-The goals / steps of this project are the following:
-
-
-
--   Apply a perspective transform to rectify binary image (“birds-eye view”).
--   Detect lane pixels and fit to find the lane boundary.
--   Determine the curvature of the lane and vehicle position with respect to center.
--   Warp the detected lane boundaries back onto the original image.
--   Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
-
 
 ### Pipeline (single images)
 
@@ -334,11 +324,11 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTk3MTc4MywyODIzNzI3NzEsNDM4NT
-cxNTE4LC0xMDcyNzc2OTI1LC0xOTYzODcwODI4LDcwNDM2NjMy
-MCwtMzMxMjExODAwLDI4NzYxNjcyNCwtMTkzMjYzMjQ4NSwxOT
-IxOTgxMjE3LDExNjA2MDk2ODUsLTE4MDA1NDgxNzAsNTk2Njg0
-NjkyLDU5MTc5NjYyMSwxNjI1OTkzNDQzLDEzODAwMzI4ODcsNT
-M2ODMwOTM3LDk4NjUwMDY3MSwtMTYxMjU3MTg2NSwxNTUxMzQ4
-Mjc5XX0=
+eyJoaXN0b3J5IjpbMjE4OTAyNzU0LDI4MjM3Mjc3MSw0Mzg1Nz
+E1MTgsLTEwNzI3NzY5MjUsLTE5NjM4NzA4MjgsNzA0MzY2MzIw
+LC0zMzEyMTE4MDAsMjg3NjE2NzI0LC0xOTMyNjMyNDg1LDE5Mj
+E5ODEyMTcsMTE2MDYwOTY4NSwtMTgwMDU0ODE3MCw1OTY2ODQ2
+OTIsNTkxNzk2NjIxLDE2MjU5OTM0NDMsMTM4MDAzMjg4Nyw1Mz
+Y4MzA5MzcsOTg2NTAwNjcxLC0xNjEyNTcxODY1LDE1NTEzNDgy
+NzldfQ==
 -->
