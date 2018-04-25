@@ -286,7 +286,7 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 * If I were going further on this project I would install a camera on a car and I would test this model again.
 * To make this solution approach more robust *outliers filtering (in lane lines detection)* should be added. For example, a low pass filter. 
-* It would be very good to try other aproaches *for low curvature radius* road lane lines values  like *splines* or *high order wavelets generation*.
+* It would be very good to try other aproaches for *low curvature radius* road lane lines values  like *splines* or *high order wavelets generation*.
 
 
 *Note for the reader: Thank you very much for taking part of your time reading this document.*
@@ -328,11 +328,11 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2MTkyNDUxLDEwMzU1MTg3MzMsLTE4Mj
-g5NzgwNzYsNTY5OTUzMDMsMjgyMzcyNzcxLDQzODU3MTUxOCwt
-MTA3Mjc3NjkyNSwtMTk2Mzg3MDgyOCw3MDQzNjYzMjAsLTMzMT
-IxMTgwMCwyODc2MTY3MjQsLTE5MzI2MzI0ODUsMTkyMTk4MTIx
-NywxMTYwNjA5Njg1LC0xODAwNTQ4MTcwLDU5NjY4NDY5Miw1OT
-E3OTY2MjEsMTYyNTk5MzQ0MywxMzgwMDMyODg3LDUzNjgzMDkz
-N119
+eyJoaXN0b3J5IjpbLTIxNDAxODQ4MTUsMTAzNTUxODczMywtMT
+gyODk3ODA3Niw1Njk5NTMwMywyODIzNzI3NzEsNDM4NTcxNTE4
+LC0xMDcyNzc2OTI1LC0xOTYzODcwODI4LDcwNDM2NjMyMCwtMz
+MxMjExODAwLDI4NzYxNjcyNCwtMTkzMjYzMjQ4NSwxOTIxOTgx
+MjE3LDExNjA2MDk2ODUsLTE4MDA1NDgxNzAsNTk2Njg0NjkyLD
+U5MTc5NjYyMSwxNjI1OTkzNDQzLDEzODAwMzI4ODcsNTM2ODMw
+OTM3XX0=
 -->
