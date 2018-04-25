@@ -137,10 +137,10 @@ Some images to illustrate the process are shown below:
 
 ##### Describe how (and identify where in your code) you performed a perspective transform and provide an example of a transformed image.
 
-To get the perspective transform the *vertices* for the *region_of_interest* were defined and then *warped images* were obtained by applying the function *cv2.warpPerspective()* to the *images with hough lines detected and after ROI was done*.
+To get the perspective transform the *vertices* for the *region_of_interest* were defined and then *warped images* were obtained by applying the function *cv2.warpPerspective()* to the *images with hough lines detected after ROI was done*.
 
 ##### 3.1 ROI ( Region Of Interest)
-To apply ROI to images with hough lines on it 
+To apply ROI to images a poligon vertices was generated and a 
 
 3.1.1. Function generate_vertices(): (Cell 40 in Jupyter notebook). Was defined to set up the trapezoidal vertices of the region of interest containing road lane lines. This function was taken from project 1 term1.
 
@@ -327,11 +327,11 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjg2Nzc5NTUsMjgyMzcyNzcxLDQzOD
-U3MTUxOCwtMTA3Mjc3NjkyNSwtMTk2Mzg3MDgyOCw3MDQzNjYz
-MjAsLTMzMTIxMTgwMCwyODc2MTY3MjQsLTE5MzI2MzI0ODUsMT
-kyMTk4MTIxNywxMTYwNjA5Njg1LC0xODAwNTQ4MTcwLDU5NjY4
-NDY5Miw1OTE3OTY2MjEsMTYyNTk5MzQ0MywxMzgwMDMyODg3LD
-UzNjgzMDkzNyw5ODY1MDA2NzEsLTE2MTI1NzE4NjUsMTU1MTM0
-ODI3OV19
+eyJoaXN0b3J5IjpbLTUxOTg2MDk4NCwyODIzNzI3NzEsNDM4NT
+cxNTE4LC0xMDcyNzc2OTI1LC0xOTYzODcwODI4LDcwNDM2NjMy
+MCwtMzMxMjExODAwLDI4NzYxNjcyNCwtMTkzMjYzMjQ4NSwxOT
+IxOTgxMjE3LDExNjA2MDk2ODUsLTE4MDA1NDgxNzAsNTk2Njg0
+NjkyLDU5MTc5NjYyMSwxNjI1OTkzNDQzLDEzODAwMzI4ODcsNT
+M2ODMwOTM3LDk4NjUwMDY3MSwtMTYxMjU3MTg2NSwxNTUxMzQ4
+Mjc5XX0=
 -->
