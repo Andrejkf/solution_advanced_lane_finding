@@ -193,16 +193,18 @@ Illustration of this process on sample image is shown below:
 ##### Describe how (and identify where in your code) you identified lane-line pixels and fit their positions with a polynomial?
 
 4.1. Using function *scipy.find_peaks_cwt()* to smooth a vector by convolving it with wavelet for each width, getting relative maximums as stimations for posible lane lines detections. (cell 57 from Jupyter notebook).
-	4.1.1.  Function *getlanelinesbase()*: (cell 57 Jupyter notebook). The histogram vector is computed and then convolved with wavelet(width). 
-	4.1.2. The left line is assumed to be the first element returned by *scipy.find_peaks_cwt()*  and the rigth line is assumed to be the last element returned by the same function *scipy.find_peaks_cwt()*.
+
+4.1.1.  Function *getlanelinesbase()*: (cell 57 Jupyter notebook). The histogram vector is computed and then convolved with wavelet(width). 
+
+4.1.2. The left line is assumed to be the first element returned by *scipy.find_peaks_cwt()*  and the rigth line is assumed to be the last element returned by the same function *scipy.find_peaks_cwt()*.
 
 This is illustrated below:
 <br/> ![alt text][image14]
 <br/>(In red: histogram used for convolution with wavelet(width))
 
-4.1.3. Then pixels from lane lines were searched using a window of 120 pixels. Function getlanepixels() (cell 57 Jupyter notebook).
+4.1.3. Then pixels from lane lines were searched using a window of 120 pixels. Function *getlanepixels()* (cell 57 Jupyter notebook).
 
-4.1.4. After, a 2nd order polinomial function is aproximated to the curved lines described by lane lines using numpy.polyfit() function. Function getcurvedlaneline(). (cell 61 Jupyter notebook).
+4.1.4. After, a *2nd* order polinomial function is aproximated to the curved lines described by lane lines using numpy.polyfit() function. Function getcurvedlaneline(). (cell 61 Jupyter notebook).
 
 
 #### 5.1 Radius of curvature of the lane
@@ -326,11 +328,11 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkxNzQxMTQyLDI4MjM3Mjc3MSw0Mzg1Nz
-E1MTgsLTEwNzI3NzY5MjUsLTE5NjM4NzA4MjgsNzA0MzY2MzIw
-LC0zMzEyMTE4MDAsMjg3NjE2NzI0LC0xOTMyNjMyNDg1LDE5Mj
-E5ODEyMTcsMTE2MDYwOTY4NSwtMTgwMDU0ODE3MCw1OTY2ODQ2
-OTIsNTkxNzk2NjIxLDE2MjU5OTM0NDMsMTM4MDAzMjg4Nyw1Mz
-Y4MzA5MzcsOTg2NTAwNjcxLC0xNjEyNTcxODY1LDE1NTEzNDgy
-NzldfQ==
+eyJoaXN0b3J5IjpbMTA0NjQxNzU4NiwyODIzNzI3NzEsNDM4NT
+cxNTE4LC0xMDcyNzc2OTI1LC0xOTYzODcwODI4LDcwNDM2NjMy
+MCwtMzMxMjExODAwLDI4NzYxNjcyNCwtMTkzMjYzMjQ4NSwxOT
+IxOTgxMjE3LDExNjA2MDk2ODUsLTE4MDA1NDgxNzAsNTk2Njg0
+NjkyLDU5MTc5NjYyMSwxNjI1OTkzNDQzLDEzODAwMzI4ODcsNT
+M2ODMwOTM3LDk4NjUwMDY3MSwtMTYxMjU3MTg2NSwxNTUxMzQ4
+Mjc5XX0=
 -->
