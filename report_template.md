@@ -114,14 +114,15 @@ Note: I believe that x_treshold, y_threshold, magnitude_threshol and direction_t
 The values of threshold used were tunned by trial and error *looking to reduce all possible points/pixels that might introduce noise in the predictions*.
 
 All that said, I defined the following functions:
-* hls_wyMask(). (cell 27 Jupyter notebook). Used to apply a color white-yellow mask in HLS_color_space while keeping threshold values from project 1.
-* hsv_wyMask(): (cell 28 Jupyter notebook). Used to apply a color white-yellow mask in HSV_color_space.
-* gray_binary(): (cell 29 Jupyter notebook). Used to get a binary thresholded image from images im grayscale. I tried using global  histogram equalization but I did not included in this pipeline.
-* hls_channel_binary(): (cell 30 Jupyter notebook). Used to apply binary threshold to S or L channel of image in HSL color space.
-* abs_sobel_thresh():  (cell 32 Jupyter notebook). Used to apply sobel gradients in X or Y direction using cv2.Sobel to gray images. 
-* mag_thresh():  (cell 33 Jupyter notebook). Used to apply Sobel L2 norm using cv2.Sobel to gray images. 
-* dir_threshold():  (cell 34 Jupyter notebook). Used to apply Sobel directional threshold using cv2.Sobel to gray images.
-* binary_threshold():  (cell 37 Jupyter notebook). Used to generate the combined binary thresholded image.
+* *hls_wyMask()*. (cell 27 Jupyter notebook). Used to apply a color white-yellow mask in HLS_color_space while keeping threshold values from project 1.
+* *hsv_wyMask()*: (cell 28 Jupyter notebook). Used to apply a color white-yellow mask in HSV_color_space.
+* *gray_binary()*: (cell 29 Jupyter notebook). Used to get a binary thresholded image from images im grayscale. I tried using global  histogram equalization but I did not included in this pipeline.
+* *hls_channel_binary()*: (cell 30 Jupyter notebook). Used to apply binary threshold to S or L channel of image in HSL color space.
+* *abs_sobel_thresh()*:  (cell 32 Jupyter notebook). Used to apply sobel gradients in X or Y direction using cv2.Sobel to gray images. 
+* *mag_thresh()*:  (cell 33 Jupyter notebook). Used to apply Sobel L2 norm using cv2.Sobel to gray images. 
+* *dir_threshold()*:  (cell 34 Jupyter notebook). Used to apply Sobel directional threshold using cv2.Sobel to gray images.
+* *binary_threshold()*:  (cell 37 Jupyter notebook). Used to generate the combined binary thresholded image.
+
 Some images to illustrate the process are shown below:
 
 <br/> ![alt text][image4]
@@ -324,11 +325,11 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjQ2ODQ4MjEsMjgyMzcyNzcxLDQzOD
-U3MTUxOCwtMTA3Mjc3NjkyNSwtMTk2Mzg3MDgyOCw3MDQzNjYz
-MjAsLTMzMTIxMTgwMCwyODc2MTY3MjQsLTE5MzI2MzI0ODUsMT
-kyMTk4MTIxNywxMTYwNjA5Njg1LC0xODAwNTQ4MTcwLDU5NjY4
-NDY5Miw1OTE3OTY2MjEsMTYyNTk5MzQ0MywxMzgwMDMyODg3LD
-UzNjgzMDkzNyw5ODY1MDA2NzEsLTE2MTI1NzE4NjUsMTU1MTM0
-ODI3OV19
+eyJoaXN0b3J5IjpbNjQ2ODI4MzQ3LDI4MjM3Mjc3MSw0Mzg1Nz
+E1MTgsLTEwNzI3NzY5MjUsLTE5NjM4NzA4MjgsNzA0MzY2MzIw
+LC0zMzEyMTE4MDAsMjg3NjE2NzI0LC0xOTMyNjMyNDg1LDE5Mj
+E5ODEyMTcsMTE2MDYwOTY4NSwtMTgwMDU0ODE3MCw1OTY2ODQ2
+OTIsNTkxNzk2NjIxLDE2MjU5OTM0NDMsMTM4MDAzMjg4Nyw1Mz
+Y4MzA5MzcsOTg2NTAwNjcxLC0xNjEyNTcxODY1LDE1NTEzNDgy
+NzldfQ==
 -->
