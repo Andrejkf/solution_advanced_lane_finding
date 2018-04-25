@@ -178,9 +178,9 @@ Here:
     source_img_pts = [trs, brs, tls, bls]
     destination_pts= [trd, brd, tld, bld]
 ```
-3.2.4. Then direct and inverse perspective transform was computed using cv2.getPerspectiveTransform() .
+3.2.4. Then direct and inverse perspective transform was computed using *cv2.getPerspectiveTransform()* .
 
-3.2.5. A short pipeline to get direct (M) and inverse (Minv) transformations  was defined. Function pipeline_get_tf_matrix(). (Cell 54 Jupyter notebook).
+3.2.5. A short pipeline to get direct (M) and inverse (Minv) transformations  was defined. Function *pipeline_get_tf_matrix()*. (Cell 54 Jupyter notebook).
 
 Illustration of this process on sample image is shown below:
 <br/> ![alt text][image11]
@@ -192,10 +192,10 @@ Illustration of this process on sample image is shown below:
 #### 4. Lane lines polinomial fit.
 ##### Describe how (and identify where in your code) you identified lane-line pixels and fit their positions with a polynomial?
 
-4.1. Using function scipy.find_peaks_cwt() to smooth a vector by convolving it with wavelet for each width, getting relative maximums as stimations for posible lane lines detections. (cell 57 from Jupyter notebook).
+4.1. Using function *scipy.find_peaks_cwt()* to smooth a vector by convolving it with wavelet for each width, getting relative maximums as stimations for posible lane lines detections. (cell 57 from Jupyter notebook).
 
-4.1.1.  Function getlanelinesbase(): (cell 57 Jupyter notebook). histogram vector is computed and then convolved with wavelet(width). 
-4.1.2. The left line is assumed to be the first element returned by scipy.find_peaks_cwt()  and the rigth line is assumed to be the last element returned by the same function scipy.find_peaks_cwt().
+4.1.1.  Function *getlanelinesbase()*: (cell 57 Jupyter notebook). histogram vector is computed and then convolved with wavelet(width). 
+4.1.2. The left line is assumed to be the first element returned by *scipy.find_peaks_cwt()*  and the rigth line is assumed to be the last element returned by the same function *scipy.find_peaks_cwt().
 
 This is illustrated below:
 <br/> ![alt text][image14]
@@ -327,11 +327,11 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzkzNzkzODMsMjgyMzcyNzcxLDQzOD
-U3MTUxOCwtMTA3Mjc3NjkyNSwtMTk2Mzg3MDgyOCw3MDQzNjYz
-MjAsLTMzMTIxMTgwMCwyODc2MTY3MjQsLTE5MzI2MzI0ODUsMT
-kyMTk4MTIxNywxMTYwNjA5Njg1LC0xODAwNTQ4MTcwLDU5NjY4
-NDY5Miw1OTE3OTY2MjEsMTYyNTk5MzQ0MywxMzgwMDMyODg3LD
-UzNjgzMDkzNyw5ODY1MDA2NzEsLTE2MTI1NzE4NjUsMTU1MTM0
-ODI3OV19
+eyJoaXN0b3J5IjpbNzE1Mzk1NTEsMjgyMzcyNzcxLDQzODU3MT
+UxOCwtMTA3Mjc3NjkyNSwtMTk2Mzg3MDgyOCw3MDQzNjYzMjAs
+LTMzMTIxMTgwMCwyODc2MTY3MjQsLTE5MzI2MzI0ODUsMTkyMT
+k4MTIxNywxMTYwNjA5Njg1LC0xODAwNTQ4MTcwLDU5NjY4NDY5
+Miw1OTE3OTY2MjEsMTYyNTk5MzQ0MywxMzgwMDMyODg3LDUzNj
+gzMDkzNyw5ODY1MDA2NzEsLTE2MTI1NzE4NjUsMTU1MTM0ODI3
+OV19
 -->
