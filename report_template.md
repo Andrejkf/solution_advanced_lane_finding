@@ -195,7 +195,7 @@ Illustration of this process on sample image is shown below:
 4.1. Using function *scipy.find_peaks_cwt()* to smooth a vector by convolving it with wavelet for each width, getting relative maximums as stimations for posible lane lines detections. (cell 57 from Jupyter notebook).
 
 4.1.1.  Function *getlanelinesbase()*: (cell 57 Jupyter notebook). histogram vector is computed and then convolved with wavelet(width). 
-4.1.2. The left line is assumed to be the first element returned by *scipy.find_peaks_cwt()*  and the rigth line is assumed to be the last element returned by the same function *scipy.find_peaks_cwt().
+4.1.2. The left line is assumed to be the first element returned by *scipy.find_peaks_cwt()*  and the rigth line is assumed to be the last element returned by the same function *scipy.find_peaks_cwt()*.
 
 This is illustrated below:
 <br/> ![alt text][image14]
@@ -327,11 +327,11 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1Mzk1NTEsMjgyMzcyNzcxLDQzODU3MT
-UxOCwtMTA3Mjc3NjkyNSwtMTk2Mzg3MDgyOCw3MDQzNjYzMjAs
-LTMzMTIxMTgwMCwyODc2MTY3MjQsLTE5MzI2MzI0ODUsMTkyMT
-k4MTIxNywxMTYwNjA5Njg1LC0xODAwNTQ4MTcwLDU5NjY4NDY5
-Miw1OTE3OTY2MjEsMTYyNTk5MzQ0MywxMzgwMDMyODg3LDUzNj
-gzMDkzNyw5ODY1MDA2NzEsLTE2MTI1NzE4NjUsMTU1MTM0ODI3
-OV19
+eyJoaXN0b3J5IjpbMzgyMDY1MTU3LDI4MjM3Mjc3MSw0Mzg1Nz
+E1MTgsLTEwNzI3NzY5MjUsLTE5NjM4NzA4MjgsNzA0MzY2MzIw
+LC0zMzEyMTE4MDAsMjg3NjE2NzI0LC0xOTMyNjMyNDg1LDE5Mj
+E5ODEyMTcsMTE2MDYwOTY4NSwtMTgwMDU0ODE3MCw1OTY2ODQ2
+OTIsNTkxNzk2NjIxLDE2MjU5OTM0NDMsMTM4MDAzMjg4Nyw1Mz
+Y4MzA5MzcsOTg2NTAwNjcxLC0xNjEyNTcxODY1LDE1NTEzNDgy
+NzldfQ==
 -->
