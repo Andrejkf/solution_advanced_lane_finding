@@ -155,12 +155,12 @@ An ilustration is shown below:
 
 3.2.2. Then, Hough transform was applied to binary image Region of Interest with function *cv2.HoughLinesP().* (Cell 49 in Jupyter notebook).
 
-3.2.3. In addition, to define the source and destination points the output heigh of points was defined as ** *0.4 * imghigh* **  (cell 52 Jupyter notebook) for top_rigth and top_left vertices as destination points. 
+3.2.3. In addition, to define the source and destination points the output heigh of points was defined as ***0.4 * imghigh***  (cell 52 Jupyter notebook) for *top_rigth* and *top_left* *vertices* as destination points. 
 
 Bellow, you may find a short part of code to ilustrate it:
 
 Here:
-t = top. b = bottom. r = rigth. l = left. s = source, and d = destination. So, for source points we have ( trs, brs, tls, and bls) and for destination points (trd, brd, tld, and bld).
+*t = top. b = bottom. r = rigth. l = left. s = source*, and *d = destination*. So, for source points we have ( trs, brs, tls, and bls) and for destination points (trd, brd, tld, and bld).
 ```
 # get original and destination points based on previously calculated hough lines
     # top righ, bottom rigth, top left, bottom left
@@ -327,11 +327,11 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDY5OTM0MSwyODIzNzI3NzEsNDM4NT
-cxNTE4LC0xMDcyNzc2OTI1LC0xOTYzODcwODI4LDcwNDM2NjMy
-MCwtMzMxMjExODAwLDI4NzYxNjcyNCwtMTkzMjYzMjQ4NSwxOT
-IxOTgxMjE3LDExNjA2MDk2ODUsLTE4MDA1NDgxNzAsNTk2Njg0
-NjkyLDU5MTc5NjYyMSwxNjI1OTkzNDQzLDEzODAwMzI4ODcsNT
-M2ODMwOTM3LDk4NjUwMDY3MSwtMTYxMjU3MTg2NSwxNTUxMzQ4
-Mjc5XX0=
+eyJoaXN0b3J5IjpbMTY4NTk0NjI5LDI4MjM3Mjc3MSw0Mzg1Nz
+E1MTgsLTEwNzI3NzY5MjUsLTE5NjM4NzA4MjgsNzA0MzY2MzIw
+LC0zMzEyMTE4MDAsMjg3NjE2NzI0LC0xOTMyNjMyNDg1LDE5Mj
+E5ODEyMTcsMTE2MDYwOTY4NSwtMTgwMDU0ODE3MCw1OTY2ODQ2
+OTIsNTkxNzk2NjIxLDE2MjU5OTM0NDMsMTM4MDAzMjg4Nyw1Mz
+Y4MzA5MzcsOTg2NTAwNjcxLC0xNjEyNTcxODY1LDE1NTEzNDgy
+NzldfQ==
 -->
