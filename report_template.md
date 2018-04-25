@@ -95,7 +95,7 @@ These steps are ilustrated below:
 
 ##### Provide an example of a distortion-corrected image.
 
-After applying distortion correction to the chess board images I saved the camera matrix and distortion coefficients in a pickle file ([wide_dist_pickle.p](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/blob/master/wide_dist_pickle.p "wide_dist_pickle.p")). Then I loaded the same matrix and distortion coefficients and applied them to the raw test images provided in folder *./test_images*. Below you may find an ilustration:
+After applying distortion correction to the chess board images I saved the camera matrix and distortion coefficients in a pickle file ([wide_dist_pickle.p](https://github.com/Andrejkf/solution_advanced_lane_finding_p4t1/blob/master/wide_dist_pickle.p "wide_dist_pickle.p")). Then I loaded the same matrix and distortion coefficients and applied them to the raw test images provided in folder *./test_images*. Below is shown an ilustration:
 <br/> ![alt text][image3]
 
 
@@ -324,7 +324,7 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTI5OTgyNSwyODIzNzI3NzEsNDM4NT
+eyJoaXN0b3J5IjpbLTY5NjkzNjI5NywyODIzNzI3NzEsNDM4NT
 cxNTE4LC0xMDcyNzc2OTI1LC0xOTYzODcwODI4LDcwNDM2NjMy
 MCwtMzMxMjExODAwLDI4NzYxNjcyNCwtMTkzMjYzMjQ4NSwxOT
 IxOTgxMjE3LDExNjA2MDk2ODUsLTE4MDA1NDgxNzAsNTk2Njg0
