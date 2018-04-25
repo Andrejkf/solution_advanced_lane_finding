@@ -289,7 +289,7 @@ I also have noticed that for some images *noisy binary images* during the image 
 * It would be very good to try other aproaches for *low curvature radius* road lane lines values  like *splines* or *higher  order wavelets generation*.
 
 
-***Note for the reader: Thank you very much for taking part of your time reading this document, I appreciate it.***
+*Note for the reader: Thank you very much for taking part of your time reading this document, I appreciate it.*
 
 [//]: # (Image References)
 
@@ -328,11 +328,11 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIwMDQyNjIyLDEwMzU1MTg3MzMsLTE4Mj
-g5NzgwNzYsNTY5OTUzMDMsMjgyMzcyNzcxLDQzODU3MTUxOCwt
-MTA3Mjc3NjkyNSwtMTk2Mzg3MDgyOCw3MDQzNjYzMjAsLTMzMT
-IxMTgwMCwyODc2MTY3MjQsLTE5MzI2MzI0ODUsMTkyMTk4MTIx
-NywxMTYwNjA5Njg1LC0xODAwNTQ4MTcwLDU5NjY4NDY5Miw1OT
-E3OTY2MjEsMTYyNTk5MzQ0MywxMzgwMDMyODg3LDUzNjgzMDkz
-N119
+eyJoaXN0b3J5IjpbMTA2MzMzNzQwNiwxMDM1NTE4NzMzLC0xOD
+I4OTc4MDc2LDU2OTk1MzAzLDI4MjM3Mjc3MSw0Mzg1NzE1MTgs
+LTEwNzI3NzY5MjUsLTE5NjM4NzA4MjgsNzA0MzY2MzIwLC0zMz
+EyMTE4MDAsMjg3NjE2NzI0LC0xOTMyNjMyNDg1LDE5MjE5ODEy
+MTcsMTE2MDYwOTY4NSwtMTgwMDU0ODE3MCw1OTY2ODQ2OTIsNT
+kxNzk2NjIxLDE2MjU5OTM0NDMsMTM4MDAzMjg4Nyw1MzY4MzA5
+MzddfQ==
 -->
