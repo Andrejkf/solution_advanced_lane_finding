@@ -278,7 +278,7 @@ But, for the project video in general, lane lines are detected all the way along
 
 Even if this solution is not ready for production on a real car, is a first aproximation about how to use computer vission techniques to the inference system in the Self driving Car.
 
-One possible scenario where the solution is failing in, is summarized in this statement: *"the slower the radius of curvature, the more probability to have lane lines out of the perspective transformation"*, resulting on missing lane lines. This can be observed on the third video *(harder challenge video)*.
+One possible scenario where the solution is failing in, is summarized in this statement: *"the slower the radius of curvature, the more probability to have lane lines out of the perspective transformation"*, resulting in missing lane lines. This can be observed on the third video *(harder challenge video)*.
 
 I also have noticed that for some images *noisy binary images* during the image preprocessing so further image preprocessing would end up with a more robust model to changes in brightness, temperature and fuzziness on lane lines. This can be observed on the seccond video *(challenge video)* where the lane lines estimation is lost while the car is being driven under the bridge.
 
@@ -328,7 +328,7 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzAxMzIzMTMsLTE4OTU1MzEwNjMsMT
+eyJoaXN0b3J5IjpbLTEyMzc2OTk2MDMsLTE4OTU1MzEwNjMsMT
 UxOTcwOTEzMiwtMjAwOTU4NTE5OCwxMDM1NTE4NzMzLC0xODI4
 OTc4MDc2LDU2OTk1MzAzLDI4MjM3Mjc3MSw0Mzg1NzE1MTgsLT
 EwNzI3NzY5MjUsLTE5NjM4NzA4MjgsNzA0MzY2MzIwLC0zMzEy
