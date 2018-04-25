@@ -274,7 +274,7 @@ In addition,  you may want to watch them in your browser using the following lin
 
 I have noticed that sometimes the model returns slope estimations dividing by zero, so this is something related to the slope calculation and might be improved. That is why you get the perception in some miliseconds that the lane lines disapear *(blinking lane area)*. 
 
-But, in general for the project, lane lines are detected all the way along. 
+But, for the project video in general, lane lines are detected all the way along. 
 
 Even if this solution is not ready for production on a real car, is a first aproximation about how to use computer vission techniques to the inference system in the Self driving Car.
 
@@ -328,11 +328,11 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcxNDU2MDM3LDU2OTk1MzAzLDI4MjM3Mj
-c3MSw0Mzg1NzE1MTgsLTEwNzI3NzY5MjUsLTE5NjM4NzA4Mjgs
-NzA0MzY2MzIwLC0zMzEyMTE4MDAsMjg3NjE2NzI0LC0xOTMyNj
-MyNDg1LDE5MjE5ODEyMTcsMTE2MDYwOTY4NSwtMTgwMDU0ODE3
-MCw1OTY2ODQ2OTIsNTkxNzk2NjIxLDE2MjU5OTM0NDMsMTM4MD
-AzMjg4Nyw1MzY4MzA5MzcsOTg2NTAwNjcxLC0xNjEyNTcxODY1
-XX0=
+eyJoaXN0b3J5IjpbLTE4Mjg5NzgwNzYsNTY5OTUzMDMsMjgyMz
+cyNzcxLDQzODU3MTUxOCwtMTA3Mjc3NjkyNSwtMTk2Mzg3MDgy
+OCw3MDQzNjYzMjAsLTMzMTIxMTgwMCwyODc2MTY3MjQsLTE5Mz
+I2MzI0ODUsMTkyMTk4MTIxNywxMTYwNjA5Njg1LC0xODAwNTQ4
+MTcwLDU5NjY4NDY5Miw1OTE3OTY2MjEsMTYyNTk5MzQ0MywxMz
+gwMDMyODg3LDUzNjgzMDkzNyw5ODY1MDA2NzEsLTE2MTI1NzE4
+NjVdfQ==
 -->
