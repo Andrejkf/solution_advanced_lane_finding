@@ -144,7 +144,7 @@ To apply ROI to images a poligon vertices was generated for image masking as fol
 
 3.1.1. *Function generate_vertices()*: (Cell 40 in Jupyter notebook). Was defined to set up the trapezoidal vertices of the region of interest containing road lane lines. This function was taken from project 1 term1.
 
-3.1.2. Function region_of_interest(). (Cell 41 in Jupyter notebook). Was used to apply an image mask to the input image in such a way that only keeps region of the image defined by the polygon from 'vertices'.
+3.1.2. *Function region_of_interest()*. (Cell 41 in Jupyter notebook). Was used to apply an image mask to the input image in such a way that only keeps region of the image defined by the polygon from 'vertices'.
 
 An ilustration is shown below:
 <br/> ![alt text][image10]
@@ -327,11 +327,11 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzAwMDk5OCwyODIzNzI3NzEsNDM4NT
-cxNTE4LC0xMDcyNzc2OTI1LC0xOTYzODcwODI4LDcwNDM2NjMy
-MCwtMzMxMjExODAwLDI4NzYxNjcyNCwtMTkzMjYzMjQ4NSwxOT
-IxOTgxMjE3LDExNjA2MDk2ODUsLTE4MDA1NDgxNzAsNTk2Njg0
-NjkyLDU5MTc5NjYyMSwxNjI1OTkzNDQzLDEzODAwMzI4ODcsNT
-M2ODMwOTM3LDk4NjUwMDY3MSwtMTYxMjU3MTg2NSwxNTUxMzQ4
-Mjc5XX0=
+eyJoaXN0b3J5IjpbLTE5NjE0NjUyNjYsMjgyMzcyNzcxLDQzOD
+U3MTUxOCwtMTA3Mjc3NjkyNSwtMTk2Mzg3MDgyOCw3MDQzNjYz
+MjAsLTMzMTIxMTgwMCwyODc2MTY3MjQsLTE5MzI2MzI0ODUsMT
+kyMTk4MTIxNywxMTYwNjA5Njg1LC0xODAwNTQ4MTcwLDU5NjY4
+NDY5Miw1OTE3OTY2MjEsMTYyNTk5MzQ0MywxMzgwMDMyODg3LD
+UzNjgzMDkzNyw5ODY1MDA2NzEsLTE2MTI1NzE4NjUsMTU1MTM0
+ODI3OV19
 -->
