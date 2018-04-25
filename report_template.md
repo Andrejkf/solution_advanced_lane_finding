@@ -278,7 +278,7 @@ But, for the project video in general, lane lines are detected all the way along
 
 Even if this solution is not ready for production on a real car, is a first aproximation about how to use computer vission techniques to the inference system in the Self driving Car.
 
-One possible scenario where the solution is failing and min, is that *the slower the radius of curvature, the more probability to have lane lines out of the perspective transformation* resulting on missing lane lines. This can be observed on the third video *(harder challenge video)*.
+One possible scenario where the solution is failing and might be failing in, is summarized in this statement: *"the slower the radius of curvature, the more probability to have lane lines out of the perspective transformation"* resulting on missing lane lines. This can be observed on the third video *(harder challenge video)*.
 
 I also have noticed that for some images *noisy binary images* during the image preprocessing so further image preprocessing would end up with a more robust model to changes in brightness, temperature and fuzziness on lane lines. This can be observed on the seccond video *(challenge video)* where the lane lines estimation is lost while the car is being driven under the bridge.
 
@@ -328,11 +328,11 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYwMDYyMTU5LC0xODk1NTMxMDYzLDE1MT
-k3MDkxMzIsLTIwMDk1ODUxOTgsMTAzNTUxODczMywtMTgyODk3
-ODA3Niw1Njk5NTMwMywyODIzNzI3NzEsNDM4NTcxNTE4LC0xMD
-cyNzc2OTI1LC0xOTYzODcwODI4LDcwNDM2NjMyMCwtMzMxMjEx
-ODAwLDI4NzYxNjcyNCwtMTkzMjYzMjQ4NSwxOTIxOTgxMjE3LD
-ExNjA2MDk2ODUsLTE4MDA1NDgxNzAsNTk2Njg0NjkyLDU5MTc5
-NjYyMV19
+eyJoaXN0b3J5IjpbMTY4NjgxMjE2NCwtMTg5NTUzMTA2MywxNT
+E5NzA5MTMyLC0yMDA5NTg1MTk4LDEwMzU1MTg3MzMsLTE4Mjg5
+NzgwNzYsNTY5OTUzMDMsMjgyMzcyNzcxLDQzODU3MTUxOCwtMT
+A3Mjc3NjkyNSwtMTk2Mzg3MDgyOCw3MDQzNjYzMjAsLTMzMTIx
+MTgwMCwyODc2MTY3MjQsLTE5MzI2MzI0ODUsMTkyMTk4MTIxNy
+wxMTYwNjA5Njg1LC0xODAwNTQ4MTcwLDU5NjY4NDY5Miw1OTE3
+OTY2MjFdfQ==
 -->
