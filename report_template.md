@@ -264,7 +264,7 @@ Output videos are located in this repository on the folder *./output_videos*.
 In addition,  you may want to watch them in your browser using the following links:
 * [Project video solution](https://youtu.be/lyNLjPRfZ_8).
 * [Testing initial solution on challenge video](https://youtu.be/RNq73SDdllc) (This is a video for testing purposes).
-* [Testing initial solution on a harder challenge video](https://youtu.be/FhY_4tScF7M) (This is a seccond video for testing video).
+* [Testing initial solution on a harder challenge video](https://youtu.be/FhY_4tScF7M) (This is a seccond video for testing purposes).
 
 ---
 
@@ -328,11 +328,11 @@ I also have noticed that for some images *noisy binary images* during the image 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5ODQwOTM0LDMyMTcwMzM1MSwtMTQxOD
-E5NDY0MywtMTIzNzY5OTYwMywtMTg5NTUzMTA2MywxNTE5NzA5
-MTMyLC0yMDA5NTg1MTk4LDEwMzU1MTg3MzMsLTE4Mjg5NzgwNz
-YsNTY5OTUzMDMsMjgyMzcyNzcxLDQzODU3MTUxOCwtMTA3Mjc3
-NjkyNSwtMTk2Mzg3MDgyOCw3MDQzNjYzMjAsLTMzMTIxMTgwMC
-wyODc2MTY3MjQsLTE5MzI2MzI0ODUsMTkyMTk4MTIxNywxMTYw
-NjA5Njg1XX0=
+eyJoaXN0b3J5IjpbLTg1ODY1MDI1NCw2Mjk4NDA5MzQsMzIxNz
+AzMzUxLC0xNDE4MTk0NjQzLC0xMjM3Njk5NjAzLC0xODk1NTMx
+MDYzLDE1MTk3MDkxMzIsLTIwMDk1ODUxOTgsMTAzNTUxODczMy
+wtMTgyODk3ODA3Niw1Njk5NTMwMywyODIzNzI3NzEsNDM4NTcx
+NTE4LC0xMDcyNzc2OTI1LC0xOTYzODcwODI4LDcwNDM2NjMyMC
+wtMzMxMjExODAwLDI4NzYxNjcyNCwtMTkzMjYzMjQ4NSwxOTIx
+OTgxMjE3XX0=
 -->
